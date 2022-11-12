@@ -1,0 +1,2135 @@
+Cutthroat1	Bartuc's Cut-Throat
+ModStr5d	Maximum Stamina
+Mauler	Mauler
+StrSkill41	 damage
+D2bnetHelp13	/whisper <*accountname>, /w <*accountname>
+D2bnetHelp13b	/msg <*accountname>, /m <*accountname>
+D2bnetHelp15	/squelch <*accountname>
+D2bnetHelp15b	/ignore <*accountname>
+D2bnetHelp16	/unsquelch <*accountname>
+D2bnetHelp16b	/unignore <*accountname>
+D2bnetHelp21	/ban <*accountname>
+D2bnetHelp23	/designate <*accountname>
+D2bnetHelp24	/kick <*accountname>
+D2bnetHelp26	/whois <*accountname>, /where <*accountname>
+D2bnetHelp26b	/whereis <*accountname>
+D2bnetHelp32	/stats <*accountname> <programID>
+x	hell
+x	nightmare
+x	normal
+x	SELECT DIFFICULTY
+ModStr6e	Slower Stamina Drain
+xhm	Winged Helm
+Hsarus' Defense	Hsarus' Defense
+strModEnhancedDamage	Enhanced Damage\n
+strModAllResistances	All Resistances +%d
+strModAllSkillLevels	+%d to All Skill Levels
+strModFireDamage	+%d Fire Damage
+strModFireDamageRange	Adds %d-%d Fire Damage
+strModColdDamage	+%d Cold Damage
+strModColdDamageRange	Adds %d-%d Cold Damage
+strModLightningDamage	+%d Lightning Damage
+strModLightningDamageRange	Adds %d-%d Lightning Damage
+strModMagicDamage	+%d Magic Damage
+strModMagicDamageRange	Adds %d-%d Magic Damage
+strModPoisonDamage	+%d Poison Damage over %d seconds
+strModPoisonDamageRange	Adds %d-%d Poison Damage over %d seconds
+strModMinDamage	+%d Damage
+strModMinDamageRange	Adds %d-%d Damage
+strModEnhancedDamage	Enhanced Damage
+ModStre9j	Fire Damage Reduced by
+ModStre9k	Cold Damage Reduced by
+ModStre9l	Lightning Damage Reduced by
+ModStre9m	Poison Damage Reduced by
+ModStre9n	Absorbs Magic Damage
+ModStre9o	Absorbs Fire Damage
+ModStre9p	Absorbs Cold Damage
+ModStre9q	Absorbs Lightning Damage
+ModStre9r	Absorbs Poison Damage
+of the Wraith	of the Wraith
+of Equilibrium	of Equilibrium
+Valkyrie's	Valkyrie's
+Maiden's	Maiden's
+Blank	Void
+strEskilllighttoattack	 to your attack
+StrSklTabItem1	+%d to Javelin and Spear Skills
+StrSklTabItem2	+%d to Passive and Magic Skills
+StrSklTabItem3	+%d to Bow and Crossbow Skills
+StrSklTabItem4	+%d to Defensive Auras
+StrSklTabItem5	+%d to Offensive Auras
+StrSklTabItem6	+%d to Combat Skills
+StrSklTabItem6	+%d to Summoning Skills
+StrSklTabItem7	+%d to Poison and Bone Skills
+StrSklTabItem8	+%d to Curses
+StrSklTabItem10	+%d to Warcries
+StrSklTabItem11	+%d to Combat Skills
+StrSklTabItem12	+%d to Masteries
+StrSklTabItem13	+%d to Cold Skills
+StrSklTabItem14	+%d to Lightning Skills
+StrSklTabItem15	+%d to Fire Skills
+StrSklTabItem16	+%d to Summoning Skills
+StrSklTabItem17	+%d to Shape Shifting Skills
+StrSklTabItem18	+%d to Elemental Skills
+StrSklTabItem19	+%d to Traps
+StrSklTabItem20	+%d to Shadow Disciplines
+StrSklTabItem21	+%d to Martial Arts
+x	The character '%s' has not been used for over 3 months and has expired.
+upgraderestrictEx	No Magic, Socketed, Rare, Unique, or Set Items. No Jewelry. No Nothing, punk.
+UndeadDescriptX	Undead
+DemonID	Demon
+strScaryMonDescA	
+strScaryMonDescB	Immune to all Damage
+strScaryMonDesc1	Immune to Fire
+strScaryMonDesc2	Immune to Cold
+strScaryMonDesc3	Immune to Lightning
+strScaryMonDesc4	Immune to Poison
+strScaryMonDesc5	Immune to Physical
+strScaryMonDesc6	Immune to Magic
+PlayerNameOnItemstring	%s's
+PlayerNameOnItemstringX	%s'
+SetItemFormatX	%0
+x	softcore ladder
+x	hardcore ladder
+D2bnetHelp47a	The EXPANSION LADDER displays the top characters, ranked by experience. The default setting displays overall rankings, but you can view sorted lists after selecting the By Class option.
+D2bnetHelp48a	The EXPANSION HARDCORE LADDER displays the top Hardcore characters, ranked by experience. The default setting displays overall rankings, but you can view sorted lists after selecting By Class option.
+x	Repair All
+x	Repair all equipment: 
+x	No equipped items need repairing
+Druid	Druid
+Assassin	Assassin
+partychardru	Druid
+partycharass	Assassin
+x	Unable to enter game. A Diablo II character cannot join a game created by a Diablo II Expansion character.
+x	Unable to enter game. A Diablo II Expansion character cannot join a game created by a Diablo II character.
+charmonsterX	%s: %d%%
+charmontohit1X	Strength Damage Bonus:
+charmontohit2X	Dexterity Damage Bonus:
+Party1X	%s signed a suicide pact with you.
+Party2X	%s signed a suicide pact with you.
+Party10	%s no longer allows you to access his corpse.
+Party11	%s no longer allows you to access her corpse.
+Party12	You are hostile towards each other.
+Party13	%s is hostile to you, but you are friendly to him.
+Party14	%s is hostile to you, but you are friendly to her.
+Party 15	%s is friendly to you, but you are hostile to him.
+Party16	%s is friendly to you, but you are hostile to her.
+Party17	You are friendly to each other.
+Party18	You may loot each other's corpse.
+Party19	%s may loot your corpse, but you may not loot his.
+Party20	%s may loot your corpse, but you may not loot hers.
+Party21	%s may not loot your corpse, but you may loot his.
+Party22	%s may not loot your corpse, but you may loot hers.
+Party23	Neither of you may loot the other's corpse.
+Civerb's Ward	Civerb's Ward
+Civerb's Icon	Civerb's Icon
+Civerb's Cudgel	Civerb's Cudgel
+Hsarus' Iron Heel	Hsarus' Iron Heel
+Hsarus' Iron Fist	Hsarus' Iron Fist
+Hsarus' Iron Stay	Hsarus' Iron Stay
+Cleglaw's Tooth	Cleglaw's Tooth
+Cleglaw's Claw	Cleglaw's Claw
+Cleglaw's Pincers	Cleglaw's Pincers
+Iratha's Cord	Iratha's Cord
+Iratha's Coil	Iratha's Coil
+Iratha's Cuff	Iratha's Cuff
+Iratha's Collar	Iratha's Collar
+Isenhart's Horns	Isenhart's Horns
+Isenhart's Case	Isenhart's Case
+Isenhart's Parry	Isenhart's Parry
+Isenhart's Lightbrand	Isenhart's Lightbrand
+Vidala's Snare	Vidala's Snare
+Vidala's Ambush	Vidala's Ambush
+Vidala's Fetlock	Vidala's Fetlock
+Vidala's Barb	Vidala's Barb
+Milabrega's Robe	Milabrega's Robe
+Milabrega's Diadem	Milabrega's Diadem
+Milabrega's Rod	Milabrega's Rod
+Milabrega's Orb	Milabrega's Orb
+Cathan's Seal	Cathan's Seal
+Cathan's Sigil	Cathan's Sigil
+Cathan's Visage	Cathan's Visage
+Cathan's Mesh	Cathan's Mesh
+Cathan's Rule	Cathan's Rule
+Tancred's Crowbill	Tancred's Crowbill
+Tancred's Spine	Tancred's Spine
+Tancred's Hobnails	Tancred's Hobnails
+Tancred's Weird	Tancred's Weird
+Tancred's Skull	Tancred's Skull
+Sigon's Visor	Sigon's Visor
+Sigon's Shelter	Sigon's Shelter
+Sigon's Gage	Sigon's Gage
+Sigon's Sabot	Sigon's Sabot
+Sigon's Wrap	Sigon's Wrap
+Sigon's Guard	Sigon's Guard
+Infernal Cranium	Infernal Cranium
+Infernal Torch	Infernal Torch
+Infernal Sign	Infernal Sign
+Berserker's Headgear	Berserker's Headgear
+Berserker's Hauberk	Berserker's Hauberk
+Berserker's Hatchet	Berserker's Hatchet
+Death's Hand	Death's Hand
+Death's Guard	Death's Guard
+Death's Touch	Death's Touch
+Angelic Sickle	Angelic Sickle
+Angelic Mantle	Angelic Mantle
+Angelic Halo	Angelic Halo
+Angelic Wings	Angelic Wings
+Arctic Horn	Arctic Horn
+Arctic Furs	Arctic Furs
+Arctic Binding	Arctic Binding
+Arctic Mitts	Arctic Mitts
+Arcanna's Sign	Arcanna's Sign
+Arcanna's Deathwand	Arcanna's Deathwand
+Arcanna's Head	Arcanna's Head
+Arcanna's Flesh	Arcanna's Flesh
+skillxname0	 
+skillxsd0	 
+skillxld0	 
+skillxan0	 
+skillxname1	 
+skillxsd1	 
+skillxld1	 
+skillxan1	 
+skillxname2	 
+skillxsd2	 
+skillxld2	 
+skillxan2	 
+skillxname3	 
+skillxsd3	 
+skillxld3	 
+skillxan3	 
+skillxname4	 
+skillxsd4	 
+skillxld4	 
+skillxan4	 
+skillxname5	 
+skillxsd5	 
+skillxld5	 
+skillxan5	 
+skillxname6	 
+skillxsd6	 
+skillxld6	 
+skillxan6	 
+skillxname7	 
+skillxsd7	 
+skillxld7	or bolts with fire\nmagically enhances your arrows
+skillxan7	 
+skillxname8	 
+skillxsd8	 
+skillxld8	cold arrows only do half of their regular damage\nby adding cold damage and a slowing effect\nmagically enhances your arrows or bolts
+skillxan8	 
+skillxname9	 
+skillxsd9	 
+skillxld9	 
+skillxan9	 
+skillxname10	 
+skillxsd10	 
+skillxld10	 
+skillxan10	 
+skillxname11	 
+skillxsd11	 
+skillxld11	cold arrows only do half of their regular damage\nby adding cold damage and a slowing effect\nmagically enhances your arrows or bolts
+skillxan11	 
+skillxname12	 
+skillxsd12	 
+skillxld12	 
+skillxan12	 
+skillxname13	 
+skillxsd13	 
+skillxld13	 
+skillxan13	 
+skillxname14	 
+skillxsd14	 
+skillxld14	 
+skillxan14	 
+skillxname15	 
+skillxsd15	 
+skillxld15	 
+skillxan15	 
+skillxname16	 
+skillxsd16	 
+skillxld16	contact, damaging all nearby enemies\nenchants an arrow or bolt that explodes on
+skillxan16	 
+skillxname17	 
+skillxsd17	 
+skillxld17	 
+skillxan17	 
+skillxname18	 
+skillxsd18	 
+skillxld18	 
+skillxan18	 
+skillxname19	 
+skillxsd19	 
+skillxld19	 
+skillxan19	 
+skillxname20	 
+skillxsd20	 
+skillxld20	 
+skillxan20	 
+skillxname21	 
+skillxsd21	 
+skillxld21	to freeze your enemies\nmagically enhances your arrow or bolt
+skillxan21	 
+skillxname22	 
+skillxsd22	 
+skillxld22	 
+skillxan22	 
+skillxname23	 
+skillxsd23	 
+skillxld23	 
+skillxan23	 
+skillxname24	 
+skillxsd24	 
+skillxld24	 
+skillxan24	 
+skillxname25	 
+skillxsd25	 
+skillxld25	 
+skillxan25	 
+skillxname26	 
+skillxsd26	 
+skillxld26	 
+skillxan26	 
+skillxname27	 
+skillxsd27	 
+skillxld27	creates a pyre upon impact\ncause severe fire damage and\nenhances arrows or bolts to
+skillxan27	 
+skillxname28	 
+skillxsd28	 
+skillxld28	 
+skillxan28	 
+skillxname29	 
+skillxsd29	 
+skillxld29	 
+skillxan29	 
+skillxname30	 
+skillxsd30	 
+skillxld30	 
+skillxan30	 
+skillxname31	 
+skillxsd31	 
+skillxld31	to freeze entire groups of monsters\nmagically enhances an arrow or bolt
+skillxan31	 
+skillxname32	 
+skillxsd32	 
+skillxld32	 
+skillxan32	 
+skillxname33	 
+skillxsd33	 
+skillxld33	 
+skillxan33	 
+skillxname34	 
+skillxsd34	 
+skillxld34	 
+skillxan34	 
+skillxname35	 
+skillxsd35	 
+skillxld35	 
+skillxan35	 
+skillxname36	 
+skillxsd36	 
+skillxld36	 
+skillxan36	 
+skillxname37	 
+skillxsd37	 
+skillxld37	 
+skillxan37	 
+skillxname38	 
+skillxsd38	 
+skillxld38	 
+skillxan38	 
+skillxname39	 
+skillxsd39	 
+skillxld39	 
+skillxan39	 
+skillxname40	 
+skillxsd40	 
+skillxld40	 
+skillxan40	 
+skillxname41	 
+skillxsd41	 
+skillxld41	 
+skillxan41	 
+skillxname42	 
+skillxsd42	 
+skillxld42	of all nearby enemies\ncreates an electrical field that reduces life
+skillxan42	 
+skillxname43	 
+skillxsd43	 
+skillxld43	 
+skillxan43	 
+skillxname44	 
+skillxsd44	 
+skillxld44	 
+skillxan44	 
+skillxname45	 
+skillxsd45	 
+skillxld45	 
+skillxan45	 
+skillxname46	 
+skillxsd46	 
+skillxld46	 
+skillxan46	 
+skillxname47	 
+skillxsd47	 
+skillxld47	 
+skillxan47	 
+skillxname48	 
+skillxsd48	 
+skillxld48	 
+skillxan48	 
+skillxname49	 
+skillxsd49	 
+skillxld49	 
+skillxan49	 
+skillxname50	 
+skillxsd50	 
+skillxld50	 
+skillxan50	 
+skillxname51	 
+skillxsd51	 
+skillxld51	 
+skillxan51	 
+skillxname52	 
+skillxsd52	 
+skillxld52	 
+skillxan52	 
+skillxname53	 
+skillxsd53	 
+skillxld53	 
+skillxan53	 
+skillxname54	 
+skillxsd54	 
+skillxld54	 
+skillxan54	 
+skillxname55	 
+skillxsd55	 
+skillxld55	 
+skillxan55	 
+skillxname56	 
+skillxsd56	 
+skillxld56	 
+skillxan56	 
+skillxname57	 
+skillxsd57	 
+skillxld57	 
+skillxan57	 
+skillxname58	 
+skillxsd58	 
+skillxld58	 
+skillxan58	 
+skillxname59	 
+skillxsd59	 
+skillxld59	 
+skillxan59	 
+skillxname60	 
+skillxsd60	 
+skillxld60	 
+skillxan60	 
+skillxsname61	 
+skillxsd61	 
+skillxld61	 
+skillxan61	 
+skillxname62	 
+skillxsd62	 
+skillxld62	 
+skillxan62	 
+skillxname63	 
+skillxsd63	passive - increases lightning damage
+skillxld63	passive - increases all damage caused by your lightning spells
+skillxan63	 
+skillxname64	 
+skillxsd64	 
+skillxld64	 
+skillxan64	 
+skillxname65	 
+skillxsd65	 
+skillxld65	 
+skillxan65	 
+skillxname66	 
+skillxsd66	 
+skillxld66	 
+skillxan66	 
+skillxname67	 
+skillxsd67	 
+skillxld67	 
+skillxan67	 
+skillxname68	 
+skillxsd68	 
+skillxld68	 
+skillxan68	 
+skillxname69	 
+skillxsd69	 
+skillxld69	 
+skillxan69	 
+skillxname70	 
+skillxsd70	 
+skillxld70	 
+skillxan70	 
+skillxname71	 
+skillxsd71	 
+skillxld71	 
+skillxan71	 
+skillxname72	 
+skillxsd72	 
+skillxld72	 
+skillxan72	 
+skillxname73	 
+skillxsd73	 
+skillxld73	 
+skillxan73	 
+skillxname74	 
+skillxsd74	 
+skillxld74	 
+skillxan74	 
+skillxname75	 
+skillxsd75	 
+skillxld75	 
+skillxan75	 
+skillxname76	 
+skillxsd76	 
+skillxld76	 
+skillxan76	 
+skillxname77	 
+skillxsd77	 
+skillxld77	 
+skillxan77	 
+skillxname78	 
+skillxsd78	 
+skillxld78	 
+skillxan78	 
+skillxname79	 
+skillxsd79	 
+skillxld79	 
+skillxan79	 
+skillxname80	 
+skillxsd80	 
+skillxld80	 
+skillxan80	 
+skillxname81	 
+skillxsd81	 
+skillxld81	 
+skillxan81	 
+skillxname82	 
+skillxsd82	 
+skillxld82	 
+skillxan82	 
+skillxname83	 
+skillxsd83	 
+skillxld83	 
+skillxan83	 
+skillxname84	 
+skillxsd84	 
+skillxld84	 
+skillxan84	 
+skillxname85	 
+skillxsd85	 
+skillxld85	 
+skillxan85	 
+skillxname86	 
+skillxsd86	 
+skillxld86	this curse may not be overridden by another curse\ntarget of all nearby monsters\ncurses a monster to become the
+skillxan86	 
+skillxname87	 
+skillxsd87	 
+skillxld87	 
+skillxan87	 
+skillxname88	 
+skillxsd88	 
+skillxld88	 
+skillxan88	 
+skillxname89	 
+skillxsd89	 
+skillxld89	 
+skillxan89	 
+skillxname90	 
+skillxsd90	 
+skillxld90	 
+skillxan90	 
+skillxname91	 
+skillxsd91	 
+skillxld91	 
+skillxan91	 
+skillxname92	 
+skillxsd92	 
+skillxld92	 
+skillxan92	 
+skillxname93	 
+skillxsd93	 
+skillxld93	 
+skillxan93	 
+skillxname94	 
+skillxsd94	 
+skillxld94	 
+skillxan94	 
+skillxname95	 
+skillxsd95	 
+skillxld95	 
+skillxan95	 
+skillxname96	 
+skillxsd96	 
+skillxld96	 
+skillxan96	 
+skillxname97	 
+skillxsd97	 
+skillxld97	 
+skillxan97	 
+skillxname98	 
+skillxsd98	 
+skillxld98	 
+skillxan98	 
+skillxname99	 
+skillxsd99	 
+skillxld99	 
+skillxan99	 
+skillxname100	 
+skillxsd100	 
+skillxld100	 
+skillxan100	 
+skillxname101	 
+skillxsd101	 
+skillxld101	 
+skillxan101	 
+skillxname102	 
+skillxsd102	 
+skillxld102	 
+skillxan102	 
+skillxname103	 
+skillxsd103	 
+skillxld103	 
+skillxan103	 
+skillxname104	 
+skillxsd104	 
+skillxld104	 
+skillxan104	 
+skillxname105	 
+skillxsd105	 
+skillxld105	 
+skillxan105	 
+skillxname106	 
+skillxsd106	 
+skillxld106	 
+skillxan106	 
+skillxname107	 
+skillxsd107	 
+skillxld107	 
+skillxan107	 
+skillxname108	 
+skillxsd108	 
+skillxld108	 
+skillxan108	 
+skillxname109	 
+skillxsd109	 
+skillxld109	 
+skillxan109	 
+skillxname110	 
+skillxsd110	 
+skillxld110	 
+skillxan110	 
+skillxname111	 
+skillxsd111	 
+skillxld111	 
+skillxan111	 
+skillxname112	 
+skillxsd112	 
+skillxld112	 
+skillxan112	 
+skillxname113	 
+skillxsd113	 
+skillxld113	 
+skillxan113	 
+skillxname114	 
+skillxsd114	 
+skillxld114	 
+skillxan114	 
+skillxname115	 
+skillxsd115	 
+skillxld115	 
+skillxan115	 
+skillxname116	 
+skillxsd116	 
+skillxld116	 
+skillxan116	 
+skillxname117	 
+skillxsd117	 
+skillxld117	 
+skillxan117	 
+skillxname118	 
+skillxsd118	 
+skillxld118	adds lightning damage to your attack\nto damage nearby enemies\nwhen active, aura causes pulses of electricity
+skillxan118	 
+skillxname119	 
+skillxsd119	 
+skillxld119	 
+skillxan119	 
+skillxname120	 
+skillxsd120	 
+skillxld120	 
+skillxan120	 
+skillxname121	 
+skillxsd121	 
+skillxld121	 
+skillxan121	 
+skillxname122	 
+skillxsd122	aura - increases attack speed and damage
+skillxld122	and attack rating for you and your party\nwhen active, aura increases damage, attack speed,
+skillxan122	 
+skillxname123	 
+skillxsd123	aura - weakens enemies
+skillxld123	 
+skillxan123	 
+skillxname124	 
+skillxsd124	 
+skillxld124	you life and mana\nthe souls of slain enemies to give\nwhen active, aura attempts to redeem
+skillxan124	 
+skillxname125	 
+skillxsd125	 
+skillxld125	 
+skillxan125	 
+skillxname126	 
+skillxsd126	 
+skillxld126	 
+skillxan126	 
+skillxname127	 
+skillxsd127	 
+skillxld127	 
+skillxan127	 
+skillxname128	 
+skillxsd128	 
+skillxld128	 
+skillxan128	 
+skillxname129	 
+skillxsd129	 
+skillxld129	 
+skillxan129	 
+skillxname130	 
+skillxsd130	 
+skillxld130	 
+skillxan130	 
+skillxname131	 
+skillxsd131	 
+skillxld131	 
+skillxan131	 
+skillxname132	 
+skillxsd132	 
+skillxld132	 
+skillxan132	 
+skillxname133	 
+skillxsd133	 
+skillxld133	 
+skillxan133	 
+skillxname134	 
+skillxsd134	 
+skillxld134	 
+skillxan134	 
+skillxname135	 
+skillxsd135	 
+skillxld135	 
+skillxan135	 
+skillxname136	 
+skillxsd136	 
+skillxld136	 
+skillxan136	 
+skillxname137	 
+skillxsd137	 
+skillxld137	 
+skillxan137	 
+skillxname138	 
+skillxsd138	 
+skillxld138	 
+skillxan138	 
+skillxname139	 
+skillxsd139	 
+skillxld139	 
+skillxan139	 
+skillxname140	 
+skillxsd140	 
+skillxld140	 
+skillxan140	 
+skillxname141	 
+skillxsd141	 
+skillxld141	 
+skillxan141	 
+skillxname142	 
+skillxsd142	 
+skillxld142	 
+skillxan142	 
+skillxname143	 
+skillxsd143	 
+skillxld143	 
+skillxan143	 
+skillxname144	 
+skillxsd144	 
+skillxld144	 
+skillxan144	 
+skillxname145	 
+skillxsd145	 
+skillxld145	 
+skillxan145	 
+skillxname146	 
+skillxsd146	 
+skillxld146	 
+skillxan146	 
+skillxname147	 
+skillxsd147	 
+skillxld147	 
+skillxan147	 
+skillxname148	 
+skillxsd148	 
+skillxld148	 
+skillxan148	 
+skillxname149	 
+skillxsd149	 
+skillxld149	 
+skillxan149	 
+skillxname150	 
+skillxsd150	 
+skillxld150	 
+skillxan150	 
+skillxname151	 
+skillxsd151	 
+skillxld151	 
+skillxan151	 
+skillxname152	 
+skillxsd152	 
+skillxld152	 
+skillxan152	 
+skillxname153	 
+skillxsd153	 
+skillxld153	 
+skillxan153	 
+skillxname154	 
+skillxsd154	 
+skillxld154	 
+skillxan154	 
+skillxname155	 
+skillxsd155	 
+skillxld155	 
+skillxan155	 
+strHostileTimeout	You must wait a short time to declare hostility with that player.
+ShrId0	Null Shrine
+ShrId1	Refilling Shrine
+ShrId2	Health Shrine
+ShrId3	Mana Shrine
+ShrId4	Health Exchange Shrine
+ShrId5	Mana Exchange Shrine
+ShrId6	Armor Shrine
+ShrId7	Combat Shrine
+ShrId8	Resist Fire Shrine
+ShrId9	Resist Cold Shrine
+ShrId10	Resist Lightning Shrine
+ShrId11	Resist Poison Shrine
+ShrId12	Skill Shrine
+ShrId13	Mana Recharge Shrine
+ShrId14	Stamina Shrine
+ShrId15	Experience Shrine
+ShrId16	Enirhs Shrine
+ShrId17	Portal Shrine
+ShrId18	Gem Shrine
+ShrId19	Fire Shrine
+ShrId20	Monster Shrine
+ShrId21	Exploding Shrine
+ShrId22	Poison Shrine
+x	create new
+CfgSkillPick	Skill Speed Bar
+x	Verify Password
+MercX101	Varaya
+MercX102	Khan
+MercX103	Klisk
+MercX104	Bors
+MercX105	Brom
+MercX106	Wiglaf
+MercX107	Hrothgar
+MercX108	Scyld
+MercX109	Healfdane
+MercX110	Heorogar
+MercX111	Halgaunt
+MercX112	Hygelac
+MercX113	Egtheow
+MercX114	Bohdan
+MercX115	Wulfgar
+MercX116	Hild
+MercX117	Heatholaf
+MercX118	Weder
+MercX119	Vikhyat
+MercX120	Unferth
+MercX121	Sigemund
+MercX122	Heremod
+MercX123	Hengest
+MercX124	Folcwald
+MercX125	Frisian
+MercX126	Bashir
+MercX127	Guthlaf
+MercX128	Oslaf
+MercX129	Yrmenlaf
+MercX130	Garmund
+MercX131	Lanth
+MercX132	Eadgils
+MercX133	Onela
+MercX134	Damien
+MercX135	Erfor
+MercX136	Weohstan
+MercX137	Wulf
+MercX138	Bulwye
+MercX139	Lief
+MercX140	Magnus
+MercX141	Klatu
+MercX142	Drus
+MercX143	Hoku
+MercX144	Kord
+MercX145	Uther
+MercX146	Ip
+MercX147	Ulf
+MercX148	Tharr
+MercX149	Kaelim
+MercX150	Ulric
+MercX151	Alaric
+MercX152	Ethelred
+MercX153	Caden
+MercX154	Elgifu
+MercX155	Tostig
+MercX156	Alcuin
+MercX157	Emund
+MercX158	Sigurd
+MercX159	Gorm
+MercX160	Hollis
+MercX161	Ragnar
+MercX162	Torkel
+MercX163	Wulfstan
+MercX164	Alban
+MercX165	Barloc
+MercX166	Bill
+MercX167	Theodoric
+r16	ÿc;Io Rune
+r16L	Io
+r13	ÿc;Shael Rune
+r13L	Shael
+r31	ÿc;Jah Rune
+r31L	Jah
+DarkStalker	Dark Stalker
+VileArcher	Vile Archer
+Runeword22	Delirium
+Whichwild String	Witchwild String
+x	This application was installed using a Lord of Destruction CD Key which is not authorized for Battle.net use.
+x	The Lord of Destruction CD Key that you installed with has been disabled. Please contact Blizzard Entertainment Technical Support for further assistance.
+x	Your Lord of Destruction CD key is currently being used by:
+x	The Lord of Destruction CD key used to install this application was intended for another product. Please reinstall this application using the correct CD key.
+Playersubtitles29	Retreat!
+AmaOnly	(Amazon Only)
+SorOnly	(Sorceress Only)
+NecOnly	(Necromancer Only)
+PalOnly	(Paladin Only)
+BarOnly	(Barbarian Only)
+DruOnly	(Druid Only)
+AssOnly	(Assassin Only)
+Chatcaps	CHAT
+Newscaps	NEWS
+Laddercaps	LADDER
+LaddeCharacter	Ladder Character
+x	A Ladder Character can only be played with other Ladder characters during the Ladder Season when it was created. After the Ladder Season is over, then the Ladder character will become a Non-Ladder Character. Continue?
+x	Unable to enter game. A Non-Ladder character cannot join a game created by a Ladder character.
+x	Unable to enter game. A Ladder character cannot join a game created by a Non-Ladder character.
+Sksyn	Synergies
+Damplev	% Physical Damage per Base Level
+ElemDampLev	Elemental Damage per Level
+Firedplev	Fire Damage per Level
+Colddplev	Cold Damage per Level
+Ltngdplev	Lightning Damage per Level
+Poisdplev	% Poison Damage per Base Level
+Magdplev	Magic Damage per Level
+Rangplev	Yards per Level
+RateFireplev	Rate of Fire per Level
+AttRateplev	Attack Rating per Level
+AttSpeedplev	Attack Speed per Level
+Defplev	Defense per Level
+Manacoredplev	Mana Cost per Level
+Missplev1	Missiles per Level
+Missplev2	+1 Missile per Level
+Missplev3	+1 Missile per %d Levels
+Boltplev1	Bolts per Level
+Boltplev2	+1 Bolt per Level
+Boltplev3	+1 Bolt per %d Levels
+Shotplev1	Shots per Level
+Shotplev2	+1 Shot per Level
+Shotplev3	+1 Shot per %d Levels
+Hpplev	Life per Level
+WRSpeedplev	Walk/Run Speed per Level
+Durateplev	Duration per Level
+CoLenplev	Cold Length per Level
+FrezLenplev	Freeze Length per Level
+PoisLenplev	Poison Length per Level
+Convphy2magplev	Converts %d%% Physical Damage to Magic per Level
+Convphy2elemplev	Converts %d%% Physical Damage to Elemental per Level
+Convphy2magalt	Converts %d%% Physical Damage to Elemental
+Convphy2elemalt	Converts %d%% Physical Damage to Magic
+Secplev1	Second per Level
+Secplev2	Seconds per Level
+Damabsplev	Damage Absorbed per Level
+WeapDamsk	Weapon Damage
+Hbdplev	Holy Bolt Damage per Level
+Healplev	Life Healed per Level
+Healplev2	Life Healed Every 2 Seconds
+FanYDam	Your Damage: 
+PartDam	Party Damage: 
+AFDImm	Average Fire Damage per Second per Level
+Cgslow	Slows Enemies: 
+Corexpdam	Corpse Explosion Damage: 
+ModitemAura	Level %d %s Aura When Equipped
+Moditem2allattrib	to all Attributes
+Moditem2ExpG	to Experience Gained
+ModitemHPaK	Life after each Kill
+ModitemRedVendP	to All Vendor Prices
+ModitemSMRIP	Slain Monsters Rest in Peace
+ModitemAttratvsM	to Attack Rating versus
+Moditemdamvsm	to Damage versus
+Moditemslayat	Slaying:
+Moditemreanimas	Reanimate as:
+Moditemenrescoldsk	to Enemy Cold Resistance
+Moditemenresfiresk	to Enemy Fire Resistance
+Moditemenresltngsk	to Enemy Lightning Resistance
+Moditemenrespoissk	to Enemy Poison Resistance
+ModitemdamFiresk	to Fire Spell Damage
+ModitemdamColdsk	to Cold Spell Damage
+ModitemdamLtngsk	to Lightning Spell Damage
+ModitemdamPoissk	to Poison Spell Damage
+Moditemskondeath	%d%% Chance to cast level %d %s when you Die
+ModitemskonLevel	%d%% Chance to cast level %d %s when you Level-Up
+ModitemskonKill	%d%% Chance to cast level %d %s on Kill
+Skillname224	Werewolf
+Skillsd224	transform into a werewolf
+Skillld224	transform into a werewolf
+Skillan224	Werewolf
+StrSkill43a	 skeleton mage
+StrSkill44a	 skeleton magi
+StrSklTabItem9	+%d to Summoning Skills
+SOJSold	%d Stones of Jordan Sold to Merchants
+DiabloWalksEarth	Diablo Walks the Earth
+neg	Hellspawn Skull
+TrappDoor	Trap Door
+uhf	Legendary Mallet
+skillxld124P	your life and mana\nthe souls of slain enemies to give\nwhen active, aura attempts to redeem
+7wa	Berserker Axe
+skillld42	of all nearby enemies\ncreates an electrical field that reduces life
+xhg	War Gauntlets
+Fiendra	Fiend
+Wraithra	Wraith
+Fiend	Fiend
+Wraith	Wraith
+D2bnetHelp10	ÿc3Blue Textÿc4 represents actions that have been taken by people in the chat Channel.
+ItemStats1r	Chance to Block: 
+x	Server is Full
+x	No new games can be created right now, Please Join a game or try later.
+merca239	Jarulf
+StrSkill63Patch	over 
+x	You are in line to create a game. Try joining a game to avoid waiting.
+X	Game Queue
+x	Too many games have been created. Please join one instead or await your turn in the Game Queue
+x	Your position in line is: 
+x	In the Game Queue
+9bl	Stiletto
+eats and spits corpses	Eats and Spits Corpses
+qstsa2q63f	Explore Tal Rasha's Tomb
+Shocking Hit	Shocking Hit
+ModStrCuck2	unused
+ModStrCuck1	unused
+ModStr3u	Hit Causes Monster to Flee
+ModStr4c	Bonus to Attack Rating
+UNUSED1036	Slows Target by
+ModStr6f	Chance to Reanimate Target
+ModStr6d	Hit Blinds Target
+x	Enter Host IP Address to Join Game
+StrSkill61	Multiple Hits
+D2bnetHelp13c	/reply
+D2bnethelp13d	Allows you to reply to a whisper without typing the account name
+D2bnetHelp52	/whisper, /msg, /reply
+D2bnetHelp10a	ÿc9 Yellow Textÿc4 represents special messages sent directly from battle.net
+BnetnewGameTime	Game Time:
+D2bnetHelp12c	When using advanced commands, you may also use character names for people in the same Realm, and character names @Realm for people in another Realm.
+D2bnetHelp12d	You must use *account names for anyone on battle.net including people in a different game such as Starcraft.
+D2bnetHelp12b	Wherever a command below calls for the use of <accountname>, please use either <charactername>, <charactername@Realm>, or <*accountname>.
+x	GATEWAY: %s
+x	change password
+x	Change Password
+x	Current Password
+x	New Password
+x	Verify New Password
+x	SELECT GATEWAY
+x	If the current gateway does not best represent your location, select another Battle.net gateway connection.
+x	CHANGE REALM
+x	Current Realm
+x	A character named '%s' already exists in this Realm.
+D2bnetHelp6a	ÿc5Gray Textÿc4 also represents actions that have been taken by people in the chat Channel.
+D2bnetHelp10aPatch	ÿc3Blue Textÿc4 represents special messages sent directly from battle.net or messages from a Blizzard Representative.
+x	SEND
+x	PASSWORD WARNING
+x	You are about to send your password to another user on Battle.net. Blizzard will never ask you for your password for any reason.
+x	CONNECTING...
+x	REALM DOWN
+x	More...
+x	You have more than 8 characters on this Diablo II Realm. Only 8 characters can be displayed at a time.
+x	To see more characters, you must delete one of your existing characters. This deletion is permanent. You will not be able to recover the deleted character.
+X	Terms of Service
+X	By logging on to Battle.net, you are certifying that you have read and agree to its current Terms of Service
+x	%0 %1
+GemXp1	Gloves, Belts, Boots:
+GemXp2	Shields:
+GemXp3	Weapons:
+GemXp4	Armor:
+expansionchar2x	EXPANSION CHARACTER
+x	Missing string
+EskillLowersResistX	Lowers Resistance 
+ExInsertSocketsX	Can be Inserted into Socketed Items
+EskillToMeleeX	 to melee attacks
+eskillincasemasteryX	%d Percent Chance of Critical Strike
+CfgSay7X	Say 'Retreat'
+champghostlyX	Ghostly
+champfanaticX	Fanatic
+champpossessedX	Possessed
+champberserkX	Berserker
+PalMercExST1X	Shapeshifter
+PalMercEXST3X	Fighter Mage
+PalMercEXST4X	Exemplar
+increaseswithplaylevelX	(Based on Character Level)
+RankX	Rank
+x	
+x	Entering your email address will enable extra features, such as the ability to recover your account should you forget your password. Visit median-xl.com for more information.\n
+x	Email Address:
+x	Verify Email Address:
+x	REGISTER
+x	DON'T REGISTER
+x	Please make sure that the two email addresses match.
+x	Invalid Email Address
+x	The email address you entered does not appear to be valid.  Please enter a valid email address.
+x	Without a registered email address, you will not be able to recover your account should you forget your password. You will not have another opportunity to register an email address with this account.
+x	If you have forgotten your password and you registered your email address with us for this account, you can request that a new password be sent to you by clicking Send.  Make sure to enter the email address that you registered for this account.
+x	Your request for a new password has been received. If you registered an email address for this account you will receive an email with instructions on how to complete your password change.
+x	CONTINUE
+x	Forgot your password? Click 'Account Settings'.
+x	Typing is hard. You can get a new and easier password by clicking 'Account Settings'.
+x	account settings
+x	Account Settings
+x	If you know your password and want to change it, click here.
+x	If you have forgotten your password or your password doesn't work, click here.
+DAntlers (Grade 6)	If you need to change your registered email address, click here.
+DAntlers (Sacred)	get new password
+DAspis (Grade 1)	Get New Password
+DAspis (Grade 2)	change email
+DAspis (Grade 3)	Change Email
+DAspis (Grade 4)	Old Email Address:
+DAspis (Grade 5)	New Email Address:
+DAspis (Grade 6)	Verify New Email Address:
+DAspis (Sacred)	If you registered an email address for this account then you can change it here. Note that both email addresses need to be active for you to make this change.
+DAssault Helmet (Grade 1)	The old and new email addresses you have entered are the same.  Please enter a different email address.
+DAssault Helmet (Grade 2)	Please make sure that the two new email addresses match.
+DAssault Helmet (Grade 3)	Latest News
+DAssault Helmet (Grade 4)	Last Difficulty Setting Completed:
+DAssault Helmet (Grade 5)	None
+DAssault Helmet (Grade 6)	enter chat
+DAssault Helmet (Sacred)	\nwww.median-xl.com\n
+DAthulua's Hand (Grade 1)	Unsafe Password
+DAthulua's Hand (Grade 2)	The password you've chosen is unsafe. Please choose a new one.
+DAthulua's Hand (Grade 3)	CDKEY WARNING
+DAthulua's Hand (Grade 4)	You cannot send your cdkey to another user on Battle.net. Blizzard will never ask you for your cdkey for any reason.
+DAthulua's Hand (Grade 5)	Expires Today
+DAthulua's Hand (Grade 6)	Expires in %d days
+DAthulua's Hand (Sacred)	RIP
+DAvenger Guard (Grade 1)	
+DAvenger Guard (Grade 2)	
+DAvenger Guard (Grade 3)	
+DAvenger Guard (Grade 4)	
+DAvenger Guard (Grade 5)	
+DAvenger Guard (Grade 6)	
+DAvenger Guard (Sacred)	
+DBanded Plate (Grade 1)	
+DBanded Plate (Grade 2)	A Diablo II character must be played in a game, or it will eventually expire. It will not expire until six months from the time it was last played.
+DBanded Plate (Grade 3)	A character that expires is deleted from the realm.
+DBanded Plate (Grade 4)	Your character '%s' has not been given enough attention and has died.
+DBanded Plate (Grade 5)	ÿc1Devouring Banded Plate
+DBanded Plate (Grade 6)	ÿc1Devouring Banded Plate
+DBanded Plate (Sacred)	ÿc1Devouring Banded Plate
+DBelt (Grade 1)	ÿc1Devouring Belt
+DBelt (Grade 2)	ÿc1Devouring Belt
+DBelt (Grade 3)	ÿc1Devouring Belt
+DBelt (Grade 4)	ÿc1Devouring Belt
+DBelt (Grade 5)	ÿc1Devouring Belt
+DBelt (Grade 6)	ÿc1Devouring Belt
+DBelt (Sacred)	ÿc1Devouring Belt
+DBlackguard Helm (Grade 1)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 2)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 3)	to Assassin Skills
+DBlackguard Helm (Grade 4)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 5)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 6)	The CD-Key you are currently using is disabled from playing realm games. You may continue playing the game in Single Player and Open Battle.net.
+DBlackguard Helm (Sacred)	Your connection has been temporarily restricted from this realm. Please try to log in at another time.
+toa	ÿc8Belladonna Extract
+DBladed Shield (Grade 2)	Twisted Essence of Suffering
+DBladed Shield (Grade 3)	Charged Essence of Hatred
+DBladed Shield (Grade 4)	Burning Essence of Terror
+DBladed Shield (Grade 5)	Item Level
+DBladed Shield (Grade 6)	Reset Stat/Skill Points
+DBladed Shield (Sacred)	ÿc1Devouring Bladed Shield
+x	-- BEGIN SIGMA CORE --
+x	The following lines are hardcoded -- Marco
+x	game settings
+x	save and exit
+x	resume game
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	-- END 1.1 --
+x	%ls to level lock\nA new quest has started
+Rusted	Rusted
+x	(Required Level: %d)
+Used	Used
+x	Closing in: %s
+x	Join another game to enter again\nThis area is locked
+x	ONCE YOU EXIT YOU CANNOT GO BACK
+LegionX	Legionnaire
+EternalVigil	Eternal Vigil
+TerrQ	Terror
+Leviath	Leviathan
+Peace	Peace
+Mana	Mana
+ZakQ	Zakarum
+DrQ	Dragon
+boxX	Box
+barrelX	Barrel
+spines	Spines
+slammer	Slammer
+prophetX	Prophet
+charmX	Charm
+strBodyLocItemHead	Helmet
+strBodyLocItemNeck	Necklace
+strBodyLocItemTorso	Body Armor
+strBodyLocItemRArm	Right Hand Item
+strBodyLocItemLArm	Left Hand Item
+strBodyLocItemRRin	Right Hand Ring
+strBodyLocItemLRin	Left Hand Ring
+strBodyLocItemBelt	Belt
+strBodyLocItemBoots	Boots
+strBodyLocItemGloves	Gloves
+strBodyLocItemRArmSwitch	Secondary Right Hand Item
+strBodylocItemLArmSwitch	Secondary Left Hand Item
+strDurabilityWarningDamaged	are damaged\nyour equipped items\none or more of
+strDurabilityWarningCritical	are heavily damaged\nyour equipped items\none or more of
+strDurabilityWarningBroken	are broken\nyour equipped items\none or more of
+strRaidNotif	this quest\nnamed ÿc8%Sÿc4 to join in\nactivated, join the game\nA new raid quest has been
+strRaidNotifOwnGame	activated in this game.\nA new raid quest has been
+StrAmmoWarningLow	have low ammunitions\nyour equipped items\none or more of
+StrAmmoWarningCritical	have very low ammunitions\nyour equipped items\none or more of
+StrAmmoWarningEmpty	are out of ammunitions\nyour equipped items\none or more of
+StrLevelUpNotif	Level up
+StrStatPointsNotif	New stat points
+StrSkillPointsNotif	New skill points
+StrQuestUpdateNotif	You've made new progress in a quest
+StrCfgTabHotkey	Settings\nControl
+StrCfgTitleHud	Interface and display settings
+StrCfgTabDisplay	Settings\nPreference
+StrCfgTitleNotifications	Notifications
+StrDisplayAlvl	Area Level: 
+x	Warp Blade
+CfgNoPickup	Toggle item pickup
+CfpMapReveal	Reveal map
+StrCfgSmallAutomap	Small automap
+StrCfgTitleAutomap	Automap options
+StrCfgTheme	Interface Theme
+CfgNotifGold	Gold gains and loss
+CfgNotifLevelUp	Level up
+CfgNotifNewStats	New stat points
+CfgNotifNewSkills	New skill points
+CfgNotifActiveBuffs	Show active buffs and debuffs
+CfgNotifRealmWhispers	Friends activity whispers
+CfgDisplayHp	Always show hitpoints
+CfgDisplayMp	Always show mana
+CfgDisplayGameTime	Show time spent in game
+CfgDisplayIlvl	Display item's level
+CfgDisplayGameName	Show game name
+CfgDisplayGamePwd	Show game password
+CfgDisplayAlvl	Show area level
+CfgVolume	Gameplay volume
+CfgMusicVolume	Music Volume
+CfgContrast	Contrast
+CfgGamma	Gamma
+x	Mana Shield: +20% Damage Reduction
+x	Self-Immolation damage per cast unchanged\n+3 seconds to Balefire Buff Duration
+x	Pagan Rites also Restores Mana
+1263	Superbeast adds Deadly Strike Instead of Spell Damage at 50% efficiency
+x	+30% Pierce Chance to Mind Flay
+x	+8 Storm Crows Projectiles After Being Struck
+x	+60 Attack Rating per Character Level Above 105\nLion Stance Does not Reduce Your Physical Resistance
+x	+40% Pierce Chance to Stormeye Totem
+x	+200% Fire Damage to Colosseum
+x	Graveyard: +2 Additional Projectiles
+x	Ragh nar Rook
+x	Dragon's Blessing Attribute Bonus Halved
+x	Mana Shield: 33% less Mana Drained when Hit
+x	Mana Shield: 95% less Mana Drained when Hit
+x	Moonbeam: Doubled Buff Duration
+x	50% of your Fire and Poison spell damage added as Defense Bonus
+UNUSED	+1000% Damage to Lightning Arena
+StrCfgAssignHotkey	or press any key to assign\npress DEL to unassign key\npress ESC to cancel
+x	You Cannot Deal Fire, Lightning or Poison Damage\nMax Life gained per point of Vitality reduced by 0.9\n100% of Vitality Added as Cold Damage to Weapon
+x	Remorseless Winter
+x	Knockback Enemies If You Have at Least 1000 Strength
+x	''Knowledge is Power''
+x	+2.5% Spell Damage per 1% Additional Experience Gain
+x	ÿc5+100% Bonus Magic Damage to Shower of Rocks\n+400% Bonus Magic Damage to Thunder Slam\n+300% Bonus Magic Damage to Earthquake\nÿc8If You Have no Points in the Stance Tree:
+x	ÿc1Deathlord Morph\nÿc8Parasite: +6 Targets
+x	Flamefront: +5 Maximum Projectiles
+x	+1% Deadly Strike Per Firedance Base Level
+x	Idol of Scosglen has no Cooldown
+1288	Ember Spirit: +15% Total Damage
+1289	Ember Spirit: +10% Total Damage
+x	Mana Sweep: +15% Total Damage, Leeches no Mana
+x	Fortress: +40% Pierce Chance
+x	+60% Pierce Chance to Fortress
+x	Celeri Caelesti Iustitia
+11294	20% of Lightning Resistance Added as Lightning Spell Damage
+x	+15% Physical Resist After Level 120\n+25% to Experience Gained Until Level 120
+x	Treewarden Morph
+x	Thundercrack: +100% Bonus Lightning Damage
+11298	ÿc5+8% to Physical/Magic Spell Damage\n+25% Total Character Defense\n+10 Life after each Kill\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11299	+180% Damage to The Zakarum
+x	ÿc5+20% to Elemental Resists\n+0.75% Base Block Chance\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+x	Worship the Crack Monkeys!
+x	Cannot be Unsocketed
+x	Drains 2% Life per Second
+x	+1 Hunting Banshee/Ember Spirit Projectile\nDrains 2% Life per Second
+x	+1 Hunting Banshee/Ember Spirit Projectile
+x	+2 Hunting Banshee Projectiles\nÿc8Ember Spirit Nullified
+x	+3 Ember Spirit Projectiles\nÿc8Hunting Banshee Nullified
+x	Random Elemental Resistance Bonus
+x	Random Movement Speed Bonus
+x	Tempest: +3 Projectiles
+x	+150% Total Familiar Damage
+x	+20 to Maximum Familiar Skill Level
+11313	Level 10 Nephalem Spirit Aura
+x	Spiral Dance: +300% Bonus Magic Damage
+x	+1% Physical Resist per 18% Mana Regeneration
+x	+1% Physical/Magic Spell Damage per 20 Vitality
+x	Cube with Rune to Open Time Rift\n
+x	-5% Deadly Strike per 1% Attack Speed\n+400% Deadly Strike
+x	Shieldmaiden: +15% Enhanced Weapon Damage per character level above 120
+11320	Cannot be Upgraded
+11321	+50% Pierce Chance to Mind Flay
+11322	Maelstrom MkI: +25% Bonus Magic Damage
+11323	-1% Cold Spell Damage per 1 Light Radius\n+3% Fire Spell Damage per 1 Light Radius\n+2 Spell Focus per 1 Light Radius
+11324	Level 20 Eagle Stance\nMind Flay: +2 Projectiles
+11325	Level 10 Wolf Stance
+11326	Adds 120% of Your Physical/Magic Spell Damage as Bonus Weapon Physical Damage\nAdds 120% of Your Fire Spell Damage as Bonus Weapon Physical Damage
+11327	-1% to Enemy Poison Resistance per 25 Strength
+11328	ÿc5Adds 75-150 Fire Damage\n+30% Attack Speed\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11329	Mana Pulse: +50% Duration
+11330	Adds 200% of Crushing Blow as Fire and Cold Spell Damage
+11331	+100% Bonus Magic Damage to Spiral Dance
+11332	Lightning Shield: +(18 to 30) Lightning Damage to Weapon per Skill Level\nThundergod Nova Deals 5000 Lightning Damage\nStormblast: +1 Projectile
+11333	Vessel of Judgement: +3 Targets
+11334	+1% Deadly Strike per 6% Fire Spell Damage\nTotal Defense Reduced by 25%
+11335	Death Shards: +50% Life Leech
+11336	3 Magic Missiles Projectiles
+11337	Level 1 Demon Blood Aura
+11338	Skills Cost Life Instead of Mana
+11339	ÿc5-10% to Enemy Poison Resistance\n+30 Life After Each Kill\n+2.5% Physical Resist\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11340	Vessel of Retribution: 0.7% Damage Leeched as Life
+11341	Queen of Blades: +2500 Lightning Damage to Blade Mines
+11342	-6% Enhanced Weapon Damage per 1% Crushing Blow
+11343	Kraken Stance: +3% Damage per Base Level in the Templar Tree\nLevel 30 Kraken Stance
+11344	Deal No Elemental or Magic Damage
+11345	Fear No Evil
+11346	50% of Your Total Character Defense Bonus Added as Vitality
+11347	ÿc5+600 Spell Focus\n+25% Physical Resist\n+33% Deadly Strike\n+100% Magic Find\n+50% Cast Speed\nÿc8Thundermaiden, Crimson Rite and Dragonlore:\nIf you have No Points in Lioness, Shieldmaiden,
+11348	Thunder Path: 150 Life after Each Kill\nHammer Path: -30% Enemy Lightning Resistance
+11349	Crucify: +14% Magic Damage per Base Level
+11350	Shadow Refuge: -1% to Enemy Fire, Cold and Lightning Resists per Base Level
+11351	+100% Duration to Solar Flare
+11352	Stampede Cooldown Cannot be Reduced Below 0.8 seconds
+11353	You may Only use Melee, Summon and Support Skills
+11354	Fire Pierce Reduces Cold Pierce\nFire Spell Damage Reduces Cold Spell Damage\nGlacial Nova: +150% Total Damage
+11355	ÿc5 20 Second Cooldown to All Lightning Tree Spells\nÿc8If You Have any Points in Vengeful Power, Living Flame or Snow Queen
+11356	Reckoning of Zerae: Double Power Shift Bounce Chance
+11357	+20% Deadly Strike If Wielded by a Player\n+100% Magic Find If Wielded by a Mercenary
+11358	Summon One Extra Necromancer Minion With Each Cast
+11359	Otherwise, -10% Total Mind Flay Damage\nIf You Have Not Been Hit Recently, +30% Total Mind Flay Damage
+11360	-3% Enemy Poison Resist per Snake Stance Base Level
+11361	ÿc5-1% to Enemy Fire and Lightning Resists per 60 Attributes\n+200% to Fire and Lightning Spell Damage\nAdds 3 - 5 Lightning Damage per 20 Attributes\nAdds 3 - 5 Fire Damage per 20 Attributes\nÿc8While Using Windform:
+11362	Minion Damage Also Increases Your Spell Damage at 50% Efficiency\n-1 to Maximum Totems
+11363	+1% Attack Speed per 20 Strength
+11364	ÿc5+0.5% to Maximum Elemental Resistances\n+250 to Life\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11365	Deal No Lightning Damage
+x	
+x	
+11368	Congratulations!
+11369	Cube after Killing Dark Star Dragon in Under 1 Minute and 30 Seconds
+11370	+8 to Maximum Forked Lightning Projectiles
+11371	Deal No Crushing Blows\nYour Attacks Ignore the Physical Resistance of the Undead\n40% of Minion Life Increases Added as Total Character Defense\n12% of Minion Damage Increases Added as Deadly Strike
+11372	(Max: 1 minute from each other)\nCube after Killing Imperius and Malthael
+11373	Cube with Essence/Runestone to Roll Stat
+11374	Can be Upgraded with Ghost Trance
+11375	Chance to Avoid Damage becomes 0%
+11376	Fire Elementals Gain 100% of Their Physical Damage as Fire
+11377	Adds 1 - 3 Fire, Cold and Lightning Damage to Weapon per 1 Spell Focus
+11378	+120% Weapon Physical Damage if Wielding a Scepter
+11379	ÿc5+1 Projectile to Iceburst\nÿc8While Dual Wielding This Weapon:
+11380	ÿc5 +100% Noctule Projectiles\nÿc8While Dual Wielding This Weapon:
+11381	You Cannot Summon Ice Elementals Directly
+11382	You Cannot Summon Blade Spirits Directly
+11383	ÿc8Level 8 Hellfire Aura
+11384	Death Ripple: +1 Projectile\nBane: +100% Duration
+11385	+33% Increased Leap Speed
+11386	Arrow Swarm: 50% More Projectiles
+11387	Sanguine Covenant Regenerates 3.5% of Maximum Life per Second
+11388	Ecstatic Frenzy Does Not Reduce Your Defense
+11389	Scorpion Blade: +2 Projectiles
+11390	Guardian Spirits Inherit 100% of Your Deadly Strike
+11391	Veil King: +100% Life and Damage
+11392	Deathlord Makes You Significantly More Vulnerable to All Damage
+11393	ÿc5+3% Enhanced Weapon Damage per Tantrum Skill Level\n+0.5% Crushing Blow per Tantrum Skill Level\n+0.5% Deadly Strike per Tantrum Skill Level\nÿc8While Tantrum is Active:
+11394	Graveyard: +40% Total Damage and +2 Projectiles\nDeal No Fire, Lightning or Cold Damage
+11395	+1% Cold Spell Damage For Each Skill Level of Your Ways Passives\nLimpet Laser: +1 Projectile
+11396	This Fire Damage Increases by 10% For Each Base Level in the Crossbow Tree\nFlametail Shot: +500 Fire Damage
+11397	Sun Strike: +18% Bonus Fire Damage per Base Level in the Bow Tree\nSun Strike Shoots 1 Projectile
+11398	Parasite: +200% Bonus Magic Damage
+11399	-2% to Enemy Elemental Resistances per Carnage Base Level
+11400	This Fire Damage is Increased by 15% per Wildfire Base Level\nAdds 750 Fire Damage to Idol of Scosglen
+11401	Laughing Ghost: +8% Bonus Magic Damage per Summon Skill Base Level
+11402	ÿc5Adds 100-200 Cold Damage\n-10% to Enemy Cold Resist\nAdds 10-15 Damage\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11403	Adds (60 to 80)% of Dexerity as Magic Damage to Weapon
+11404	Three's a Company''\n''Cross the Wide, Somber Seas I Will Sail
+11405	''Cross the Wide, Somber Seas I Will Sail''
+11406	ÿc5+25% Total Character Defense\n-5% Elemental Resists\n+5% Physical Resist\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11407	Hunting Banshee: +1 Projectile
+11408	Hunting Banshee: +2 Projectiles
+11409	-2% to Enemy Elemental Resistances per Nephalem Spirit Base Level
+11410	Discharge: Thunder Frequency Improved by 1 Second
+11411	Exorcism: +50% Total Damage
+11412	Bloodbath Is Active
+11413	(Max: 1 minute from each other)\nCube after Killing Rathma and Mendeln
+StrCfgAutomapMode	Small automap
+StrCfgTextOnlyNotif	Text only notifications
+StrCfgDebugUi	Enable debug interface
+StrCfgColorblind	Enable color blindness accommodations
+StrMinute	 minute
+StrMinutes	 minutes
+11420	+500% Enhanced Weapon Damage
+11421	-70% to Enemy Elemental Resistances
+11422	Level 20 Warp Field Aura
+11423	Nullifies Alchemical Provision
+StrCfgShowAutomapParty	Show minions and mercenary
+11425	+1 Extra Veil King
+11426	Night Hawks: +10% Total Damage and +2 Extra Hawks\nVeil King: +25% Total Damage
+11427	+1 Extra Fireheart Totem
+11428	Grim Vision: Aura Level Increased by 5
+11429	ÿc5+160% to Iron Golem Damage\n+20% Crushing Blow\n+20% Deadly Strike\nÿc8When Iron Golem Consumes This Item:
+11430	+1 Extra Totems
+11431	
+11432	Slain Monsters Rest in Peace
+11433	ÿc5Transmute your upgraded vial before it is too late\nSlay him in the half hour between eleven and twelve\nHoradric cube to be corrupted by the Nothingness\nSurvive the Herald's attacks long enough for the\nÿc3For the truly brave or insane:\n\n
+11434	ÿc5+50 to Life\n+25 to Mana\n+5% Magic Find\n+1% Physical Resist\n+10 Life after each Kill\nÿc0(Based on Trophies)\nÿc8Medals of Honor
+11435	ÿc4Summon Two Edyrem Minions per Cast\nCan Summon Edyrems Anywhere\nÿc5+50% Chance of Crushing Blow\n+20% of Life Added as Damage\n20% Reanimate as: ÿc9Edyremÿc5\nÿc8Summon Edyrem:
+11436	Summon Edyrem: +5000 Defense
+11437	ÿc5+10 Energy\n+10 Dexterity\nÿc8 Cube with a Trophy to Add Bonus: 
+11438	ÿc5+10 Vitality\n+10 Strength\nÿc8 Cube with a Trophy to Add Bonus:
+11439	Scorpion Sting: +1% Pierce Chance to Lightning Fury per Base Level
+11440	ATMG Sentry: +20 Magic Damage per Level
+11441	+250% to Veil King Life and Damage
+11442	To unlock its true power\n\nÿc5Yham Rune\nIah Rune\nthree Greater Signets of Learning\nÿc3Transmute this item with:
+11443	To unlock its true power\n\nÿc5Qor Rune\nGhal Rune\nthree Greater Signets of Learning\nÿc3Transmute this item with:
+11444	Tantrum: 20% of Vitality added as Cold Damage
+11445	Gamma Field: Increased Damage and Lowered Duration
+11446	Soulshatter: +200 Fire damage per Level
+11447	ÿc8Ignis Fatuus: bonuses increased by 50%
+11448	ÿc5+3% Hit Recovery (per Base Level)\n+3% to Cold Spell Damage (per Base Level)\nÿc8After using Mana Sweep: 
+11449	ÿc4Wyrd Cooldown Increased by 0.3 seconds\nÿc8Wyrd: Stuns Target for 0.2 seconds
+11450	Congratulations!
+11451	Adds 2500 - 2500 Magic Damage
+11452	Nearby enemies lose 10% Magic and Elemental resistances
+11453	ÿc5- Demonic Forgery -
+11454	ÿc5- Curse of the Warlord -
+11455	ÿc5- Divine Mandate -
+11456	ÿc5- Arcane Guidance -
+11457	ÿc5- Eternal Reign -
+11458	ÿc5- Infernal Blaze -
+11459	ÿc5- Demonic Delirium -
+11460	ÿc5- Blighted Grace -
+11461	ÿc5- Askari Valor -
+11462	ÿc5- Virtuosity of the Elements -
+11463	ÿc5- Web of Deception -
+11464	ÿc5- Vile Dissolution -
+11465	ÿc5- Power Synthesis -
+11466	ÿc5- Glimmer of Genesis -
+11467	ÿc5- Revelations of the Cult -
+11468	ÿc5- Legacy of the Ancients -
+11469	ÿc5- Shadow's Embrace -
+11470	ÿc5- Glow of the Dark Star -
+11471	ÿc5- Axioms of Equilibrium -
+11472	ÿc5- Stigma of Excidium -
+11473	(The Armor will be Disenchanted by the Recipe)\nWhen Cubed with The Sleep, Enables an Additional Awakening
+11474	ÿc5- Athulua's Determination -
+11475	ÿc5remainders of a once powerful armor...
+11476	Difficulty: 60%\nCongratulations!
+11477	Difficulty: 65%\nCongratulations!
+11478	Difficulty: 70%\nCongratulations!
+11479	Difficulty: 75%\nCongratulations!
+11480	Difficulty: 80%\nCongratulations!
+11481	Difficulty: 90%\nCongratulations!
+11482	Difficulty: 100%\nCongratulations!
+11483	ÿc3Cube with Trophy Fragment: Restore +20%\nÿc5Maximum Elemental Resists +3%\nTotal Character Defense +50%\n+2 to All Skills\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11484	ÿc3Cube with Trophy Fragment: Restore +4%\nÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11485	ÿc3Cube with Trophy Fragment: Restore +5%\nÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nBecomes Available to All Classes\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11486	ÿc5Maximum Elemental Resists +3%\nTotal Character Defense +50%\n+2 to All Skills\nÿc8Trophy Blessing
+11487	ÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc8Trophy Blessing
+11488	ÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nÿc8Trophy Blessing
+11489	50% of Strength Added as Fire Damage to Weapon
+11490	33% of Dexterity Added as Cold Damage to Weapon
+11491	36% of Dexterity Added as Lightning Damage to Weapon
+11492	37% of Dexterity Added as Tri-Elemental Damage to Weapon
+11493	Catalyst Trap Cooldown Reduced by 10 seconds\nIncineration Trap Radius Reduced by 50%
+11494	+1% Trap Damage per 5 Base Strength
+11495	ÿc850% of Strength Added as Magic Damage to Area of Effect attack modifier
+11496	+3% Physical Resist per Resurgence Base Level\n+1% Maximum Elemental Resists per Totem of that Element
+11497	-25% to Enemy Elemental Resistances for Your Traps
+11498	ÿc3Enhanced Weapon Damage -150%\nÿc8Adds 5 - 7 Fire Damage to Weapon per 2% Attack Speed
+11499	Bloodbath Duration Increased by 5 seconds
+11500	Backstab: Chance to Dodge Decreased by 100%\nBackstab: Duration Increased by 8 seconds
+11501	ÿc8Adds 50% of Current Mana as Cold Damage\nWhile in Werewolf Form:
+11502	-75% Mana Drain in Werewolf Form
+11503	Metal Solace: Also Regenerates Totem Life
+11504	+1 Projectile to Punishers
+11505	Fire Elementals Inherit Your Fire Spell Damage
+11506	Fire Elementals Inherit Your Energy and Spell Focus
+11507	+1% Lightning Spell Damage per 2% Gold Find
+11508	+3 Additional Dragon Wyrms
+11509	Dragon Breath: Reduces Weapon Physical Damage by 25%
+11510	Hoplites: +5% Poison Pierce per Plague Base Level
+11511	Wyrm Count Reduced by 5\nDragon Wyrms Fire Two Bolts
+11512	ÿc2\nÿc0(Active during B Blessing)\nÿc8Nephalem Glory\n
+11513	ÿc2\nÿc0(Active during V- Blessing)\nÿc8Sharp-Tooth Eye\n
+11514	Orb Effects Applied to this Item are Quadrupled
+11515	Regens 20% Life Over 5 Seconds Upon Taking Weapon Damage
+11516	+20% Total Damage to Curare
+11517	ÿc5-150% to Summoned Minion Damage\n+250 Life Regenerated per Second\n+20% Malice Skill Damage\nÿc8If you have No Ultimate Skill:
+11518	Unique Orbs Add +7 Extra Required Level
+11519	ÿc5Immersion Leeches Life\nÿc8With The Catalyst and The Judgement Equipped:
+11520	ÿc5+24% Twilight Havoc Spell Damage per Chronofield Base Level\n+12% Twilight Havoc Spell Damage per Offensive Arcane Skill Base Level\nÿc8With The Catalyst and The Judgement Equipped:
+11521	ÿc5Hive adds 0.75% of Vitality to Energy per Base Level in the Arcane Tree (Max 40%)\nÿc8With The Catalyst and The Judgement Equipped:
+11522	Hive Duration Reduced to 30 Seconds
+11523	+15% Malice Skill Damage
+11524	28% of Strength Added as Lightning Damage to Weapon
+11525	Mana Sweep: -25% Total Damage, Leeches no Mana
+11526	Fury: +4 seconds Base Duration
+11527	15% of Dexterity added as Enhanced Weapon Damage\n-1% to Enemy Poison Resist per 1% Block Chance
+11528	+15 Axes to Overkill
+11529	+50% Bonus Magic Damage to Rebound
+11530	Apple Healing Effect While Equipped
+11531	ÿc5+1 to All Skills\n+20% to Elemental Spell Damage\n+25 Spell Focus\nÿc0(Bonus per Hidden Crafts)\nÿc8Hidden Reliquary
+11532	33% of Dexterity Added as Lightning Damage to Weapon
+11533	+1 Extra Resurrect
+11534	Split Arrow: +8 Projectiles
+11535	+2 Sandstorm Projectiles
+11536	Cone of Cold Size Increased by 50%
+11537	+1 Diseased Cattle Projectiles
+11538	+4% to Euphoria Pierce
+11539	+1 Extra Fireheart Totem
+11540	+1 Extra Frostclaw Totem
+11541	+1 Extra Stormeye Totem
+11542	Flamefront: +1 Maximum Projectile
+11543	+1 Extra Guardian Spirit
+11544	
+11545	+1 Extra Hoplite
+11546	+1 Extra Ice Elemental
+11547	+1 Ice Lance Projectiles
+11548	+5 Hail of Stones Projectiles
+11549	+1 Extra Thunder Bear
+11550	
+11551	+1 Razor Spines Projectiles
+11552	Moonbeam Duration Increased by 3 seconds
+11553	Nightmare Reduces Physical Resistance by 6%
+11554	Blast Wave Cooldown Halved
+11555	+8 Axes to Overkill
+11556	+1 Pain Spirit Projectiles
+11557	Parasite Gains 5 Additional Targets
+11558	+150 Base Energy to Psicrown
+11559	Shred: +50% Duration
+11560	Spark of Hope Duration Increased by 15 seconds
+11561	+10 Rebound Projectiles
+11562	Eviscerate: +1 Projectile
+11563	+2 Rock Shock Projectiles
+11564	+1 Extra Servant
+11565	Screaming Eagle Duration Increased by 3 seconds
+11566	+1 Silver Dart Projectiles
+11567	20% Lightning Pierce to Slayers
+11568	Solar Flare: +30% Duration
+11569	Spore Shot Magic Damage Increased by 100%
+11570	+1 Squall Gust Projectiles
+11571	+2 Storm Crows Projectiles
+11572	+2 Extra Harvesters
+11573	+25% Fire Pierce to Fire Elementals
+11574	Blood Skeleton: +5 to Grim Vision Aura
+11575	+3 Extra Night Hawks
+11576	Jinn: +4 to Hellfire Aura
+11577	+1 Extra Lamia
+11578	+1 Extra Rampagor
+11579	+15% Elemental Spell Damage to Demon Blood Aura
+11580	Veil King: +8% Deadly Strike
+11581	Teleport Cooldown Reduced by 0.5 seconds (min: 2s)
+11582	+3 Maximum Tempest Projectiles
+11583	+1 Extra Venomcloud Totem
+11584	+30% Enhanced Weapon Damage in Wereowl Form
+11585	+25% Magic Find When Near a Revenant
+11586	Hunter's Mark: Increased Damage per Hit
+11587	+3 Wyrmshot Targets
+11588	Champion of Sanctuary
+11589	Lethal Incision: +1 Extra Blade
+11590	Blast Radius: Explosion Radius increased by 2 Yards
+11591	+10% Lightning Fury Damage
+11592	Blink Restores Stamina If You Have a Point in Summon Familiars
+11593	+2 Bloodstar Projectiles
+11594	+30% Bonus Damage to Doom
+11595	+75% Velocity After Casting Jitan's Gate
+11596	Takedown: +1 Maximum Fury Charges
+11597	+8% Total Psionic Storm Damage
+11598	+1 Projectile to Punisher
+11599	
+ModitemEleInnateSeq	ÿc0Innate Fire Damage: ÿc1%dÿc0 (%.1f%% of %s)
+x	ÿc0Innate Lightning Damage: ÿc9%d ÿc0(%.1f%% of %s)
+x	ÿc0Innate Cold Damage: ÿc3%d ÿc0(%.1f%% of %s)
+x	ÿc0Innate Poison Damage: ÿc2%d ÿc0(%.1f%% of %s)
+x	ÿc0Innate Magic Damage: ÿc8%d ÿc0(%.1f%% of %s)
+x	ÿc0Innate Tri-Elemental Damage: ÿc8%d ÿc0(%.1f%% of %s)
+x	%d %.1f %s
+x	%d %.1f %s
+x	%d %.1f %s
+x	%d %.1f %s
+11610	
+11611	Level 14 Crane Stance
+11612	Level 1 Crane Stance
+11613	Level 3 Crane Stance
+11614	Level 7 Crane Stance
+11615	Level 1 Wolf Stance
+11616	Level 6 Lion Stance
+11617	Level 12 Lion Stance
+11618	Level 1 Bear Stance
+11619	Level 6 Eagle Stance
+11620	Level 1 Eagle Stance
+11621	+1% Attack Speed per 25 Dexterity
+11622	+5% Innate Elemental Damage per Character Level above 137
+11623	+10% Innate Elemental Damage per Character level above 137
+11624	Transmute in the Horadric Cube to Upgrade\nSurvive the Edge of Nothingness battle for 11 minutes\nMust have at least 3000 Dexterity\nHunter Only Upgrade:\n
+11625	And the Abyss Stares Back
+11626	Level 12 Wolf Stance
+11627	Perfect Rainbow Stone
+11628	Sol, Tal, Ort Runes
+11629	2 Arcane Crystals
+11630	Rare Jewel
+11631	Wirt's Leg
+11632	Emblem of Destruction (Secret)
+11633	Emblem of Suffering (Secret)
+11634	Emblem of Terror (Secret)
+11635	Emblem of Hatred (Secret)
+11636	Emblem of Pain (Secret)
+11637	Emblem of Lies (Secret)
+11638	ÿc0Cube with separate Ingredients to Design\n
+11639	ÿc0Cube with Oil of Craft to Create\n
+StrStashPageLocal	Storage Page: 
+StrStashPageShared	Shared Storage Page: 
+StrStashToggleShared	Switch to shared storage
+StrStashToggleLocal	Switch to local storage
+StrStashNextPage	Next page
+StrStashPrevPage	Previous page
+11646	10% Magic Find per Socketed Rainbow Stone\n+1 to All Skills per 2 Socketed Rainbow Stones
+11647	Lightning Arena Damage Increased by 1000%
+11648	Churel Buff Duration Increased by 66%
+11649	Level 5 Hellfire Aura
+11650	Dark Power Adds 1% Innate Elemental Damage per Skill Level
+11651	Firedance Does Not Add Spell Damage
+11652	Hive Adds 1% Poison Spell Damage per Skill Level
+11653	20% Magic Find per Socketed Rainbow Stone\n+1 to All Skills per 2 Socketed Rainbow Stones
+11654	40% Less Healing From Potions
+11655	(Weapon Only)
+11656	(Armor Only)
+11657	(Ring, Amulet or Quiver Only)
+11658	(Any Equippable Item)
+11659	200% Bonus to Miasma Haunt Duration
+11660	Miasma Haunt Duration Increased by 2 seconds
+11661	+50% Bonus to Miasma Haunt Duration
+11662	+150% Bonus to Miasma Haunt Duration
+11663	+200% Enhanced Damage to Mooncall
+11664	Druid Morph
+11665	30% Enhanced Damage vs. Necrobots
+11666	Increased Healing Rate from Apples by 50%
+11667	Increased Healing Rate from Apples by 100%
+11668	+1 to All Skills when using an Apple
+11669	+2 to All Skills when using an Apple
+11670	+3 to All Skills when using an Apple
+11671	+15% Damage to Protector Spirit Bloodlust\n
+11672	+30% Damage to Protector Spirit Bloodlust\n
+11673	+50% Damage to Protector Spirit Bloodlust\n
+11674	Searing Glow: Dazzle Reduces Enemy Attack Rating by 5%
+11675	10% of Total Energy Gained as Life
+StrSkillTabsAma	Divine
+x	Bow
+x	Javelin
+x	Spear
+x	Storm
+x	Blood
+x	Mastery
+x	Reward
+x	
+x	
+StrSkillTabsAss	Ninja
+x	Throwing
+x	Claw
+x	Naginata
+x	Traps
+x	Psionic
+x	Mastery
+x	Reward
+x	
+x	
+StrSkillTabsBar	Nomad
+x	Earthshaker
+x	Windcarver
+x	Elementalist
+x	Warmonger
+x	Shaman
+x	Mastery
+x	Reward
+x	
+x	
+StrSkillTabsDru	Nature
+x	Werebear
+x	Werewolf
+x	Wereowl
+x	Hunter
+x	Seer
+x	Mastery
+x	Reward
+x	
+x	
+StrSkillTabsNec	Deathspeaker
+x	Summon
+x	Melee
+x	Crossbow
+x	Malice
+x	Totem
+x	Mastery
+x	Reward
+x	
+x	
+StrSkillTabsPal	Aspects
+x	Templar
+x	Incarnation
+x	Nephalem
+x	Ritualist
+x	Warlock
+x	Mastery
+x	Reward
+x	
+x	
+StrSkillTabsSor	Arcane
+x	Fire
+x	Lightning
+x	Cold
+x	Poison
+x	Melee
+x	Mastery
+x	Coven
+x	Reward
+x	
+11746	Your Cold Damage is Nullified
+11747	When Equipped with Acokanthera: +1 Second Duration to Devouring Cloud
+11748	-1% to Enemy Elemental Resistances per 150 Dexterity
+11749	Carnage Now Converts 100% Physical Damage to Fire
+11750	Carnage Conversion is Reduced by 1% per Base Level\nYour Fire Damage Is Nullified
+RightClickToUnsummon	Right-click to Unsummon
+11752	UNUSED
+11753	+5-10 Damage per Character Level Above 138
+11754	Holy Shock has 1200 Base Damage, Increases by 1% per 7 Energy\nLevel 1 Holy Shock
+11755	With 15 Base Levels in Runemaster: 10% Deadly Strike\nAt least 1 Base Level in Runemaster: Maximum Elemental Resists +2%
+11756	(Whichever is Higher)\n+1% Enhanced Weapon Damage per 50 Strength or Dexterity
+11757	Howl of the Spirits: +4 Seconds Duration 
+11758	+100% Bonus Fire Damage to Retaliate
+strConfigDungeonTimer	Display countdown in timed dungeons
+11760	Level 1 Spark of Hope
+11761	-3% Enhanced Weapon Damage per 1% Lost Mana\n+200% Enhanced Weapon Damage
+11762	+1 Hunting Banshee Missiles
+11763	Psicrown Now Explodes Upon Impact
+11764	Lemures Explosion Range Increased by 75%
+11765	Below 50% Life: +200 Life After Each Kill\nAbove 70% Life: -10 Life After Each Kill
+11766	(pick one)\nUltimate Skill
+11767	Ring Of Flames Gains +1% Total Damage per Character Level
+11768	Living Flame Gives +1% Fire Spell Damage per 8 Character Levels
+11769	Occult Path: +10 Life per Death Ripple Skill Level\n+1 Projectile to Death Ripple
+11770	(locks other devotions)\nÿc8Holy Devotion
+11771	(locks other devotions)\nÿc;Unholy Devotion
+11772	(locks other devotions)\nÿc0Neutral Devotion
+11773	+1% Innate Elemental Damage per 250 Strength and Dexterity
+11774	+1% Maximum Cold Resist per 80% Cold Resist
+11775	+25 Fire Damage per 100 Dexterity
+11776	Enemy Fire Resistance is Reduced by Lightning Pierce at 25% Efficiency
+11777	+10% Maximum Mana if Solar Flare is Active\n+40 Spell Focus if Sanguine Covenant is Active
+11778	While in Werewolf Form: -10% Enemy Cold Resistance\nWhile in Wereowl Form: Adds 10-15 Damage
+11779	Abyss Knights: Chance to cast Chaos Nova on Kill Doubled
+11780	+1% Maximum Elemental Resist per 200% Lightning Spell Damage
+11781	12% Chance to cast Level 42 Flamefront on Death Blow when Below 80% Life
+11782	Dragonfire Oil Synergy Increased by 100%
+11783	If you have 90% Fire Resist: +50% Fire Spell Damage
+11784	Hammer of Zerae Now Converts 100% Physical Damage to Lightning
+11785	Heal 0.05% Life per Second per 1% Lost Mana
+11786	Above Level 100: +6-12 Lightning Damage per Character Level\nUp to Level 100: +2-4 Lightning Damage per Character Level
+11787	If Colosseum has 20 Base Levels: +5% Avoid
+11788	7% Chance to cast Level 5 Lifespark on Death Blow when Below 50% Life
+11789	Abyss Knights Reduce Enemy Magic Resistance by 10%
+11790	ÿc0(you cannot dual wield)\nÿc8Melee Elemental Base Required
+11791	ÿc5Dirge Chances to cast Increased by 10%\nÿc8When Soulchain is Active:
+11792	ÿc5Stormeye Totem has 6% Chance to cast Level 44 Stormclash on Death Blow\nÿc5Fireheart Totem has 6% Chance to cast Level 44 Fire Cannonade on Death Blow\nÿc5Frostclaw Totem has 6% Chance to cast Level 44 Blizzard on Death Blow\nÿc8When Soulchain is Active:
+11793	Earthshaker Skills Have Their Cooldowns Reduced by 20%
+11794	+3 to all Attributes\nÿc4Weapons, Armor:\n
+11795	+3 to Maximum Damage\nÿc4Armor:\n\nÿc0+5 to Maximum Damage\nÿc4Weapons:\n
+11796	+3% to Fire Spell Damage\nÿc4Weapons, Armor:\n
+11797	+3% to Lightning Spell Damage\nÿc4Weapons, Armor:\n
+11798	+3% to Cold Spell Damage\nÿc4Weapons, Armor:\n
+11799	+3% to Poison Spell Damage\nÿc4Weapons, Armor:\n
+11800	+3% to Physical/Magic Spell Damage\nÿc4Weapons, Armor:\n
+11801	Fire Resist +25%\nÿc4Armor:\n\nÿc0Fire Resist +30%\nÿc4Weapons:\n
+11802	Lightning Resist +25%\nÿc4Armor:\n\nÿc0Lightning Resist +30%\nÿc4Weapons:\n
+11803	Cold Resist +25%\nÿc4Armor:\n\nÿc0Cold Resist +30%\nÿc4Weapons:\n
+11804	Poison Resist +25%\nÿc4Armor:\n\nÿc0Poison Resist +30%\nÿc4Weapons:\n
+11805	+40 to Mana\nÿc4Armor:\n\nÿc0+60 to Mana\nÿc4Weapons:\n
+11806	+10% Bonus to Poison Skill Duration\nÿc4Armor:\n\nÿc0+15% Bonus to Poison Skill Duration\nÿc4Weapons:\n
+11807	+10% to Summoned Minion Life\nÿc4Weapons, Armor:\n
+11808	+5% to Summoned Minion Damage\nÿc4Weapons, Armor:\n
+11809	+50% to Summoned Minion Attack Rating\nÿc4Weapons, Armor:\n
+11810	+5% to Summoned Minion Resistances\nÿc4Weapons, Armor:\n
+11811	5% to Strength\nÿc4Weapons, Armor:\n
+11812	5% to Dexterity\nÿc4Weapons, Armor:\n
+11813	4% to Vitality\nÿc4Weapons, Armor:\n
+11814	5% to Energy\nÿc4Weapons, Armor:\n
+11815	Elemental Resists +10%\nÿc4Weapons, Armor:\n
+11816	+3% to All Attributes\nÿc4Weapons, Armor:\n
+11817	+7% Magic Find\nÿc4Armor:\n\nÿc0+10% Magic Find\nÿc4Weapons:\n
+11818	+15% Attack Speed\nÿc4Weapons, Armor:\n
+11819	+15% Cast Speed\nÿc4Weapons, Armor:\n
+11820	+15% Hit Recovery\nÿc4Weapons, Armor:\n
+11821	+15% Block Speed\nÿc4Weapons, Armor:\n
+11822	Regenerate Mana +5%\nÿc4Armor:\n\nÿc0Regenerate Mana +15%\nÿc4Weapons:\n
+11823	Slows Attacker by +2%\nÿc4Armor:\n\nÿc0Slow Target +3%\nÿc4Weapons:\n
+11824	+15% Enhanced Defense\nÿc4Armor:\n\nÿc0+15% Enhanced Damage\nÿc4Weapons:\n
+11825	Maximum Mana +2%\nÿc4Armor:\n\nÿc0Maximum Mana +3%\nÿc4Weapons:\n
+11826	+15 Life after each Kill\nÿc4Weapons, Armor:\n
+11827	+x to Strength\nx% to Strength\nx% Chance of Crushing Blow\n
+11828	+x to Dexterity\nx% to Dexterity\nx% Bonus to Attack Rating\n
+11829	+x to Vitality\nx% to Vitality\n+x Life Regenerated per Second\n
+11830	+x to Energy\nx% to Energy\n+x Spell Focus\n
+11831	Adds x-y damage\n+x% Enhanced Damage\n
+11832	ÿc5(Armor)\nÿc0Physical Resist +x%\n+x% Enhanced Defense\n\nÿc5(Weapons)\nÿc0x% Deadly Strike\nRequirements +x%\n+x% Enhanced Damage\n
+11833	+x% to Summoned Minion Damage\n+x% to Summoned Minion Attack Rating\n
+11834	+x% to Fire Spell Damage\n-x% to Enemy Fire Resistance\n
+11835	+x% to Lightning Spell Damage\n-x% to Enemy Lightning Resistance\n
+11836	+x% to Cold Spell Damage\n-x% to Enemy Cold Resistance\n
+11837	+x% to Poison Spell Damage\n-x% to Enemy Poison Resistance\n
+11838	+x% Cast Speed\nMaximum Mana +x%\nRegenerate Mana +x%\n
+11839	+x% to Summoned Minion Life\n+x% to Summoned Minion Resistances\n
+11840	Magic Resist +x%\n+x% to Physical/Magic Spell Damage\n
+11841	1% Reanimate as: Random Monster\n1% Reanimate as: Random Monster\n
+11842	+x to All Attributes\n+x% to Innate Elemental Damage\n
+strMercLabelStrength	Strength
+strMercLabelDexterity	Dexterity
+strMercLabelEnergy	Energy
+strMercLabelLife	Life
+strMercLabelDefense	Defense
+strMercLabelAttack	Attack Rating
+strMercLabelResistFire	Resistance\nFire
+strMercLabelResistCold	Resistance\nCold
+strMercLabelResistLtng	Resistance\nLightning
+strMercLabelResistPois	Resistance\nPoison
+strMercLabelMf	Magic Find
+strMercLabelGf	Gold Find
+strMercLabelFireSpd	Spell Damage\nFire
+strMercLabelColdSpd	Spell Damage\nCold
+strMercLabelLtngSpd	Spell Damage\nLightning
+strMercLabelPoisSpd	Spell Damage\nPoison
+11859	You may pick up to two passives
+11860	You may pick up to three masteries
+11861	Unlocks Mastery Skill: Tenacity
+11862	Unlocks Mastery Skill: Chemistry
+11863	Unlocks Mastery Skill: Specialization
+11864	Unlocks Mastery Skill: Endurance
+11865	Unlocks Mastery Skill: Continuity
+11866	Unlocks Mastery Skill: PLACEHOLDER
+11867	Unlocks Mastery Skill: PLACEHOLDER
+11868	Unlocks Mastery Skill: PLACEHOLDER
+11869	Unlocks Mastery Skill: PLACEHOLDER
+11870	Unlocks Mastery Skill: PLACEHOLDER
+11871	Unlocks Mastery Skill: PLACEHOLDER
+11872	Unlocks Mastery Skill: PLACEHOLDER
+11873	All Skills require Werebear Form
+11874	All Skills require Werewolf Form
+11875	All Skills require Wereowl Form
+11876	Spiritual Alignment No Longer Adds Fire/Cold Spell Damage\nSpiritual Alignment Adds 5% Lightning Spell Damage per Base Level
+strPartyScreenKillCount	Monsters Killed
+strPartyScreenTimePlayed	Hours Played
+11879	Takedown: +1 Maximum Fury Charges
+strPartyScreenFriends	Friends
+strPartyScreenAddFriend	Add Friend
+11882	Vindicate: +200% Duration
+11883	Gale Force: +1.3 Yards to Area of Effect
+11884	Gain 50% of your Maximum Mana as Defense
+11885	- without taking damage from the Rift Storm\n- with at least one Frozen Shambler alive\nÿc2Defeat the Ascendant Riftwalker\nÿc0(cube charm only on completion)\nÿc7Bonus Quest II\n
+11886	- without taking damage from the Rift Storm\nÿc2Defeat the Greater Riftwalker\nÿc0(cube charm only on completion)\nÿc7Bonus Quest I\n
+11887	Gain 20% of your Poison Resistance as Poison Length Reduction
+11888	Hammer of Zerae: Double Bonus Lightning Damage
+11889	UNUSED
+11890	(locks other devotions)\nÿc0Bow Devotion
+11891	(locks other devotions)\nÿc0Javelin Devotion
+11892	(locks other devotions)\nÿc0Spear Devotion
+11893	(locks other devotions)\nÿc0Storm Devotion
+11894	(locks other devotions)\nÿc0Blood Devotion
+11895	5 Fire Runes
+11896	5 Stone Runes
+11897	5 Arcane Runes
+11898	5 Light Runes
+11899	5 Ice Runes
+11900	5 Poison Runes
+11901	Gold Cost: 250,000\nCube with 5 Runestones to Create
+11902	+100 Lightning Damage per Character Level Above 130
+11903	+6 Life per Cognition
+11904	+4-5 Damage per Hammer of Zerae Base Level
+11905	+2.5% Innate Elemental Damage per Wolf Stance Base Level
+11906	Shields: Fire Resist +30%\nArmor: 4% to Vitality\nWeapons: +10 Life after each Kill\n
+11907	Shields: Poison Resist +30%\nArmor: +2 Life Regenerated per Second\nWeapons: +5 to Maximum Damage\n
+11908	Shields: Cold Resist +30%\nArmor: Cold Resist +20%\nWeapons: +8 Mana after each Kill\n
+11909	Shields: Lightning Resist +30%\nArmor: 5% to Energy\nWeapons: +10 Spell Focus\n
+11910	Shields: Elemental Resists +5%\nArmor: 5% to Strength\nWeapons: +3% to Spell Damage\n
+11911	Shields: +5 Mana when Struck by an Enemy\nArmor: 5% to Dexterity\nWeapons: 50% Bonus to Attack Rating\n
+11912	Shields: Poison Length Reduced by 5%\nArmor: +10% Enhanced Defense\nWeapons: +10% Enhanced Damage\n
+11913	Shields: 10% Curse Length Reduction\nArmor: 8% Gold Find\nWeapons: 3% Innate Elemental Damage\n
+11914	Shields: +5% to Summoned Minion Resistances\nArmor: Fire Resist +20%, Maximum Fire Resist +1%\nWeapons: +10% to Summoned Minion Life\n
+11915	Shields: Slow Target 2%\nArmor: Cold Resist +20%, Maximum Cold Resist +1%\nWeapons: +5% to Summoned Minion Damage\n
+11916	Shields: Slows Attacker by 2%\nArmor: Lightning Resist +20%, Maximum Lightning Resist +1%\nWeapons: 2% Reanimate as: Walker\n
+11917	Shields: 8% Magic Find\nArmor: Poison Resist +20%, Maximum Poison Resist +1%\nWeapons: Regenerate Mana +10%\n
+11918	+1% Block Chance per 300 Mana\n+1 Attack Rating per 3 Mana
+11919	
+11920	
+11921	
+11922	
+11923	
+11924	
+11925	
+11926	Tenet of Harmony
+11927	Tenet of Restraint
+11928	Tenet of Vigor
+11929	Tenet of Wisdom
+11930	Tenet of Judgement
+11931	Tenet of Conflict
+11932	3 Arcane Crystals
+11933	2 Corrupted Crystals
+11934	Greater Signet of Learning
+11935	3 Unique Rings
+11936	3 Unique Amulets
+11937	3 Sacred Unique Body Armors
+11938	3 Sacred Unique Belts
+11939	3 Sacred Unique Gloves
+11940	3 Sacred Unique Boots
+11941	4 Large Cycles
+11942	4 Trophy Fragments
+11943	5 Enchanted Runes
+11944	Relic
+11945	25 Shrines
+11946	3 Unique Mystic Orbs
+11947	Weather Control
+11948	The Sleep
+11949	Books of Kalan
+11950	Ghost Trance
+11951	Xazax's Illusion
+11952	Neutrality Pact
+11953	(Better items and more gold cost the higher the rune)\nRestore Gold Cost: 20,000 - 500,000\nCube with Arcane Crystal and Enchanted Rune to Restore
+11954	Transmute in the Cube to Open
+11955	Cube with Enchanted Rune to Unlock
+11956	ÿc0Gold Cost: 666,666\nCube with Oil of Craft to Create\n
+11957	ÿc0Gold Cost: 1,000,000\nCube with Oil of Craft to Create\n
+11958	ÿc0Gold Cost: 1,000,000\nCube with Oil of Craft to Create\n
+11959	ÿc0Gold Cost: 2,500,000\nCube with Oil of Craft to Create\n
+11960	
+11961	
+11962	
+11963	
+11964	
+11965	
+11966	
+11967	
+11968	
+11969	
+11970	
+11971	
+11972	
+11973	
+11974	
+11975	
+11976	
+11977	
+11978	
+11979	
+11980	
+11981	
+11982	
+11983	
+11984	
+11985	
+11986	
+11987	
+11988	Gold Cost: 5000\nÿc8+(1 to 3)% Magic Find\n
+11989	Gold Cost: 5000\nÿc8Requirements -(2 to 4)%\n
+11990	Gold Cost: 5000\nÿc8+(4 to 6)% to Summoned Minion Life\n
+11991	Gold Cost: 10000\nÿc8Elemental Resists +(3 to 5)%\n
+11992	Gold Cost: 10000\nÿc8+(1 to 2) Mana after each Kill\n+(2 to 4) Life after each Kill\n
+11993	Gold Cost: 10000\nÿc8+(2 to 4)% to Summoned Minion Resistances\n
+11994	Gold Cost: 15000\nÿc8+(3 to 5) to All Attributes\n
+11995	Gold Cost: 15000\nÿc8+(1 to 4) Mana on Melee Attack\n+(2 to 8) Life on Melee Attack\n
+11996	Gold Cost: 15000\nÿc8+(1 to 3)% to Summoned Minion Damage\n
+11997	Gold Cost: 25000\nÿc8+(1 to 2)% to Spell Damage\n
+11998	Gold Cost: 25000\nÿc8+(1 to 2)% Mana Stolen per Hit\n+(1 to 2)% Life Stolen per Hit\n
+11999	Gold Cost: 25000\nÿc8+(2 to 4) to Maximum Damage\n
+12000	Gold Cost: 50000\nÿc8+(4 to 8) Spell Focus\n
+12001	Gold Cost: 50000\nÿc8+1% to Experience Gained\n
+12002	Gold Cost: 50000\nÿc8 Indestructible\n
+12003	jewelcraft placeholder
+12004	jewelcraft placeholder
+12005	jewelcraft placeholder
+12006	jewelcraft placeholder
+12007	jewelcraft placeholder
+12008	5% Chance to Cast Level 50 Slayer on Death Blow
+12009	Allows an Additional Bear Companion
+12010	+4 Storm Crows Projectiles
+12011	+25 Defense per 1% Fire Spell Damage
+12012	30% added as Weapon Physical Damage (Max +150%)
+12013	36% added as Weapon Physical Damage (Max +150%)
+12014	6% added as Innate Elemental Damage (Max +25%)
+12015	8% added as Innate Elemental Damage (Max +25%)
+12016	15% added as Fire and Lightning Spell Damage (Max +40%)
+12017	18% added as Fire and Lightning Spell Damage (Max +40%)
+12018	15% added as Cold and Poison Spell Damage (Max +40%)
+12019	18% added as Cold and Poison Spell Damage (Max +40%)
+12020	15% added as Physical and Magic Spell Damage (Max +40%)
+12021	18% added as Physical and Magic Spell Damage (Max +40%)
+12022	5% added as Magic Find (Max +100%)
+12023	6% added as Magic Find (Max +100%)
+12024	ÿc3Gives stats based on the sum of your bonus damage to Undead and Demons\nÿc0Equipping multiple chimes removes all bonuses
+12025	Melee Spellcaster Tree
+12026	Servants of Valor have 4% chance to cast level 51 Dark Power on kill
+12027	Allows an additional Slayer
+12028	Adds 1% Crushing Blow per 4% Fire Spell damage
+12029	Abyss Knights Die After Being Summoned
+12030	Marked for Death Duration Increased by 0.2 Seconds
+strMercLabelResistPhys	Resistance\nPhysical
+CfgDisplayGamePing	Show ping
+StrAutomapPing	Ping: 
+12034	+1 Target to Raid
+12035	-100% to Enemy Lightning Resistance (Requires 100% Crushing Blow)
+12036	Antimass Recovers Stamina
+12037	Arcane Torrent: +20% Extra Projectiles
+12038	Arrow Swarm: +2 Projectiles
+12039	Balefire: 30% Movement Speed while Self-Immolating
+12040	Bane: +100% Duration
+12041	Death Ripple: +1 Projectile
+12042	Buckshot: +7 Projectiles
+12043	Dark Power: Doubled Magic Damage
+12044	ÿc5(Defender Spirit - Guardian Spirit - Protector Spirit)\nSpirit Walk Heals an Additional 5% Maximum Life while Carrying All Shaman Relics
+12045	+1 Extra Defender Spirit
+12046	+1 Extra Protector Spirit
+12047	Ignite: 50% Total Fire Damage
+12048	ÿc5(Ember Spirit - Hunting Banshee)\n+1 Hunting Banshee/Ember Spirit Projectile while Carrying Seer Spirit Relics
+12049	ÿc5(Fireheart Totem - Frostclaw Totem - Stormeye Totem)\n5% Fire/Cold/Lightning Absorb while Carrying Totem Relics
+12050	+2 to Maximum Forked Lightning Projectiles
+12051	+2% to Runemaster Defense Bonus while Fortress is Active
+12052	Hurricane: Regenerates 100% Life in 20 seconds
+12053	Frigid Nova: Double Freeze Duration
+12054	Gorefest: 66 Magic Damage per Level
+12055	Great Hunt: +1 Spirit
+12056	Hammer of Zerae: Bonus Physical Damage Increased by 25%
+12057	Immersion: 7% Chance to Trigger Additional Projectile
+12058	Hungering Flames: +2% of Max Life healed per cast
+12059	Vessel of Judgement: +1 Target
+12060	Vessel of Retribution: +1 Target
+12061	Maelstrom MkI: +10% Bonus Magic Damage\n
+12062	Mana Sweep: +10% Total Damage
+12063	Symphony of Destruction: +1 Beam in Slayer's Area of Effect
+12064	Cold Blooded: Also Pierces Lightning Resistance
+12065	Mythal: Doubled Debuff Duration
+12066	ÿc5(Hive - Nova Charge - Path of Flames)\n+10 to Frozen Heart while Carrying Periodic Relics
+12067	Limpet Laser: +1 Projectile
+12068	Shadow Refuge: 50 Life Regenerated per Second per Base Level in Shadowrush
+12069	Pestilence: +10 Seconds Duration
+12070	Pyre: Doubled Physical Resistance
+12071	Eye of the Storm: No Longer Reduces Damage
+12072	+1 Extra Abyss Knight
+12073	Stormblast: 5% Chance to Trigger Additional Projectile
+12074	Maelstrom MkI: 20% Chance to Trigger Additional Projectile during Wychwind Vulnerability
+12075	+1% Physical/Magic Spell Damage per 5 Cognition
+12076	ÿc4+666 to Life\n+100% to Summoned Minion Attack Rating\n+100% to Summoned Minion Damage\nSummon One Extra Minion With Each Cast\nÿc8Exodia\n\nÿc5(Summon Frostwalker - Summon Glowing Fungus - Summon Sinner)\nGain ÿc8Exodiaÿc5 while Carrying All Summon Trio Relics
+12077	Shower of Rocks: -5% Enemy Physical Resist
+12078	Maelstrom MkI: +10% Bonus Magic Damage
+12079	ÿc3Carnage Cooldown Reduced by 1.72 seconds\nÿc8Carnage: +1250 Fire Damage
+12080	Queen of Blades: +3 Projectiles
+12081	Familiars Cast Crucify when Killed/Unsummoned
+12082	ÿc5Transmute the charm with a Celestial Wind effigy\nComplete all of the above Labyrinth Quests\nÿc4Trial of the Nephalem
+12083	\nÿc5Transmute charm after boss death\nDefeat Deimoss the Fleshweaver in the Labyrinth depths\nÿc4End the Invasion
+12084	\nÿc5(these items are rare drops from Labyrinth mini bosses)\nTransmute charm once with each Star Chart piece and Dream Fragment\nDefeat the monster Heroes, Champions and Sovereigns roaming the Labyrinth\nÿc4Trial of Purity
+12085	\nÿc5(must be done in ascending order)\nTransmute charm once with each Depleted Riftstone\nExplore every level of the Labyrinth\nÿc4Trial of Discovery
+12086	\nÿc5Transmute charm with an Elemental Dominion effigy\nDefeat Deimoss with exactly 5 optional difficulty modifiers\nÿc4Dimensional Alchemy
+12087	ÿc5Returns charm and a random Relic\nTransmute charm with a Depleted Riftstone (6)\nÿc4Dimensional Alchemy Unlocked
+12088	\nÿc5Transmute charm with an Elemental Ire effigy\nDefeat Deimoss with exactly 3 optional difficulty modifiers\nÿc4Occult Smithing
+12089	\nÿc5Returns charm and an Occult Effigy of a higher tier\nTransmute charm with two identical Occult Effigies\nÿc4Occult Smithing Unlocked
+12090	\nÿc5Charges: 0
+12091	\nÿc5Charges: 1
+12092	\nÿc5Charges: 2
+12093	\nÿc5Charges: 3
+12094	\nÿc5Charges: 4
+12095	\nÿc5Charges: 5
+12096	Conductivity: Chance to Cast Doubled
+12097	Conductivity: +1% Chance to Trigger Stormcall on Hit
+12098	Discharge: Thunder Frequency Improved by 0.4 seconds
+12099	Scorpion Blade: Always Explodes, Max Range -25%
+12100	+1 Extra Target to Storm Crows during Wychwind\n+1 Extra Target to Storm Crows
+12101	Summon Two Ancient Spirits per Cast
+12102	ÿc5Skill level and Base level bonuses are based on Paragon Skill and Base levels\nÿc8You can use all three Ultimate skills together
+12103	ÿc5If Unholy, gain +40% to All Attributes\nÿc8Gain the Superbeast morph for 20 seconds after using Divine Apparition
+12104	ÿc8Superposition and Blight do not disable elemental damage
+12105	
+12106	
+12107	
+12108	
+12109	ÿc1You can only carry one Relic
+12110	\nÿc5Transmute charm with a Sigil of Absolution\nDefeat Deimoss with exactly 6 optional difficulty modifiers\nÿc4Void Armor
+12111	ÿc8Abandoned Shrine\n
+12112	ÿc8Creepy Shrine\n
+12113	ÿc8Eerie Shrine\n
+12114	ÿc8Enchanted Shrine\n
+12115	ÿc8Fascinating Shrine\n
+12116	ÿc8Hidden Shrine\n
+12117	ÿc8Intimidating Shrine\n
+12118	ÿc8Magical Shrine\n
+12119	ÿc8Ornate Shrine\n
+12120	ÿc8Quiet Shrine\n
+12121	ÿc8Sacred Shrine\n
+12122	ÿc8Shimmering Shrine\n
+12123	ÿc8Spiritual Shrine\n
+12124	ÿc8Tainted Shrine\n
+12125	ÿc8Trinity Shrine\n
+12126	ÿc8Weird Shrine\n
+12127	the abyss gazes also into you\nAnd if you gaze for long into an abyss\n\nthereby become a monster\nmight take care lest he\nHe who fights with monsters\n\n\n
+12128	Level 1 Salvation Aura
+12129	+140 Magic Damage per 1% Deadly Strike
+12130	Dragon Jaws reduces enemy physical resist by 30% for 1 second\nDragon Jaws area increased by 30%
+12131	ÿc52% Chance to Cast level 60 Eldritch Storm on Death Blow\nÿc8With 25 Points in Eldritch Storm
+12132	+1000 Life Regenerated per Second While Under 7000 Life
+12133	ÿc5Harvest Duration Now 15 Seconds\nÿc5Harvest Grants Bloom Bonuses\nÿc5Can No Longer Summon Harvesters\nÿc8If you have No Points in Werebear, Werewolf, Wereowl, Hunter and Seer Trees:
+12134	ÿc5a portal to the Heart of Darkness\nand a Greater Signet of Learning to open\nTransmute with a Nephalem Dimensional Key
