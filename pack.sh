@@ -1,9 +1,7 @@
 # /bin/bash
 
-if [ ! -d .tmp ]; then
-  echo ".tmp does not exist"
-  return 1
-fi
+rm -rf .tmp
+mkdir .tmp
 
 collectOutput() {
 mv d2tbl_ouput.tbl .tmp/$1.tbl
