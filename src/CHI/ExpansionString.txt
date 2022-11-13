@@ -1880,7 +1880,7 @@ McAuley's Paragon	山德的模范 Sander's Paragon
 McAuley's Folly	山德的愚行 Sander's Folly
 x	资料片光盘
 qstsa5q62b	杀死巴尔的仆众。
-x	测试适配版本 2.4 / MXL: S中文化 (No.1基于菜苗大佬2.3.3版本汉化) 20221029 rev1
+x	适配版本 2.4 / MXL: S中文化 (No.1基于菜苗大佬2.3.3版本汉化) 20221029 rev1
 of the Plague	瘟疫之
 Go South	回到地狱
 ItemExpansiveChancX	近战攻击敌人时 %d%% 几率施放等级 %d %s
@@ -3765,7 +3765,7 @@ JinnPet	魔灵
 Lamia	拉弥亚
 SkillnameFleshFlesh	出魂死灵术 ( Necromantic Trance )
 DragonComp2	Oathwing
-OverLord	领主
+Overlord	领主
 ProtectorSpirit	保护者英灵
 Rampagor	暴徒
 DescResurrectedZ	复活者
@@ -5160,7 +5160,7 @@ DescWolfStanceSyn	+12% 武器物理伤害 - 每基础等级\n+2% 移动速度 - 
 DescGladDSlev	+1.25% 致命攻击 - 每基础等级
 DescTalonsSlowSyn2	+1.5% 减慢 - 每基础等级
 DescDGsynb	+10% 冰冷伤害 - 每基础等级
-DescBacchNewSyn	+4% 伤害至所有〈血巫师〉系法术 - 每基础等级
+DescBacchSyn2	+1% 最大生命回复 - 每
 DescPredatorSyn	+1-2% 生命偷取 - 每 2 基础等级
 FuckVizharan	更多治疗 - 每基础等级 (收益递减)
 DescUBerElemSyn	+15% 元素伤害 - 每基础等级\n拉斯玛的选择 (Rathma's Chosen)
@@ -5224,7 +5224,7 @@ DescPhFSyn	增加物理与火焰伤害 (收益递减)
 DescPoisSyn	增加毒素伤害 (收益递减)
 DescManyMoreHits	ÿc8受影响的敌人进入相位状态\n
 DescBladeBabble	\n一次弹跳后: 12% 武器伤害
-DescBacchBuff1	所有 血巫师 法术: 伤害 
+DescBacchSyn1	每秒生命回复 - 每人物等级 (最高 200)
 DescAnyPassiveInSorc	所有法师元素被动
 DescBetaPierce	必定穿透
 DescAncSpi	先祖英灵: 
@@ -7801,8 +7801,8 @@ SkillWolfStanceSyn	% 压碎性打击(CB) - 每 2 基础等级
 uSam_V	萨麦尔 Samael (闪电残余 Remnant of Lightning)
 uDeim_V	戴摩斯 Deimoss (火焰残余 Remnant of Fire)
 uTath	尼托古尔-塔萨梅特之心 Nithogur, Heart of Tathamet
-uAtralBarrager	尼托古尔 Nithogur (星体弹幕 Astral Barrage)
-uAmageaddoner	尼托古尔 Nithogur (末日之灾 Armageddon)
+uAstralBarrager	尼托古尔 Nithogur (星体弹幕 Astral Barrage)
+uArmageddoner	尼托古尔 Nithogur (末日之灾 Armageddon)
 uEradication	尼托古尔 Nithogur (摧毁 Eradication)
 uMoloch	摩洛克 Moloch
 uDesolator	尼托古尔 Nithogur (苍寂 Desolation)
@@ -7818,7 +7818,7 @@ SkillPrimalBond1	% 武器物理伤害每1%召唤物抗性（最大+600%） Weapo
 SkillPrimalBondSyn	+1% 武器物理伤害 +1% Weapon Physical Damage per 
 DescBacchSyn3	
 DescFeedItSyn	每2% 生命偷取-1% 敌人冰冷抗性 -1% Enemy Cold Resistance per 2% Life Steal
-Thunderhead	雷电之头 Thunderhead
+Cumulonimbus	积雨云 Cumulonimbus
 Augur's Pelt	奥古尔之皮 Augur's Pelt
 Cedar Shake	雪松之颤 Cedar Shake
 DescCatalystShrine	83\n转移 Transference:\n你必须充能才能使用 You must charge your catalyst to use it.\n\n催化剂 + 正电子大脑 Catalyst + Positronic Brains (max 10)\n--> 催化剂 Catalyst (+1-10充能数 +1-10 Charges)\n\n催化剂 Catalyst + 未使用的圣坛 Catalyst + Any Full Shrine\n--> 催化剂 Catalyst (-1充能数 Charge) + 选取的圣坛 Selected Shrine\n\n你可以重塑催化剂自身以选取想要的圣坛 You can cube your catalyst by itself to\nselect a different shrine to output.\n\n催化剂 Catalyst\n--> 催化剂 Catalyst (重新选取的圣坛 rerolled output Shrine)

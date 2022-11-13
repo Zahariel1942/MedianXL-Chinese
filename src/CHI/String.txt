@@ -3929,7 +3929,7 @@ CfgMessageLog	消息记录
 CfgQuestLog	任务记录
 CfgChat	交谈
 CfgAutoMap	自动地图
-CfgAutoMapCenter	自动地图置中
+CfgMinimapLeftRight	自动地图置中
 CfgMiniMap	小地图
 CfgHelp	协助画面
 CfgSkillTree	技能树
@@ -7531,7 +7531,7 @@ Event Horizon	Event Horizon
 Everchase	Everchase
 LongSwordSU3	石中剑 Excalibur
 GiantAxeSU3	Executioner's Justice
-EyeofTheStorm	暴风之眼 Eye of the Storm
+EyeoftheStorm	暴风之眼 Eye of the Storm
 EyesOfSeptumos	塞普图摩斯之眼 Eyes of Septumos
 Facebreaker	破相者 Facebreaker
 New2Facemelter	Facemelter
@@ -9216,8 +9216,8 @@ ModStr2uu	物理伤害减少
 Bent	弯曲的
 Discarded	丢弃的
 Broken	坏掉的
-spell	法术
-Halo	光晕
+Spell	法术
+halo	光晕
 voiceX	呼声
 stoneX	石头
 gemX	宝石
@@ -9832,7 +9832,7 @@ FirestormDesc	燃烧来临(Burning Presence)
 Weavess	Weavess
 Craven	Craven the Shunned
 DescEnemyAllres	% 敌人元素抗性
-edge	刀刃**
+Edge	刀刃**
 9o[@	方块重塑材料 Cube Reagent\nÿc8强效好运油 Oil of Greater Luck
 DescGreaterOilLuck	75\n好运油有一定几率为任一物品\n添加额外加成。\n\n油 + 物品 \n--> 40% 几率添加加成后的物品\n(限制: 1)\n\n武器: +20% 增强伤害 (ED) \n                      或\n+20% 攻击速度 - 若为元素基础物品\n武器: 100% 准确率加成\n装甲: +20% 增强防御 (ED)\n装甲: 物理抗性 +1%\n护符: +1 所有技能\n戒指: +5% 法术伤害\n箭袋: 5% 所有属性\n珠宝: +2 任一属性 (Any Stat)\n
 1p[@	方块重塑材料 Cube Reagent\nÿc8晋级油 Oil of Augmentation

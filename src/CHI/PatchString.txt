@@ -1231,16 +1231,16 @@ StrStatPointsNotif	新属性点
 StrSkillPointsNotif	新技能点
 StrQuestUpdateNotif	你的任务已取得新进度
 StrCfgTabHotkey	\n热键设置
-StrCfgTabNotif	\n通知设置
-StrCfgTabDisplay	\n界面设置
-StrCfgTabVideoSound	\n音视频设置
+StrCfgTitleHud	\n界面和显示设置
+StrCfgTabDisplay	\n设置
+StrCfgTitleNotifications	\n通知设置
 StrDisplayAlvl	场景等级: 
 x	扭曲之刃类
 CfgNoPickup	物品拾取切换
 CfpMapReveal	点亮地图
-CfgNotifNewArea	进入新场景
-CfgNotifDurability	装备耐久度腐蚀
-CfgNotifAmmo	低余弹量
+StrCfgSmallAutomap	小型自动地图
+StrCfgTitleAutomap	自动地图选项
+StrCfgTheme	界面主题
 CfgNotifGold	金币变化
 CfgNotifLevelUp	升级
 CfgNotifNewStats	新属性点
@@ -2127,7 +2127,7 @@ StrAutomapPing	Ping值:
 12126	ÿc8怪异圣坛 Weird Shrine
 12127	深渊也凝视着你 the abyss gazes also into you\n如果你长时间凝视深渊 And if you gaze for long into an abyss\n\n从而变成怪物 thereby become a monster\n仍需小心谨慎，以免他 might take care lest he\n与怪物战斗的人 He who fights with monsters\n
 12128	等级 1 救赎光环 Salvation Aura
-10129	每 1% 致命一击 +140 魔法伤害 +140 Magic Damage per 1% Deadly Strike
+12129	+140 魔法伤害 - 每 1% 致命攻击(DS)
 12130	龙颚减少敌人30%物理抗性，持续1秒 Dragon Jaws reduces enemy physical resist by 30% for 1 second\n龙颚攻击范围提升 30% Dragon Jaws area increased by 30%
 12131	ÿc致死一击时有52%几率释放60级的心灵风暴\nÿc8拥有25点至心灵风暴时
 12132	+低于7000生命时每秒再生1000生命 +1000 Life Regenerated per Second While Under 7000 Life\n
