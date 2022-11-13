@@ -1880,7 +1880,7 @@ McAuley's Paragon	山德的模范 Sander's Paragon
 McAuley's Folly	山德的愚行 Sander's Folly
 x	资料片光盘
 qstsa5q62b	杀死巴尔的仆众。
-x	适配版本 2.4 / MXL: S中文化 (No.1基于菜苗大佬2.3.3版本汉化) 20221029 rev1
+x	MedianXL: Sigma 中文化补丁包  补丁版本 2.4.2_1.0 适配版本: 2.4.2
 of the Plague	瘟疫之
 Go South	回到地狱
 ItemExpansiveChancX	近战攻击敌人时 %d%% 几率施放等级 %d %s
