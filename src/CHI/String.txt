@@ -7105,7 +7105,7 @@ newsunstonedesc	ÿc8将此神符与 太阳石 于方块中重塑!
 foralltehnewbz	ÿc8将此物品与两个城镇传送卷轴于方块中重塑!\n---\n都会导致毁灭性的结果。\n任何形式的外援（包括倒高级装备等）\n请确认你的角色是新鲜建立的!\n难度: 困难\n需求等级: 1
 DescBraxisScroll	ÿc8恶魔领主卡巴拉克斯的枷锁\n打破位于混沌避难所的\n利用维兹杰雷法师瓦兰(Vheran)的强化
 customize_charm_yeah	unused
-z@z	ÿc9 - 我能承受得起这些代价，因为老子有钱，也很强。 -\nÿc1的奖杯与小瓶上古之血来创造，并摧毁它们。\n这件物品毫无用处并需要撒瑞圣所、乌迪贤、虚空
+z@z	ÿc9- 我能承受得起这些代价，因为老子有钱，也很强。 -\nÿc1的奖杯与小瓶上古之血来创造，并摧毁它们。\n这件物品毫无用处并需要撒瑞圣所、乌迪贤、虚空
 DescModdingHeadache	(右键点击以收集)
 DescArcaneShard3	qui
 DescArcaneShard2	ri
@@ -8956,7 +8956,7 @@ ModitemWarpBlue	ÿc8溅射攻击 (AoE)ÿc0
 ModitemNeedsLCed	ÿc8可与黑暗之路挑战升级
 ModitemNeedsUpgraded	ÿc8可与恩奈得挑战升级
 Desc_Ultimative_You_Won	谢谢你翻译者们! <3
-ModItemGaleona	ÿc8每基础等级的〈火焰舞步〉获得 1% 致命攻击 (DS)ÿc3
+ModItemGaleona	ÿc8每基础等级的〈火焰舞步〉获得 1% 致命攻击(DS)ÿc3
 ModitemHabacalva	ÿc8〈烈焰前线〉火焰弹数加倍 (Twice as Many)ÿc3
 ModItemGreenwalker	ÿc8〈索格伦之像〉没有冷却时间ÿc3
 ModitemMegaImpact	ÿc8百万冲击 (Mega Impact)ÿc0
@@ -9852,7 +9852,7 @@ SkilsdPrecision	ÿc0被动 - 让你的〈旋风〉攻击更准确
 SkillnamePrecision	ÿc8精准性 (Precision)
 PrecisionSyn1	% 准确率加成 - 每基础等级
 SavageryName	ÿc8残暴 (Savagery)
-SavageryDesc	ÿc0升级 - 在〈旋风〉期间增加致命攻击 (DS)到你的攻击
+SavageryDesc	ÿc0升级 - 在〈旋风〉期间增加致命攻击(DS)到你的攻击
 SkillnameStoneskin	ÿc8石肤 (Stoneskin)
 SkillsdStoneskin	ÿc0升级 - 在〈旋风〉期间提高防御
 SkillnameLifestealer	ÿc8窃命者 (Lifestealer)

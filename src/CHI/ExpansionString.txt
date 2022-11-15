@@ -1774,7 +1774,7 @@ EskillWolfDef	狼防御值：
 EskillPassiveFeral	对狼和熊的被动加成
 Eskillperhit12	每一击
 Eskillincasehit	击中
-Eskillincasemastery	%d机率做出致命攻击 (DS)
+Eskillincasemastery	%d 机率做出致命攻击(DS)
 Eskillincaseraven	每只乌鸦所耗的法力
 ob5	杰瑞德之石
 pad	库拉斯特之盾 Kurast Shield
@@ -1880,7 +1880,7 @@ McAuley's Paragon	山德的模范 Sander's Paragon
 McAuley's Folly	山德的愚行 Sander's Folly
 x	资料片光盘
 qstsa5q62b	杀死巴尔的仆众。
-x	MedianXL: Sigma 中文化补丁包  补丁版本 2.4.2_1.0 适配版本: 2.4.2
+x	MedianXL: Sigma 中文化补丁包  补丁版本 2.4.2_1.1 适配版本: 2.4.2
 of the Plague	瘟疫之
 Go South	回到地狱
 ItemExpansiveChancX	近战攻击敌人时 %d%% 几率施放等级 %d %s
@@ -4889,7 +4889,7 @@ SkillsdWingedStrike	ÿc1需要一把矛、一支爪或一把薙刀ÿc0\ncreep up
 SkillsdWipeoutEbolt	ÿc0在你面前发射大范围的穿透性闪电爆裂\nfires wide piercing blasts of lightning in front of you
 SkillsdWithDinosaurs	ÿc0折跃 - 传送你与你的仆从到目标敌人处，并治疗你
 SkillsdWolfform	ÿc1需要一把剑\nÿc0变形 - 变化为拥有凶猛近战能力的夜行猎人
-SkillsdWolfStance	ÿc3ÿc3此姿态对你与你的先祖英灵生效\nÿc0战斗姿态 - 提高攻击、打击恢复与移动速度
+SkillsdWolfStance	ÿc3此姿态对你与你的先祖英灵生效\nÿc0战斗姿态 - 提高攻击、打击恢复与移动速度
 SkillsdWouldYouKindly	ÿc0法术 - 重生目标尸体为强力的神圣往生者
 SkillsdWraithArrow	ÿc1需要一把弓或弩ÿc0\narrow that releases multiple homing spirits of light on striking
 SkillsdWrath	ÿc0cleanses the area with a nova of deadly holy fireballs
@@ -5031,7 +5031,7 @@ DescShamans3Syn	% - 每基础等级于〈英灵〉技能树
 Damplevv	% 物理伤害 - 每基础等级
 DescDmgPLvl	% 物理伤害 - 每基础等级
 DescDmgPLion	% 物理伤害 - 每基础等级
-DescDmgPLvlElfin	+1.25% 固有元素伤害 - 每基础等级\n+1% 致命攻击 (DS) - 每基础等级
+DescDmgPLvlElfin	+1.25% 固有元素伤害 - 每基础等级\n+1% 致命攻击(DS) - 每基础等级
 DescSmokeeeeeeeer	% 物理伤害至闪电
 DescHowNowBrownCow	% 物理伤害至此次攻击
 DesecPDtoWPNsynergy	% 毒素伤害至武器 - 每基础等级
@@ -5150,14 +5150,14 @@ DescICanHazWolf	+1 狼数量 - 每 3 额外基础等级
 DescWyrmSynergy	+5% 更多的火焰穿透 - 每基础等级 (最大 160%, 基于角色等级)
 DescIncreasedBlock	% 格挡的基础几率
 DescMiniAvoid	+1% 几率躲避伤害 - 每 2 基础等级
-DescDeadlyStrikeBlvl	+%d%% 致命攻击 (DS) - 每基础等级
+DescDeadlyStrikeBlvl	+%d%% 致命攻击(DS) - 每基础等级
 DescRuneMasterHazEpicBuff	% 防御加成乘数 - 每基础等级
 DescSnakeSynergy	+1% 减速目标 - 每基础等级 (最大 50%)
 DescMayThe	+1% 法术伤害 - 每 
 DescRaptureQQ	% 所有速度 - 每基础等级
 DescMeLieksAvoid	提高躲避几率 1% - 每基础等级
 DescWolfStanceSyn	+12% 武器物理伤害 - 每基础等级\n+2% 移动速度 - 每基础等级\n+1.5% 压碎性打击 - 每基础等级
-DescGladDSlev	+1.25% 致命攻击 (DS) - 每基础等级
+DescGladDSlev	+1.25% 致命攻击(DS) - 每基础等级
 DescTalonsSlowSyn2	+1.5% 减慢 - 每基础等级
 DescDGsynb	+10% 冰冷伤害 - 每基础等级
 DescBacchSyn2	+1% 最大生命恢复 - 每 
@@ -5979,7 +5979,7 @@ irX04	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级怪物\nÿc2对群控免疫,
 irX05	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级怪物\nÿc2对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\nÿc0对群控免疫, 最大减速效果: 25%\n无法寒冰或冻结\n\n元素抗性: +12%\n伤害: +40%\n生命: +80%\n
 irX06	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级与冠军级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\nÿc2吸收 50% 火焰、冰冷与闪电\nÿc0无法寒冰或冻结\n\n元素抗性: +15%\n伤害: +50%\n生命: +100%\n
 irX07	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级与冠军级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\nÿc0吸收 50% 火焰、冰冷与闪电\n无法寒冰或冻结\nÿc2次元撕裂 (Dimensional Tear)\n\nÿc0元素抗性: +18%\nÿc2怪物密度: +10%\nÿc0伤害: +60%\n生命: +120%\n
-irX08	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级与冠军级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\n吸收 50% 火焰、冰冷与闪电\n无法寒冰或冻结\nÿc250% 偷取抗性\n\nÿc0次元撕裂 (Dimensional Tear)\n\nÿc0元素抗性: +21%\n怪物密度: +10%\n伤害: +70%\n生命: +140%\n
+irX08	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级与冠军级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\n吸收 50% 火焰、冰冷与闪电\n无法寒冰或冻结\nÿc250% 偷取抗性\n\nÿc0次元撕裂 (Dimensional Tear)\n\n元素抗性: +21%\n怪物密度: +10%\n伤害: +70%\n生命: +140%\n
 irX09	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级与冠军级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\n吸收 50% 火焰、冰冷与闪电\n无法寒冰或冻结\nÿc2+70% 移动速度\nÿc050% 偷取抗性\n次元撕裂 (Dimensional Tear)\nÿc2诅咒回归 (Curse Redux)\n\nÿc0元素抗性: +24%\n怪物密度: +10%\n伤害: +80%\n生命: +160%\n
 irX10	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级与冠军级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\n吸收 50% 火焰、冰冷与闪电\n无法寒冰或冻结\n+70% 移动速度\n50% 偷取抗性\nÿc2无怪物尸体\nÿc0次元撕裂 (Dimensional Tear)\n诅咒回归 (Curse Redux)\n\n元素抗性: +27%\n怪物密度: +10%\n伤害: +90%\n生命: +180%\n
 irX11	ÿc5- 重塑 -\n\nÿc0可能会出现英雄级、冠军级与君王级怪物\n对压碎性打击(CB)免疫, 50% 更少的毒素持续时间\n对群控免疫, 最大减速效果: 25%\n吸收 50% 火焰、冰冷与闪电\n无法寒冰或冻结\n+70% 移动速度\n50% 偷取抗性\n无怪物尸体\nÿc2增强的技能\nÿc0次元撕裂 (Dimensional Tear)\n诅咒回归 (Curse Redux)\n\n元素抗性: +30%\n怪物密度: +10%\nÿc2怪物群大小: +20%\nÿc0伤害: +100%\n生命: +200%\n
@@ -7117,7 +7117,7 @@ DescYouTried	伤害减少提高 - 每基础等级
 DescPackSize	每次施法鹰数量: 
 DescPerBaseLvls	 基础等级
 DescPackSizePer	+1 每次施法鹰数量 - 每 
-DescHawkDmgBlvl	% 致命攻击 (DS) - 每基础等级
+DescHawkDmgBlvl	% 致命攻击(DS) - 每基础等级
 DescHawkDmg	致命攻击(DS): 
 DescHawkInnates	\nÿc8继承〈狰狞面容〉光环
 DemonicHarpy	Demonic Harpy
@@ -7672,7 +7672,7 @@ scld	日记 Diary
 ScosglenChest	受保护的箱子 Protected Chest
 SkillChaoticSpark1	\n施法速度提高视为此技能的法术专注\n法术专注上限为 3000\n\n电能新星穿透并造成 50% 的技能伤害\n施放时 20% 几率释放出一道电能新星
 obox	ÿc1被腐化的财宝 Corrupted Treasure
-SkillPentagram1	\n每有 20 点未使用的属性点，施法后 2 秒内 +2% 物理抗性 (最大 300)\n每有 20 点未使用的属性点，冷却时间减少 0.04 秒 (最大) 300)\n
+SkillPentagram1	\n每有 20 点未使用的属性点，施法后 2 秒内 +2% 物理抗性 (最大 300)\n每有 20 点未使用的属性点，冷却时间减少 0.04 秒 (最大 300)\n
 VineEggEvul	被腐化的收割者 Corrupted Harvester
 SkillWyrd1	每次击中造成 
 SkillWyrd2	% 你加至武器的魔法伤害
@@ -7721,7 +7721,7 @@ SkillsdDetermination	ÿc3仅允许使用近战、召唤与增/减益技能ÿc0\n
 SkillTenacity1	\nÿc8不造成火焰、冰冷或闪电伤害
 SkillTenacity2	% 武器物理伤害加成加为防御加成
 SkillnameLethalFocus	夺命集火 (Fatal Focus)
-SkillsdLethalFocus	ÿc0被动 - 以最大格挡率为代价，提高你的致命攻击 (DS)
+SkillsdLethalFocus	ÿc0被动 - 以最大格挡率为代价，提高你的致命攻击(DS)
 SkillnameGalvanism	ÿc8电疗 (Galvanism)
 SkillsdGalvanism	ÿc0升级 - 加强〈铁螺旋〉与〈雷鸣风暴〉
 SkillGalvanism1	铁螺旋: 角色等级超过 90 时，每 3 等级提高(技能)最大基础等级 1\n\n雷鸣风暴: 继承〈铁螺旋〉的闪电伤害加成
