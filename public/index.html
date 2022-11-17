@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <title>Test</title>
+</head>
+<style>
+    body {
+        background-color: rgb(14, 14, 14);
+        color: #a97;
+        font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    a {
+        color: #a0865a
+    }
+
+    iframe {
+        display: block;
+        border: none;
+        width: 100%;
+        min-height: 50vh;
+    }
+
+    .iframe-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .app {
+        width: 75vw;
+    }
+
+    .post {
+        margin-bottom: 6px;
+        background: -webkit-gradient(linear, 50% 0, 50% 100%, color-stop(0, #181818), color-stop(10%, #1a1b1b), color-stop(80%, #1a1b1b), color-stop(100%, #181818));
+        background: -webkit-linear-gradient(#181818, #1a1b1b 10%, #1a1b1b 80%, #181818);
+        background: -moz-linear-gradient(#181818, #1a1b1b 10%, #1a1b1b 80%, #181818);
+        background: -o-linear-gradient(#181818, #1a1b1b 10%, #1a1b1b 80%, #181818);
+        background: linear-gradient(#181818, #1a1b1b 10%, #1a1b1b 80%, #181818);
+        border: 1px solid #333;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+<body>
+
+    <div class="app">
+
+        <div class="post">
+            <p>MeidianXL-Chinese</p>
+            <p>魔电中文化补丁包</p>
+            <p><a href="https://github.com/Zahariel1942/MedianXL-Chinese">Github</a></p>
+            <p>补丁版本：{{patch}} 游戏版本：{{game}}</p>
+            <p>构建日期: {{buildTime}}</p>
+        </div>
+
+        <div class="post">
+            <a href="./release.zip">点击下载</a>
+        </div>
+
+        <div class="post iframe-container">
+            <p>
+                Changelog:
+            </p>
+            <iframe src="./CHANGELOG.html"></iframe>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: windows-latest
+    environment: build
     permissions:
       contents: write
 
@@ -18,14 +19,27 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: setup env
+      - name: Get tag name
+        id: tagName
+        uses: olegtarasov/get-tag@v2.1.1
+
+      - name: Replace versions
+        run: bash replace-version.sh ${{ steps.tagName.outputs.tag }}
+
+      - name: Setup env
         shell: cmd
         run: move tools\MPQEditor.ini %APPDATA%
-      
-      - name: pack
+
+      - name: Pack
         run: bash pack.sh
-        
-      - name: Zip Release
+
+      - name: Make Changelog.html
+        uses: jaywcjlove/markdown-to-html-cli@v3.4.5
+        with:
+          source: CHANGELOG.md
+          output: dest/CHANGELOG.html
+
+      - name: Zip mpq file
         uses: TheDoctor0/zip-release@0.6.0
         with:
           directory: './dest/'
@@ -33,7 +47,35 @@ jobs:
           type: 'zip'
           filename: 'Release.zip'
 
-      - uses: ncipollo/release-action@v1
+      - name: Release Zip file
+        uses: ncipollo/release-action@v1
         with:
           artifacts: ./dest/Release.zip
           bodyFile: "CHANGELOG.md"
+
+      - name: Setup ossutil
+        uses: yizhoumo/setup-ossutil@v1.1.3
+        with:
+          endpoint: "oss-cn-hangzhou.aliyuncs.com"
+          access-key-id: ${{ secrets.OSS_ID }}
+          access-key-secret: ${{ secrets.OSS_SECRET }}
+
+      - name: Upload dest to oss
+        run: |
+          ossutil cp -f dest/Release.zip oss://${{ secrets.OSS_BUCKET }}/
+          ossutil cp -f dest/CHANGELOG.html oss://${{ secrets.OSS_BUCKET }}/
+          ossutil cp -f public/index.html oss://${{ secrets.OSS_BUCKET }}/
+          ossutil cp -f public/favicon.png oss://${{ secrets.OSS_BUCKET }}/
+
+      - name: Commit CHANGELOG.md
+        run: |
+          git config --local user.email "github-actions[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add CHANGELOG.md
+          git commit -m "Bump CHANGELOG.md"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
