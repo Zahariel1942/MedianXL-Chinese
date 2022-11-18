@@ -10,8 +10,8 @@ echo "Time: "$buildTime
 
 sed -i -e "s/## ongoing/## ${version} (${buildTime})/g" ./CHANGELOG.md
 
-sed -i -e "s/{{patch}}/${patch}/g" ./src/CHI/ExpansionString.txt
-sed -i -e "s/{{game}}/${game}/g" ./src/CHI/ExpansionString.txt
+sed -b -i -e "s/{{patch}}/${patch}/g" ./src/CHI/ExpansionString.txt
+sed -b -i -e "s/{{game}}/${game}/g" ./src/CHI/ExpansionString.txt
 
 sed -i -e "s/{{patch}}/${patch}/g" ./public/index.html
 sed -i -e "s/{{game}}/${game}/g" ./public/index.html
