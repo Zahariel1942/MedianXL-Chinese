@@ -1,0 +1,18 @@
+body {
+    color: #a97;
+    font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+a {
+    color: #a0865a !important;
+}
+
+#changelog {
+    display: none;
+}
