@@ -1296,7 +1296,7 @@ x	Celeri Caelesti Iustitia
 x	+15% Physical Resist After Level 120\n+25% to Experience Gained Until Level 120
 x	Treewarden Morph
 x	Thundercrack: +100% Bonus Lightning Damage
-11298	ÿc5+8% to Physical/Magic Spell Damage\n+25% Total Character Defense\n+10 Life after each Kill\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11298	ÿc5+8% to Physical/Magic Spell Damage\n+25% Bonus to Defense\n+10 Life after each Kill\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
 11299	+180% Damage to The Zakarum
 x	ÿc5+20% to Elemental Resists\n+0.75% Base Block Chance\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
 x	Worship the Crack Monkeys!
@@ -1344,7 +1344,7 @@ x	Shieldmaiden: +15% Enhanced Weapon Damage per character level above 120
 11343	Kraken Stance: +3% Damage per Base Level in the Templar Tree\nLevel 30 Kraken Stance
 11344	Deal No Elemental or Magic Damage
 11345	Fear No Evil
-11346	50% of Your Total Character Defense Bonus Added as Vitality
+11346	50% of Your Bonus to Defense Added as Vitality
 11347	ÿc5+600 Spell Focus\n+25% Physical Resist\n+33% Deadly Strike\n+100% Magic Find\n+50% Cast Speed\nÿc8Thundermaiden, Crimson Rite and Dragonlore:\nIf you have No Points in Lioness, Shieldmaiden,
 11348	Thunder Path: 150 Life after Each Kill\nHammer Path: -30% Enemy Lightning Resistance
 11349	Crucify: +14% Magic Damage per Base Level
@@ -1369,7 +1369,7 @@ x
 11368	Congratulations!
 11369	Cube after Killing Dark Star Dragon in Under 1 Minute and 30 Seconds
 11370	+8 to Maximum Forked Lightning Projectiles
-11371	Deal No Crushing Blows\nYour Attacks Ignore the Physical Resistance of the Undead\n40% of Minion Life Increases Added as Total Character Defense\n12% of Minion Damage Increases Added as Deadly Strike
+11371	Deal No Crushing Blows\nYour Attacks Ignore the Physical Resistance of the Undead\n40% of Minion Life Increases Added as Bonus to Defense\n12% of Minion Damage Increases Added as Deadly Strike
 11372	(Max: 1 minute from each other)\nCube after Killing Imperius and Malthael
 11373	Cube with Essence/Runestone to Roll Stat
 11374	Can be Upgraded with Ghost Trance
@@ -1404,7 +1404,7 @@ x
 11403	Adds (60 to 80)% of Dexerity as Magic Damage to Weapon
 11404	Three's a Company''\n''Cross the Wide, Somber Seas I Will Sail
 11405	''Cross the Wide, Somber Seas I Will Sail''
-11406	ÿc5+25% Total Character Defense\n-5% Elemental Resists\n+5% Physical Resist\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11406	ÿc5+25% Bonus to Defense\n-5% Elemental Resists\n+5% Physical Resist\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
 11407	Hunting Banshee: +1 Projectile
 11408	Hunting Banshee: +2 Projectiles
 11409	-2% to Enemy Elemental Resistances per Nephalem Spirit Base Level
@@ -1481,7 +1481,7 @@ StrCfgShowAutomapParty	Show minions and mercenary
 11480	Difficulty: 80%\nCongratulations!
 11481	Difficulty: 90%\nCongratulations!
 11482	Difficulty: 100%\nCongratulations!
-11483	ÿc3Cube with Trophy Fragment: Restore +20%\nÿc5Maximum Elemental Resists +3%\nTotal Character Defense +50%\n+2 to All Skills\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11483	ÿc3Cube with Trophy Fragment: Restore +20%\nÿc5Maximum Elemental Resists +3%\n+50% Bonus to Defense\n+2 to All Skills\nÿc0(Based on Restore Percentage)\nÿc8Restitution
 11484	ÿc3Cube with Trophy Fragment: Restore +4%\nÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc0(Based on Restore Percentage)\nÿc8Restitution
 11485	ÿc3Cube with Trophy Fragment: Restore +5%\nÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nBecomes Available to All Classes\nÿc0(Based on Restore Percentage)\nÿc8Restitution
 11486	ÿc5Maximum Elemental Resists +3%\nTotal Character Defense +50%\n+2 to All Skills\nÿc8Trophy Blessing
@@ -2133,3 +2133,43 @@ StrAutomapPing	Ping:
 12132	+1000 Life Regenerated per Second While Under 7000 Life
 12133	ÿc5Harvest Duration Now 15 Seconds\nÿc5Harvest Grants Bloom Bonuses\nÿc5Can No Longer Summon Harvesters\nÿc8If you have No Points in Werebear, Werewolf, Wereowl, Hunter and Seer Trees:
 12134	ÿc5a portal to the Heart of Darkness\nand a Greater Signet of Learning to open\nTransmute with a Nephalem Dimensional Key
+12135	Buckshot: +10 projectiles
+strHotkeydescEsc	Toggles game menu
+strHotkeydescCharScreen	Toggles character screen to visualize your stats and assign attribute points
+strHotkeydescInventory	Toggles inventory screen to manage your items
+strHotkeydescPartyScreen	Toggles party screen to see the players in the game. only in multiplayer games
+strHotkeydescMercScreen	Toggles mercenary's inventory screen to manage their items, if you have a mercenary and they're alive
+strHotkeydescMsgLog	Toggles chat messages log
+strHotkeydescQuestScreen	Toggles quest screen to visualize current objectives
+strHotkeydescSkillTree	Toggles skill tree screen to assign skill points
+strHotkeydescSkillSelect	Toggles right-click skill selection
+strHotkeydescSprint	Hold down to sprint
+strHotkeydescSprintToggle	Toggles permanent sprinting without having to hold down the sprint control
+strHotkeydescStandstill	Hold down to cast skills in place, allowing you to cast spells that usually require you to run up to a target
+strHotkeydescSwapWeap	Toggles between primary and secondary in-hand inventory slots
+strHotkeydescClear	Clears all opened panels on your screen
+strHotkeydescShowItems	Hold down to show all items on the ground near you
+strHotkeydescTogglePickup	Toggles item pickup on ground without holding down the control to show items
+strHotkeydescTransmute	When using the horadric cube, use this control to transmute without clicking the transmute button
+strHotkeydescSkill	Quickly assigns the skill assigned to this key. Skill select keys can be assigned in the skill speed bar
+strHotkeydescQuickCast	Casts skill assigned to this key. Quick cast keys can be assigned in the skill speed bar
+strHotkeydescNextPrevSkill	Iterates through your assigned skill select keys
+strHotkeydescUseBelt	Consumes item in your belt for that column (1 to 4)
+strHotkeydescShowBelt	Toggles full view of items in your belt
+strHotkeydescChat	Toggles in-game chat prompt
+strHotkeydescClearMsg	Clears all chat messages on your screen
+strHotkeydescShowPortraits	Toggles visibility of allies portraits in the top left of the screen
+strHotkeydescScreencap	Takes a screen capture and stores it in your screenshots folder
+strHotkeydescAutomap	Toggles your map
+strHotkeydescRevealMap	Reveals the whole map for the current act
+strHotkeydescMapSize	Toggles smaller map view when using the map
+strHotkeydescMapFade	Iterates through different map fade settings when using the map
+strHotkeydescMinimapPos	Toggles position of the map when using the smaller map view
+strHotkeydescEmote	Audio emote from your character that other players around you will hear
+12168	ÿc3+60% Physical Resist\nÿc5If you have more Dexterity than Strength plus Vitality:\nÿc3+500 Spell Focus\nÿc5If you have more Energy than Strength plus Vitality:\nÿc3+50% Innate Elemental Damage\n+100% Deadly Strike\nÿc5If you have more Strength than Dexterity plus Vitality:
+12169	ÿc3+40% Totem damage synergy\nÿc5If you have Jinn:\nÿc3+20% Weapon Physical Damage per Summon Tree Minion Base Level\nÿc3+10% Minion Life per Summon Tree Minion Base Level\nÿc5If you have Rathma's Chosen:\nÿc3Blood Skeletons get Double Benefit from Minion Life Stats\nÿc3Blood Skeletons get Triple Benefit from Dragonfire Oil\nÿc5If you have Veil King:
+12170	ÿc8+2% Enhanced Weapon Damage per 3% Attack Speed\nÿc1Cannot be Renewed
+12171	ÿc8+1 Lightning Damage per 1% Total Physical Weapon Damage Bonus\n+1 Lightning Damage per 1% Bonus to Defense\nÿc1Cannot be Renewed
+12172	ÿc8Deal No Fire, Lightning, or Cold Damage\nEcstatic Frenzy: +300% Total Damage
+12173	ÿc5Transmute 10 Butcher's Teeth to unlock this quest\nDifficulty Level: 125\nÿc4Horror Under Tristram (Uber)\n
+12174	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with an Urt rune to receive a quest entrance scroll\nÿc4Horror Under Tristram (Uber)\n

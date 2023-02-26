@@ -4458,7 +4458,7 @@ SkillsdAvengingFury	ÿc1需要一把弓或弩ÿc0\n投射物 - 发射一个以�
 SkillsdAwww2	ÿc1需要一把矛ÿc0\nattack that sears the target and nearby enemies, blinding them
 SkillsdBacchusRides	ÿc0被动 - 提高生命并在低生命时提升法术
 SkillsdBackblast	ÿc1需要一把薙刀或一把戟\nÿc0攻击 - 创造一圈打退敌人的刀刃
-SkillsdBackstab	ÿc1需要一个目标\nÿc1需要一把薙刀或一把戟\nÿc0攻击 - 笼罩你于魔影中的隐匿性近战打击
+SkillsdBackstab	ÿc1需要一个目标\nÿc1需要一把薙刀或一把戟\nÿc0攻击 - 强化攻击敌人的弱点
 SkillsdBalance	ÿc0被动 - 增加基本加成(flat bonus)到你的防御率
 SkillsdBalefireA	ÿc0法术 - 汲取你的生命力量来发动绿色地狱火的爆裂
 SkillsdBanish	ÿc0诅咒 - renders target vulnerable to magic and elemental damage
@@ -4512,7 +4512,7 @@ SkillsdBTHS	ÿc1需要一把近战武器\nÿc7(需要〈无情来临〉)\nÿc0�
 SkillsdBuck	ÿc1需要一把弩ÿc0\n投射物 - 爆炸一具尸体，炸为一道道激光弹
 SkillsdBurnInHellz	ÿc1需要一个近战目标\n需要一件近战武器ÿc0\n以天堂烈焰燃烧对象并引燃其他人的近战攻击
 SkillsdBzzzzzzzzzzzzz	ÿc0增益 - 靠近敌人时周期性放出致命的虫群
-SkillsdCascade	ÿc1需要一把弓或弩ÿc0\n法术 - 向一大片区域射出箭雨
+SkillsdCascade	ÿc1需要一把弓或弩ÿc0\n投射物 - 向一大片区域射出箭雨
 SkillsdCataclysm	ÿc0增益 - 将火焰力量注入你的法术与武器
 SkillsdCautious	ÿc1需要两把近战武器ÿc0\n攻击 - 暂时性降低受到的伤害
 SkillsdCharm	ÿc0converts a small area of monsters, forcing them to fight for you
@@ -4665,7 +4665,7 @@ SkillsdLArena	ÿc0增益 - 欢迎来到雷电巨蛋 (thunderdome)!
 SkillsdLaserblade	ÿc1需要一把薙刀或戟\nÿc0被动 - 手持一把薙刀时加强你的进攻与防御
 SkillsdLaughingGhost	ÿc1需要一把弓或弩ÿc0\n投射物 - 集中于猎人以进行更为复杂的射击
 SkillsdLC0	ÿc3Use in wide open area at level 5 or less!\n\nÿc0Summon skill for Level Challenge 0
-SkillsdLegion	ÿc1需要一把弓或弩ÿc0\n投射物 - 召唤一个致命弓箭手的军团来攻击敌人
+SkillsdLegion	ÿc1需要一把弓或弩ÿc0\n投射物 - 制造一个致命弓箭手的军团来攻击敌人
 SkillsdLemu	ÿc1需要一把近战武器\nÿc7(需要〈无情来临〉)ÿc0\n攻击 - 释放复数导引的冰恶灵
 SkillsdLethalS	ÿc1需要一支爪\nÿc0攻击 - 集气以放出多种终结技
 SkillsdLetItSnow	ÿc0法术 - 将目标敌人用作焦点唤出冰与霜的风暴
@@ -5074,7 +5074,7 @@ DescLycEnabled	ÿc2 狼人形态的技能变得更有效了\nÿc2变形术启用
 DescThisIsLight	ÿc2两条中立技能树，保持中立\n一条中立技能树，不论阵营\n你可选择:\n中立技能 Neutral Skill
 DescThisIsShadow	ÿc2两条中立技能树，保持中立\n一条中立技能树，不论阵营\n你可选择:\n中立技能 Neutral Skill
 DescHarmedCharm	\n
-DescWhileCloaked	ÿc8遮蔽时 (While Cloaked):\n
+DescWhileCloaked	ÿc8背刺时 (While Backstabbing):\n
 DescMultiplier	\nÿc:(weapon damage multipliers on attack skills)\n武器伤害乘数影响\n此技能的元素伤害受攻击技能上的
 DescReflectNoKills	\nÿc:不触发“死亡时”效果\n反射伤害杀死的敌人
 DescReflectNoKillsC	\nÿc:不触发“死亡时”效果\n反射伤害杀死的敌人
@@ -5155,7 +5155,7 @@ DescRuneMasterHazEpicBuff	% 防御加成乘数 - 每基础等级
 DescSnakeSynergy	+1% 减速目标 - 每基础等级 (最大 50%)
 DescMayThe	+1% 法术伤害 - 每 
 DescRaptureQQ	% 所有速度 - 每基础等级
-DescMeLieksAvoid	提高躲避几率 1% - 每基础等级
+DescMeLieksAvoid	1% 躲避几率 - 每基础等级
 DescWolfStanceSyn	+12% 武器物理伤害 - 每基础等级\n+2% 移动速度 - 每基础等级\n+1.5% 压碎性打击 - 每基础等级
 DescGladDSlev	+1.25% 致命攻击(DS) - 每基础等级
 DescTalonsSlowSyn2	+1.5% 减慢 - 每基础等级
@@ -5328,8 +5328,8 @@ DescTimerLossLegSweep	冷却时间减少 0.4 秒 - 每基础等级
 DescDelayZ	冷却时间: 
 DescKillerTimers	
 AndItGetsWorse	尸体图腾: 
-DescCriticalSyn	双倍打击几率提高 1% - 每基础等级
-DescAK47	双倍打击几率: 
+DescCriticalSyn	暴击几率提高 1% - 每基础等级
+DescAK47	暴击几率: 
 DescCrushThs	压碎攻击者: 
 DescCrushEmBs	压碎性打击: +
 DescCrushEm	压碎性打击: 
@@ -5694,7 +5694,7 @@ Path to Enlightenment	启蒙之路 Path to Enlightenment
 To The Path to Enlightenment	ÿc0难度: ÿc1困难\n\nÿc8+ 光之放逐者 Banisher of Light +\n\nÿc0地城任务\nÿc4Path to Enlightenment\n启蒙之路
 SymbiosisEff1	(Symbiotic Link) 共生连结: 
 SymbiosisEff2	% 效能 (efficiency)
-SymbiosisSyn	〈收割者〉Harvesters: 1 秒更快恢复 - 每基础等级 (最小 20s)\n+1% 几率躲避伤害 - 每基础等级
+SymbiosisSyn	〈收割者〉Harvesters: 1 秒更快恢复 - 每基础等级 (最小 20s)\n+1% 几率躲避伤害(最大 15%) - 每基础等级
 SymbiosisSpell	冰冷与闪电法术伤害: +
 SymbiosisMaxLevel	基础等级
 DescStuffedSym	ÿc0(需求等级: 115)\nÿc9在布兰威尔击败拜耶德·邱力克\nÿc8可解锁技能 Unlockable Skill\n
@@ -6031,7 +6031,7 @@ DescTotemsCanKite	图腾躲避伤害的几率:
 DescOneTwoThree	+1 额外图腾数量 - 每 5 基础等级
 DescHomemadeBrewSauce	提高图腾躲避与生命 - 每基础等级 (收益递减)
 DescHelloImTotem	ÿc3杀敌恢复生命与复生(reanimates)属性\n你的图腾继承你所有的施法者属性、
-DescPactWithXbow	% 敌人火焰抗性\nÿc5(基于〈弩〉技能树中的点数)\nÿc8炼金术师 Alchemistÿc0\n
+DescPactWithXbow	% 加至攻击速度\nÿc5(基于〈弩〉技能树中的点数)\nÿc8炼金术师 Alchemistÿc0\n
 DescPactWithDeathlord	% 武器物理伤害\nÿc5(基于〈近战〉技能树中的点数)\nÿc8死亡领主 Deathlordÿc0\n
 DescPactWithNecropolis	% 法术伤害\nÿc5(基于〈怨恨〉技能树中的点数)\nÿc8夜行者 Nightwalkerÿc0\n
 DescImTrying	效果提高 - 每基础等级
@@ -6236,7 +6236,7 @@ DescArtificer1	\n+25% 格挡速度\n+10% 体力\n\n最大火焰与冰冷抗性: 
 DescArtificer2	ÿc8爪格挡 Claw Block
 DescArtificer3	% 格挡攻击与法术 - 当双持两把爪类武器时
 DescArtificer4	(行走或跑步时不生效)
-DescArtificer5	+4% 格挡几率 - 每基础等级
+DescArtificer5	% 格挡几率 - 每基础等级
 DescSanguine4	% 总生命 - 近战攻击时 - 每基础等级
 DescIncineration5	持续时间: 10 秒\n
 DescShockwave5	+4% 闪电抗性穿透 - 每基础等级
@@ -6351,7 +6351,7 @@ VermilionSentry	朱红岗哨 Vermilion Sentry
 DestructionEdyrem	毁灭之艾迪伦 Edyrem of Destruction
 SkillnameExpMerc	
 Stormpick	暴风砸(风暴铁镐) Stormpick
-DescSolarFlareDur	+1 秒持续时间 - 每基础等级
+DescSolarFlareDur	法力协同加成 - 每基础等级(效果递增)
 Fire Hydra	火焰九头蛇 Fire Hydra
 DescWPD	% 武器物理伤害
 ColdBlood	冷血 Cold Blood
@@ -6540,7 +6540,7 @@ mon_voidcreator	使用〈塔格奥的尖叫〉打破
 LesserRiftwalker	次级时空行者 Lesser Riftwalker
 AcidDamage2	
 DescPcWDMBlank	% 武器伤害\n
-DescHelloMeInTwoYears	持续时间与冷却时提高 - 每基础等级
+DescHelloMeInTwoYears	背刺不增加武器物理伤害(WPD)\n背刺冷却增加 10 秒\n背刺持续时间增加 10 秒
 DescLFury	(随法术伤害提高)
 DescImbalanced	% 防御提升 - 每基础等级
 SkillnamePunishers	天谴连弹 ( Punishers )
@@ -6656,7 +6656,7 @@ PoisLenRes	毒素持续时间减少
 SkillnameValiance	ÿc8英勇 (Valiance)
 SkillsdValiance	ÿc0升级 - 提高你的移动速度
 DescValianceSyn	% 移动速度 - 每基础等级
-DescScourgeSyn	+1 最大仆人数量 - 每 2 基础等级 (Max: 
+DescScourgeSyn	+1 仆人数量 - 每 2 基础等级 (最大: 
 SkillnameConclave	ÿc8密议 (Conclave)
 SkillsdConclave	ÿc0升级 - 增强你的英勇仆人
 SkillnameFervor	ÿc8热忱 (Fervor)
@@ -6702,16 +6702,16 @@ SkillsdDragonjaws	ÿc0法术 - 以畸形的尖牙撕碎目标区域
 DescDragonjawsSyn	当前法力
 SkillnameDragonBreath	龙息 (Dragon's Breath)
 SkillsdDragonBreath	ÿc0减益 - 降低敌人火焰抗性与火焰伤害
-DescDragonbreathSyn	敌人火焰抗性减少 2% - 每基础等级\n敌人火焰伤害减少 1% - 每基础等级\n火焰法术伤害 (持续时间, 范围)
+DescDragonbreathSyn	敌人的火焰和闪电伤害减少 2% - 每基础等级\n敌人火焰抗性减少 4% - 每基础等级\n火焰法术伤害 (持续时间, 范围)
 DescDragonBreath1	范围: 
 DescDragonBreath2	敌人火焰抗性: 
-DescDragonBreath3	敌人火焰伤害: 
+DescDragonBreath3	敌人的火焰和闪电伤害: 
 DescRagnarok1	火球数量: 
 DescRagnarok2	溅射范围(AoE): 
 SkillnameCombustion	ÿc8焚烧 (Combustion)
 SkillsdCombustion	ÿc0升级 - 提高〈绝灭〉的进攻性效力
 DescCombustionSyn	(最大区域 10 码)\n投射物与半径比例提升 - 每基础等级
-DescCombustion1	+20% 爆炸半径 - 每 
+DescCombustion1	+0.6 码爆炸半径 - 每 
 DescCombustion2	+1 额外投射物 - 每 
 DescCombustion3	% 物理法术伤害
 SkillnameApexpredator	ÿc8顶端捕食者 (Apex Predator)
@@ -6772,7 +6772,7 @@ SkillsdVampiricStrike	ÿc0升级 - 受黑夜影响时，释放一道破坏性极
 SkillnameWingedCalamity	ÿc8有翼灾厄 (Winged Calamity)
 SkillsdWingedCalamity	ÿc0升级 - 魔仆从战斗中除外 (become exceptional)
 SkillnameExecution	ÿc8行刑 (Execution)
-SkillsdExecution	ÿc0升级 - 在遮蔽时增加魔法伤害至〈侧击炮〉
+SkillsdExecution	ÿc1需要〈侧击炮〉\nÿc0升级 - 在背刺时增加魔法伤害至〈侧击炮〉
 SkillnameMomentum	ÿc8动量 (Momentum)
 SkillsdMomentum	ÿc0升级 - 通过减少冷却时间提高熟练度
 SkillnameVoidGazer	ÿc8虚空凝视者 (Void Gazer)
@@ -6831,7 +6831,7 @@ BlackenedOne	Blackened One
 SwarmDeath	虫群死亡(Swarm Death)
 BloatedHost	Bloated Host
 DescLethalInc	总伤害提高 
-DescLethalInc2	ÿc1总共最大小刀数: 1
+DescLethalInc2	ÿc1减少爆炸范围 33%\n总共最多飞刀数: 1
 DescTotalDmgBlvl	+%d%% 总伤害 - 每基础等级
 DescLethalSyn2	+2% 移动速度 - 每基础等级
 DescVoidGazer	ÿc4弃守猛攻 Wychwind\n\nÿc1警告: 禁用〈暴风乌鸦〉、〈旋涡〉与〈蝎刀〉
@@ -6992,7 +6992,7 @@ DescForgerSyn	+5% 最大生命恢复 - 每基础等级
 DescForgerHeal	% 最大生命恢复 - 于 5 秒内
 DescOuch	- 当被怪物武器伤害击中
 DescEnemyARBlvl	 敌人准确率 - 每基础等级
-DescAnyPsionic	(〈念力〉技能、棱镜斗篷、末日)\n+1 认知 - 每基础等级于〈思维〉技能\nÿc4协同加成 Synergies
+DescAnyPsionic	(〈念力〉技能、完美存在、棱镜斗篷、末日)\n+1 认知 - 每基础等级于〈思维〉技能\nÿc4协同加成 Synergies
 DescIQ	ÿc3认知: 
 DescEnergizeSyn	+1% 治疗的最大生命 - 每基础等级
 DescEnergize2	ÿc3(需要 10% 未使用的最大法力)
@@ -7012,8 +7012,8 @@ DescCog100A	\nÿc2你拥有〈浴血〉(Bloodbath)
 DescCog100B	\nÿc0你拥有〈浴血〉(Bloodbath)\nÿc8达到 100 认知\n
 DescCog125A	\nÿc2Mind Ripple: 增加 25% 的魔法伤害为物理
 DescCog125B	\nÿc0Mind Ripple: 增加 25% 的魔法伤害为物理\nÿc8达到 125 认知\n
-DescCog150A	\nÿc2〈完美存在〉: +25% 几率躲避伤害
-DescCog150B	\nÿc0〈完美存在〉: +25% 几率躲避伤害\nÿc8达到 150 认知\n
+DescCog150A	\nÿc2-15% 敌人魔法抗性
+DescCog150B	\nÿc0-15% 敌人魔法抗性\nÿc8达到 150 认知\n
 DescBlackHolesAndRevelations	+4% 总伤害 - 每基础等级
 DescDejavu	总伤害: +
 Overseer's Slippers	Overseer's Slippers
@@ -7313,7 +7313,7 @@ SkillnameFortitude	ÿc8刚毅 (Fortitude)
 SkillsdFortitude	ÿc0升级 - 成为不知疲倦的战士
 DescFortitudeSyn	+25 最大耐力 - 每基础等级
 SkillSuperposition2	+200% 施法速度\nÿc8定身 Entangled\n
-SkillsdSuperposition1	ÿc4闪电支配 - 需要 50 点投入至其他〈闪电〉系技能\nÿc1若你拥有点数于〈法力狂扫〉，你不可学习此技能\nÿc3禁用召唤技能的使用\nÿc0折跃 - 使你定身的短程连锁传送
+SkillsdSuperposition1	ÿc4闪电支配 - 需要 50 点投入至其他〈闪电〉系技能\nÿc1若你拥有点数于〈法力狂扫〉，你不可学习此技能\nÿc0折跃 - 使你定身的短程连锁传送
 SkillnameEotS	ÿc8暴风之眼 (Eye of the Storm)
 SkillsdEotS	ÿc0升级 - 当施放〈雷电石〉时你受到防护
 DescPLRBlvl	+%d%% 毒素持续时间减少 - 每基础等级
@@ -7352,9 +7352,9 @@ SkillsdPyre	ÿc0升级 - 施放〈炎爆术〉时你获得物理抗性
 SkillPyre1	\n〈炎爆术〉: -10% 总伤害
 DescTrinityArrowSyn	% 加成伤害 - 每基础等级
 SkillnameKeenSight	ÿc8敏锐视力 (Keen Sight)
-SkillsdKeenSight	ÿc0升级 - 提高〈翼龙击〉索敌范围
+SkillsdKeenSight	ÿc0并提供弓和弩的暴击几率\n升级 - 提高〈翼龙击〉索敌范围
 DescKeenSightRange	〈翼龙击〉索敌范围: 
-DescKeenSightSyn	索敌范围提高 0.65 码 - 每基础等级
+DescKeenSightSyn	+2% 暴击几率 - 每基础等级\n索敌范围提高 0.65 码 - 每基础等级
 SkillPyre2	1% 物理抗性 - 每 
 SkillHavocSyn	冷却时间减少 1 秒 - 每 
 SkillSwarm1	Witch Blood: double damage scaling
@@ -7373,17 +7373,17 @@ MasteryEnduranceUnlock	\n\nÿc9在鲜血之厅击败巴图克\nÿc8可解锁技�
 MasteryContinuityUnlock	\n\nÿc9在虚荣大教堂击败伊纳瑞斯\nÿc8可解锁技能 Unlockable Skill\nÿc1
 MasterySpecializationUnlock	\n\nÿc9于地狱难度在世界之石圣殿击败巴尔\nÿc8可解锁技能 Unlockable Skill\nÿc1
 MasteryChemistryUnlock	\n\nÿc9在布雷姆堂于 1 分 30 秒内击败黑星龙\nÿc8可解锁技能 Unlockable Skill\nÿc1
-SkillnameParadigmShift	典范转移 (Paradigm Shift)
-SkillsdParadigmShift	ÿc0被动 - 〈唤月〉替代物理提高元素力量
+SkillnameParadigmShift	始源之力 (Primordial Might)
+SkillsdParadigmShift	ÿc3仅允许使用近战、召唤与增/减益技能\nÿc0被动 - <唤月>增加元素力量而不是物理
 SkillParadigmShift1	% 的〈唤月〉物理伤害加成加为固有元素伤害
 SkillnameColdBlooded	ÿc8冷血 (Cold Blooded)
-SkillsdColdBlooded	ÿc0升级 - 〈唤月〉提高你的冰冷穿透
-SkillColdBlooded1	1.5% 的敏捷(等量)减少敌人冰冷抗性
+SkillsdColdBlooded	ÿc0升级 - 使用水晶剑时 <刀刃风暴> 触发冰川齐射 (Glacial Volley)
+SkillColdBlooded1	% 几率触发冰川齐射 (Glacial Volley) - <刀刃风暴>
 SkillnamePremonition	ÿc8预感 (Premonition)
 SkillsdPremonition	ÿc0升级 - 〈齐射〉期间提高最大格挡率
 SkillPremonition1	% 最大格挡率 - 当 〈齐射〉生效时
 SkillnameArcaneSustenance	ÿc8奥术耐久 (Arcane Sustenance)
-SkillsdArcaneSustenance	升级 - 当〈齐射〉生效时提升〈法力护盾〉
+SkillsdArcaneSustenance	ÿc升级 - 当〈齐射〉生效时提升〈法力护盾〉
 SkillArcaneSustenance1	% 的最大法力于近战攻击时恢复
 SkillArcaneSustenance2	〈法力护盾〉: 50% 击中时更少的法力吸取
 SkillFusilladeSyn	% 的敏捷加为魔法伤害 - 每基础等级
@@ -7718,7 +7718,7 @@ SkillnameConductivity	ÿc8传导性 (Conductivity)
 SkillsdConductivity	ÿc0升级 - 〈风暴呼唤〉在击中时有几率施放〈阿斯卡利闪电〉
 SkillnameDetermination	决心 (Determination)
 SkillsdDetermination	ÿc3仅允许使用近战、召唤与增/减益技能ÿc0\n被动 - 牺牲元素伤害能力以提高你的防御
-SkillTenacity1	\nÿc8不造成火焰、冰冷或闪电伤害
+SkillTenacity1	\nÿc4物理伤害专精
 SkillTenacity2	% 武器物理伤害加成加为防御加成
 SkillnameLethalFocus	夺命集火 (Fatal Focus)
 SkillsdLethalFocus	ÿc0被动 - 以最大格挡率为代价，提高你的致命攻击(DS)
@@ -7746,7 +7746,7 @@ SkillsdHoZUpgrade	ÿc0升级 - 你的锤子有几率弹跳并爆炸出雷电
 SkillElementalCommand1	提高〈三合一之箭〉与〈弹幕〉最大基础等级 1 - 每 
 SkillElementalCommand2	 角色等级
 SkillnameSalvo	ÿc8磨刀 (Honing)
-SkillsdSalvo	ÿc0升级 - 改变〈涌动〉的伤害机制
+SkillsdSalvo	ÿc0升级 - 〈涌动〉将专精于造成毒素伤害
 SkillSalvo1	〈涌动〉武器伤害提高到 
 SkillSalvo2	移除〈涌动〉物理与魔法伤害
 DmgDemonsDesc	% 对恶魔伤害
@@ -7814,7 +7814,7 @@ DescAnimalCompSyn1	更多熊的生命 - 每基础等级(最多
 DescCascade1	ÿc1缺少〈稳定瞄准〉时减少66%额外的火焰伤害\nÿc3消耗〈稳定瞄准〉
 SkillnamePrimalBond	原始纽带 (Primal Bond)
 SkillsdPrimalBond	ÿc1需求25点至〈熊伙伴〉\nÿc0被动 - 根据召唤物抗性加强武器物理伤害
-SkillPrimalBond1	% 武器物理伤害 - 每 1% 召唤物抗性(最大+750%)
+SkillPrimalBond1	% 武器物理伤害 - 每 1% 召唤物抗性(最大 +800%)
 SkillPrimalBondSyn	+1% 武器物理伤害 - 每 
 DescBacchSyn3	% 法力回复速率
 DescFeedItSyn	-1% 敌人冰冷抗性 - 每 2% 生命偷取
@@ -7888,7 +7888,42 @@ crX21	ÿc0难度: ÿc8不可能\nÿc0区域等级: 150\nÿc4黑暗之心 The Hea
 SkillnameDecoy	诱饵 (Decoy)
 SkillsdDecoy	ÿc0召唤 - 生成诱饵以分散敌人的注意力
 DescDecoyLast	% 召唤者生命
-DescDecoySyn	% 召唤者生命 - 每基础等级
+DescDecoySyn	冷却缩短 0.4 秒 - 每基础等级
 DescDecoyBaseHP	基础生命:
 DescDecoyLove	ÿc3受仆从属性加成影响
 BaseLevels	 基础等级
+Breath of Fire	火焰吐息 (Breath of Fire)
+DescIgniteSkills	破片射击 (Fragmentation Shot)
+DescIgnitePierceSyn	-1.5% 敌人火焰抗性 - 每基础等级 (最大 35%)
+DescConvertToRandom	转换 %d%% 物理伤害至火焰、冰冷、闪电伤害
+Divebomb	作呕虫群 (Foul Vermin)
+DescWPNPhys	% 武器物理伤害(WPD)
+DescBackstabHit	200% 武器伤害\n4 次命中 - 每次攻击
+wm01	女士之弓 (大师级)
+SkillPrimordia1	\nÿc4 元素伤害特化
+SkillColdBlooded2	造成你的 125% 的武器冰冷伤害\n转换你的火焰和闪电武器伤害至冰冷\n3 个穿刺投射物\nÿc2冰川齐射(Glacial Volley)\n
+wm02	反曲刀 (大师级)
+Maenad	酒神信徒 (Maenad)
+AthuluasBlessing	阿图卢阿的祝福
+UberButchersTooth	屠夫的牙齿 (Uber)
+b60	ÿc;The 屠夫的牙齿 (Uber)
+virx	ÿc;胜利印记 (Mark of Victory)
+vrx1	ÿc4崔斯特姆地下的恐惧 (Uber)
+ssx1	ÿc5任务物品\nÿc4召唤卷轴
+To The Uber Butcher	ÿc0难度: ÿc;非常困难\n\nÿc8+ 崔斯特姆地下的恐惧 (Uber) +\n\nÿc0地城任务\nÿc4屠夫的巢穴
+uButcherRand	屠夫 (火焰冲击)
+SkillStampedeX	物理伤害增加
+SkillStampedeXX	% 的力量
+setloot	(金币花费: 50000)\n与奥术水晶一起重塑，创造ÿc2套装物品\nÿc8探险家的储藏箱
+Nemesis	ÿc1宿敌
+DPBulwark	防壁 (Bulwark)
+DPBulwarkInfo	投射者回复 4%% 生命每秒
+DPCommander	指挥官 (Commander)
+DPCommanderInfo	召唤盟友
+DPBefowler	魔化者 (Befowler)
+DPBefowlerInfo	强化盟友, 减益敌人
+DPArchitect	缔造者 (Architect)
+DPArchitectInfo	元素统治
+DPMainInfo	需要两名附近的官员才能进入维护模式。
+SkillGaleForce1	3 次命中 - 每次攻击
+DPCommanderPet	巫术精神 (Fetish Spirit)

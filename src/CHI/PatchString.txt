@@ -1296,7 +1296,7 @@ x	速速天降正义 Celeri Caelesti Iustitia
 x	120级后 物理抗性 +15%\n120级及以下 +25% 获得的经验
 x	变形树木守卫 Treewarden Morph
 x	雷破: +100% 闪电伤害加成
-11298	ÿc5+8% 物理/魔法法术伤害\n+25% 总角色防御\n+10 杀敌获取生命\n+1 所有技能\nÿc0(每镶有 1 个高级/元素符文加成)\nÿc8字数对应法 Gematria
+11298	ÿc5+8% 物理/魔法法术伤害\n+25% 防御加成\n+10 杀敌获取生命\n+1 所有技能\nÿc0(每镶有 1 个高级/元素符文加成)\nÿc8字数对应法 Gematria
 11299	+180% 伤害 - 对萨卡兰姆 (The Zakarum)
 x	ÿc5+20% to 元素抗性\n+0.75% 基础格挡率\n+1 所有技能\nÿc0(每有 1 个高级/元素符文加成)\nÿc8字数对应法 Gematria
 x	猴王万岁!
@@ -1344,7 +1344,7 @@ x	铁盾娘子: +15% 增强武器伤害(EWD) - 高于 120 的每一级角色等�
 11343	〈 海妖姿态 〉: +3% 伤害 - 每基础等级于〈圣殿骑士〉技能树\n等级 30 〈海妖姿态〉(Kraken Stance)
 11344	不造成元素或魔法伤害
 11345	无惧邪恶 Fear No Evil
-11346	50% 你的总角色防御加成加为体力
+11346	50% 你的总防御加成加为体力
 11347	ÿc5+600 法术专注\n+25% 物理抗性\n+33% 致命攻击 (DS)\n+100% 魔法物品获取率 (MF)\n+50% 施法速度\nÿc8〈雷电室女〉、〈酒神节〉与〈巨龙传说〉:\n如果你没有点数投入到〈母狮〉、〈铁盾娘子〉、
 11348	雷电路线: 150 杀敌恢复生命\n锤子路线: -30% 敌人闪电抗性
 11349	处刑: +14% 魔法伤害 - 每基础等级
@@ -1369,7 +1369,7 @@ x
 11368	恭喜!
 11369	在 1 分 30 秒内杀死黑星龙后于方块中重塑
 11370	+8 〈分叉闪电〉最大投射物
-11371	不造成压碎性打击\n你的攻击忽视亡灵的物理抗性\n40% 的仆从生命提高加为总角色防御\n12% 的仆从伤害提高加为致命攻击 (DS)
+11371	不造成压碎性打击\n你的攻击忽视亡灵的物理抗性\n40% 的仆从生命提高加为防御加成\n12% 的仆从伤害提高加为致命攻击 (DS)
 11372	(最大: 1 分钟的交集时间)\n在杀死英普瑞斯与马萨伊尔后于方块中重塑
 11373	与精华/符文石于方块中重塑以随机化属性(Roll Stat)
 11374	可用〈鬼魂出窍〉升级
@@ -1404,7 +1404,7 @@ x
 11403	增加 (40 ~ 60)% 的敏捷为魔法伤害至武器
 11404	Three's a Company'' )\n( ''Cross the Wide, Somber Seas I Will Sail\n''三人结伴，穿过重洋，航向阴暗大海''
 11405	( ''Cross the Wide, Somber Seas I Will Sail'' )\n''穿过重洋，航向阴暗大海''
-11406	ÿc5+25% 总角色防御\n-5% 元素抗性\n+5% 物理抗性\nÿc0(每有 1 个高级/元素符文加成)\nÿc8字数对应法 Gematria
+11406	ÿc5+25% 总防御加成\n-5% 元素抗性\n+5% 物理抗性\nÿc0(每有 1 个高级/元素符文加成)\nÿc8字数对应法 Gematria
 11407	狩猎恶灵: +1 投射物
 11408	狩猎恶灵: +2 投射物
 11409	-2% 敌人元素抗性 - 每〈奈非天之灵〉基础等级
@@ -1481,7 +1481,7 @@ StrCfgShowAutomapParty	地图上显示召唤物与雇佣兵
 11480	难度: 80%\n恭喜!
 11481	难度: 90%\n恭喜!
 11482	难度: 100%\n恭喜!
-11483	ÿc3与〈奖杯碎片〉重塑: 恢复 +20%\nÿc5最大元素抗性 +3%\n总角色防御 +50%\n+2 所有技能\nÿc0(基于恢复百分比)\nÿc8还原 Restitution
+11483	ÿc3与〈奖杯碎片〉重塑: 恢复 +20%\nÿc5最大元素抗性 +3%\n防御加成 +50%\n+2 所有技能\nÿc0(基于恢复百分比)\nÿc8还原 Restitution
 11484	ÿc3与〈奖杯碎片〉重塑: 恢复 +4%\nÿc5最大生命 +7%\n物理抗性 +15%\n+50% 作战速度 (Combat Speeds)\nÿc0(基于恢复百分比)\nÿc8还原 Restitution
 11485	ÿc3与〈奖杯碎片〉重塑: 恢复 +5%\nÿc5+50% 魔法物品获取率 (MF)\n+10 所有技能\n+150 杀敌获取生命\n-50% 敌人冰冷抗性\n变为所有职业可用\nÿc0(基于恢复百分比)\nÿc8还原 Restitution
 11486	ÿc5最大元素抗性 +3%\n总角色防御 +50%\n+2 所有技能\nÿc8奖杯祝福 Trophy Blessing
@@ -2132,4 +2132,44 @@ StrAutomapPing	Ping值:
 12131	ÿc致死一击时有52%几率释放60级的心灵风暴\nÿc8拥有25点至心灵风暴时
 12132	+低于7000生命时每秒再生1000生命 +1000 Life Regenerated per Second While Under 7000 Life\n
 12133	ÿc5<收割>持续时间现为15秒\nÿc5<收割>获得<绽放>的加成\nÿc5不能召唤<收割者>\nÿc8如果你在<熊人变化><狼人变化><鸮人><猎人>技能树中没有技能点：
-12134	
+12134	ÿc5a 开启黑暗之心传送门\n与一个学习印章G于方块中重塑\n将奈非天次元钥匙(Nephalem Dimensional Key)
+12135	铅弹: +10 投射物
+strHotkeydescEsc	切换游戏菜单
+strHotkeydescCharScreen	切换角色屏幕以查看你的属性和分配属性点
+strHotkeydescInventory	切换物品栏屏幕以管理你的物品
+strHotkeydescPartyScreen	切换队伍屏幕以查看游戏中的玩家，仅限多人游戏
+strHotkeydescMercScreen	切换佣兵物品栏屏幕以管理他们的物品，如果你有佣兵并且他们还活着
+strHotkeydescMsgLog	切换聊天消息日志
+strHotkeydescQuestScreen	切换任务屏幕以查看当前目标
+strHotkeydescSkillTree	切换技能树屏幕以分配技能点
+strHotkeydescSkillSelect	切换鼠标右键技能选择
+strHotkeydescSprint	按住以冲刺
+strHotkeydescSprintToggle	切换持续冲刺，无需按住冲刺控制键
+strHotkeydescStandstill	按住以原地施法技能，允许你施放通常需要你奔跑到目标处的法术
+strHotkeydescSwapWeap	在主副手物品栏间切换
+strHotkeydescClear	清除屏幕上所有打开的面板
+strHotkeydescShowItems	按住以显示你附近地面上的所有物品
+strHotkeydescTogglePickup	切换拾取地上物品，无需按住控制键来显示物品
+strHotkeydescTransmute	使用赫拉迪姆方块时，使用此控制键进行转换而无需点击转换按钮
+strHotkeydescSkill	快速分配分配给此键的技能。技能选择键可以在技能快捷栏中分配
+strHotkeydescQuickCast	施放分配给此键的技能。快速施法键可以在技能快捷栏中分配
+strHotkeydescNextPrevSkill	循环遍历你分配的技能选择键
+strHotkeydescUseBelt	使用你腰带中该列（1至4）的物品
+strHotkeydescShowBelt	切换显示你腰带中所有物品的全景图
+strHotkeydescChat	切换游戏内聊天窗口
+strHotkeydescClearMsg	清除屏幕上的所有聊天消息
+strHotkeydescShowPortraits	切换顶部左侧的盟友头像的可见性
+strHotkeydescScreencap	截取屏幕并将其存储在你的屏幕截图文件夹中
+strHotkeydescAutomap	切换你的地图
+strHotkeydescRevealMap	显示当前场景中的整个地图
+strHotkeydescMapSize	使用地图时切换到较小的地图视图
+strHotkeydescMapFade	使用地图时循环遍历不同的地图淡出设置
+strHotkeydescMinimapPos	使用较小的地图视图时切换地图位置
+strHotkeydescEmote	你的角色会发出的音频表情，周围的其他玩家将会听到
+12168	ÿc3+60% 物理抗性\nÿc5如果你的敏捷大于力量和体力之和:\nÿc3+500 法术专注\nÿc5如果你的能量大于力量和体力之和:\nÿc3+50% 固有元素伤害\n+100% 致命攻击\nÿc5如果你的力量大于敏捷和体力之和:
+12169	ÿc3+40% 图腾伤害协同\nÿc5如果你拥有魔灵:\nÿc3+20% 武器物理伤害(WPD)每一点<召唤系>技能树仆从基础等级\nÿc3+10% 仆从生命每一点<召唤系>技能树仆从基础等级\nÿc5如果你拥有拉斯玛的选择:\nÿc3鲜血骷髅从召唤物生命属性中获得双倍收益\nÿc3鲜血骷髅从龙焰燃油中获得三倍收益\nÿc5如果你拥有帷幕之王:
+12170	ÿc8+2% 增强武器伤害(EWD)每 3% 攻击速度\nÿc1不能被翻新
+12171	ÿc8+1 闪电伤害每 1% 总武器物理伤害(WPD)加成\n+1 闪电伤害每 1% 防御加成\nÿc1不能被翻新
+12172	ÿc8不会造成火、电或冰冷伤害\n〈喜极而狂〉: +300% 总伤害
+12173	ÿc5重塑10个屠夫的牙齿以解锁此任务\n难度等级: 125\nÿc4崔斯特姆地下的恐惧 (Uber)\n
+12174	ÿc5与胜利印记(Mark of Victory)重塑以使此护符属性翻倍\n与强化符文Urt(9#)重塑，获得任务入口卷轴\nÿc4崔斯特姆地下的恐惧 (Uber)\n

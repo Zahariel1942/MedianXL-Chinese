@@ -4407,10 +4407,10 @@ skillname8	内视 (Inner Sight)
 skillsd8	照亮并削弱附近的怪物
 skillld8	更容易击中目标\n让你和你的队伍成员\n照亮附近的敌人
 skillan8	内视
-skillname9	致命攻击 (Critical Strike)
+skillname9	暴击 (Critical Strike)
 skillsd9	被动 - 有机会造成两倍的伤害
 skillld9	被动 - 你的攻击可能对目标造成双倍伤害
-skillan9	致命攻击
+skillan9	暴击
 skillname10	戳刺 (Jab)
 skillsd10	利用突刺性武器快速的戳刺
 skillld10	以快速的刺击攻击数下\n使用镖枪或是长矛类的武器
@@ -7150,7 +7150,7 @@ txt#06	ÿc310% 作战速度\nÿc0与〈恶魔之灾〉于方块中重塑以增�
 txt#05	ÿc310% 移动速度\nÿc0与〈永恒骨堆〉于方块中重塑以增加额外属性\n
 txt#14	ÿc3最大元素抗性 +1%\nÿc0与〈Median荣耀之书〉于方块中重塑以增加额外属性\n
 txt#08	ÿc3+10% 召唤仆从抗性\n+20% 召唤仆从生命\nÿc0与〈虚荣神像〉于方块中重塑以增加额外属性\n
-txt#02	ÿc3总角色防御 20%\nÿc0与〈血之遗产〉于方块中重塑以增加额外属性\n
+txt#02	ÿc320% 防御加成\nÿc0与〈血之遗产〉于方块中重塑以增加额外属性\n
 txt#15	ÿc330% 魔法物品获取率 (MF)\nÿc0与〈腐化虫洞〉于方块中重塑以增加额外属性\n
 txt#01	ÿc3增强武器伤害 +20%\nÿc0与〈谎言之书〉于方块中重塑以增加额外属性\n
 txt#10	ÿc3+10% 法术伤害\nÿc0与〈乌雷的银印〉于方块中重塑以增加额外属性\n
@@ -7499,7 +7499,7 @@ Dreamweaver	织梦者 Dreamweaver
 Strixclaw	枭怪之爪 Strixclaw
 NewDryadbark	树妖皮 Dryadbark
 New3DryhtenEaldor	Dryhten Ealdor
-Dubhdroiacht	德鲁伊法术 Dubhdroiacht
+Dubhdroiacht	德鲁伊法术 Dubhdraiocht
 DurandaltheBlazingSword	烈火之剑杜隆达尔 Durandal the Blazing Sword
 Dusk Shard	黄昏碎片 Dusk Shard
 Dwaallicht	Dwaallicht
@@ -9240,7 +9240,7 @@ SkillsdValthekFlay	法术 - 射出围绕你的奥术闪电
 GlowingVertigo	发光眩晕 Glowing Vertigo
 Assault on Mt Arreat	亚瑞特圣峰 Arreat Summit
 To The Assault on Mt Arreat	ÿc0难度: ÿc2简单\n\nÿc8+ 亚瑞特山之战 Assault on Mount Arreat +\n\nÿc0地城任务\nÿc4Arreat Summit\n亚瑞特圣峰
-To Level Challenge 1	ÿc0需求等级: 50\n\nÿc8任务: 击败三位祭司\n\nÿc0等级挑战\nÿc4Tran Athulua\n阿图卢阿城
+To Level Challenge 1	ÿc0需求等级: 45\n\nÿc8任务: 击败三位祭司\n\nÿc0等级挑战\nÿc4Tran Athulua\n阿图卢阿城
 SkillnameBoltProc	弹 ( Bolt )
 SkillnameLexTalionis	以眼还眼 ( Lex Talionis )
 SkillsdLexTalionis	增益 - 敌人靠近你会触发报复性新星
@@ -9884,7 +9884,7 @@ SkillEarthquakeSyn	% 物理伤害加成 - 每基础等级
 SkillsdTslam	ÿc1需要一件近战武器\nÿc0攻击 - 炸出一股撼人的雷鸣
 SkillUpheavalSyn	 物理伤害至〈摔雷〉 - 每基础等级
 SkillUpheaval1	 基础物理伤害至〈摔雷〉
-SkillUpheaval2	(此伤害随你的增强武器伤害(EWD)加成提高)
+SkillUpheaval2	10% 的总力量加至增强武器伤害(EWD)
 SkillHoS1	ÿc1不造成火焰、冰冷或闪电伤害
 SkillHoS2	% 的武器物理伤害加成加为压碎性打击(CB)
 SkillHoS3	% 的物理物理伤害加成加为准确率
@@ -9954,3 +9954,5 @@ Angelic Touch	天使之触 Angelic Touch
 Louhi	洛希 Louhi
 cr21	任务物品 Quest Item\nÿc4充能的秘境石 Charged Riftstone (ÿc;16ÿc4)
 ebu	ÿc4时间精华 Essence of Time
+Mirror Temple	魔镜神殿
+To The Mirror Temple	ÿc0难度: ÿc1困难\n\nÿc8+ 宿敌 +\n\nÿc0地城任务\nÿc4魔镜神殿

@@ -4458,7 +4458,7 @@ SkillsdAvengingFury	ÿc1requires a bow or crossbowÿc0\nprojectile - fire a drag
 SkillsdAwww2	ÿc1requires a spearÿc0\nattack that sears the target and nearby enemies, blinding them
 SkillsdBacchusRides	ÿc8Your Skills Cost Life Instead of Mana\n\nÿc0passive - sacrifice your life force to obtain ruinous power
 SkillsdBackblast	ÿc1requires a naginata or halberd\nÿc0attack - create a circle of blades that repel enemies
-SkillsdBackstab	ÿc1requires a target\nÿc1requires a naginata or halberd\nÿc0attack - sneaky melee strike that cloaks you in shadow
+SkillsdBackstab	ÿc1requires a target\nÿc1requires a naginata or halberd\nÿc0attack - attacks the enemy's weak spot with enhanced damage
 SkillsdBalance	ÿc0passive - adds a flat bonus to your defense rating
 SkillsdBalefireA	ÿc0spell - tap into your life force to power a blast of green hellfire
 SkillsdBanish	ÿc0curse - renders target vulnerable to magic and elemental damage
@@ -4512,7 +4512,7 @@ SkillsdBTHS	ÿc1requires a melee weapon\nÿc7(requires Grim Presence)\nÿc0attac
 SkillsdBuck	ÿc1requires a crossbowÿc0\nprojectile - explode a corpse in a flurry of razor bolts
 SkillsdBurnInHellz	ÿc1requires a melee target\nrequires a melee weaponÿc0\nmelee attack that inflicts heavenly flames that spread to others
 SkillsdBzzzzzzzzzzzzz	ÿc0buff - periodically unleash deadly insect swarms when near enemies
-SkillsdCascade	ÿc1requires a bow or crossbowÿc0\nspell - rains a volley of arrows on a large area
+SkillsdCascade	ÿc1requires a bow or crossbowÿc0\nprojectile - rains a volley of arrows on a large area
 SkillsdCataclysm	ÿc0buff - infuse your spells and weapons with fiery power
 SkillsdCautious	ÿc1requires two melee weaponsÿc0\nattack - temporarily reduce damage taken
 SkillsdCharm	ÿc0converts a small area of monsters, forcing them to fight for you
@@ -4665,7 +4665,7 @@ SkillsdLArena	ÿc0buff - welcome to the thunderdome!
 SkillsdLaserblade	ÿc1requires a naginata or halberd\nÿc0passive - augments your offense and defense while wielding a naginata
 SkillsdLaughingGhost	ÿc1requires a bow or crossbowÿc0\nprojectile - focuses the hunter for more complex shots
 SkillsdLC0	ÿc3Use in wide open area at level 5 or less!\n\nÿc0Summon skill for Level Challenge 0
-SkillsdLegion	ÿc1requires a bow or crossbowÿc0\nprojectile - summon a legion of deadly archers to attack enemies
+SkillsdLegion	ÿc1requires a bow or crossbowÿc0\nprojectile - create a legion of deadly archers to attack enemies
 SkillsdLemu	ÿc1requires a melee weapon\nÿc7(requires Grim Presence)ÿc0\nattack - unleashes multiple homing ice wraiths
 SkillsdLethalS	ÿc1requires a claw\nÿc0attack - charge to unleash various finishers
 SkillsdLetItSnow	ÿc0spell - uses target enemy as a focus for a storm of ice and frost
@@ -5074,7 +5074,7 @@ DescLycEnabled	ÿc2 Skills in Werewolf Form become more effective\nÿc2Lycanthro
 DescThisIsLight	ÿc2Two neutral trees by remaining neutral\nOne neutral tree regardless of alignment\nYou may choose:\nNeutral Skill
 DescThisIsShadow	ÿc2Two neutral trees by remaining neutral\nOne neutral tree regardless of alignment\nYou may choose:\nNeutral Skill
 DescHarmedCharm	\n
-DescWhileCloaked	ÿc8While Cloaked:\n
+DescWhileCloaked	ÿc8While Backstabbing:\n
 DescMultiplier	\nÿc:by weapon damage multipliers on attack skills\nthe elemental damage from this skill is affected
 DescReflectNoKills	\nÿc:do not trigger on-death effects\nenemies killed by reflected damage
 DescReflectNoKillsC	\nÿc:do not trigger on-death effects\nenemies killed by reflected damage
@@ -5155,7 +5155,7 @@ DescRuneMasterHazEpicBuff	% Defense Bonus Multiplier per Base Level
 DescSnakeSynergy	+1% Slow Target per Base Level (Max 50%)
 DescMayThe	+1% Spell Damage per 
 DescRaptureQQ	% to All Speeds per Base Level
-DescMeLieksAvoid	Increased Avoid Chance by 1% per Base Level
+DescMeLieksAvoid	% Avoid per Base Level
 DescWolfStanceSyn	+12% Weapon Physical Damage per Base Level\n+2% Movement Speed per Base Level\n+1.5% Crushing Blow per Base Level
 DescGladDSlev	+1.25% Deadly Strike per Base Level
 DescTalonsSlowSyn2	+1.5% Slow per Base Level
@@ -5575,7 +5575,7 @@ DescWychbabble2	Rift Duration: 4 seconds
 DescNrRockets	Rockets: 
 DescStopCheesingUldyssian	Movement Speed: 
 DescDelayNukeAttempts	Total Fire and Physical damage per blast: 
-DescScourgesNr	Servants: 
+DescScourgesNr	Current Servants: 
 DescDur2PerLevelHymn	seconds duration per Base Level
 DesFireballDeath	Self-Destructs: Fireball Nova
 DescStormCloudNovaDeath	Self-Destructs: Shock Nova
@@ -5694,7 +5694,7 @@ Path to Enlightenment	Path to Enlightenment
 To The Path to Enlightenment	ÿc0Difficulty: ÿc1Hard\n\nÿc8+ Banisher of Light +\n\nÿc0Dungeon Quest\nÿc4Path to Enlightenment
 SymbiosisEff1	Symbiotic Link: 
 SymbiosisEff2	% Efficiency
-SymbiosisSyn	Harvesters: 1 Second Faster Regeneration per Base Level (Min 20s)\n+1% Chance to Avoid Damage per Base Level
+SymbiosisSyn	Harvesters: 1 Second Faster Regeneration per Base Level (Min 20s)\n+1% Chance to Avoid Damage per Base Level (Max 15%)
 SymbiosisSpell	Cold and Lightning Spell Damage: +
 SymbiosisMaxLevel	Base Level
 DescStuffedSym	ÿc0(Required Level: 115)\nÿc9Defeat Buyard Cholik in Bramwell\nÿc8Unlockable Skill\n
@@ -6031,7 +6031,7 @@ DescTotemsCanKite	Totem Chance to Avoid Damage:
 DescOneTwoThree	+1 Extra Totems per 5 Base Levels
 DescHomemadeBrewSauce	Increases Totem Avoid and Life per Base Level (Diminishing Returns)
 DescHelloImTotem	ÿc3life after each kill (healing you) and reanimates\nYour totems inherit all your spellcaster attributes,
-DescPactWithXbow	% to Enemy Fire Resistance\nÿc5(Based on Points in the Crossbow Tree)\nÿc8Alchemistÿc0\n
+DescPactWithXbow	% to Attack Speed\nÿc5(Based on Points in the Crossbow Tree)\nÿc8Alchemistÿc0\n
 DescPactWithDeathlord	% to Weapon Physical Damage\nÿc5(Based on Points in the Melee Tree)\nÿc8Deathlordÿc0\n
 DescPactWithNecropolis	% to Spell Damage\nÿc5(Based on Points in the Malice Tree)\nÿc8Nightwalkerÿc0\n
 DescImTrying	Improved Effect per Base Level
@@ -6236,7 +6236,7 @@ DescArtificer1	\n+25% Block Speed\n+10% to Vitality\n\nMaximum Fire and Cold Res
 DescArtificer2	ÿc8Claw Block
 DescArtificer3	% Chance to Block Attacks and Spells while wielding two Claws
 DescArtificer4	(Does not work while walking or running)
-DescArtificer5	+4% Chance to Block per Base Level
+DescArtificer5	% Chance to Block per Base Level
 DescSanguine4	% Total Life on Melee Attack per Base Level
 DescIncineration5	Duration: 10 seconds\n
 DescShockwave5	+4% Lightning Resistance Pierce per Base Level
@@ -6351,7 +6351,7 @@ VermilionSentry	Vermilion Sentry
 DestructionEdyrem	Edyrem of Destruction
 SkillnameExpMerc	
 Stormpick	Stormpick
-DescSolarFlareDur	+1 second duration per Base Level
+DescSolarFlareDur	Bonus Mana Synergy per Base Level (increasing returns)
 Fire Hydra	Witherfang
 DescWPD	% to Weapon Physical Damage
 ColdBlood	Cold Blood
@@ -6540,7 +6540,7 @@ mon_voidcreator	Use Scream of Trag'Oul to Break
 LesserRiftwalker	Lesser Riftwalker
 AcidDamage2	
 DescPcWDMBlank	% Weapon Damage\n
-DescHelloMeInTwoYears	Duration and Cooldown Increased per Base Level
+DescHelloMeInTwoYears	Backstab does not increase Weapon Physical Damage\nBackstab cooldown increased by 10 seconds\nBackstab duration increased by 10 seconds
 DescLFury	(Increases with Spell Damage)
 DescImbalanced	% Improved Defense per Base Level
 SkillnamePunishers	Punishers
@@ -6656,7 +6656,7 @@ PoisLenRes	Poison Length Reduced by
 SkillnameValiance	ÿc8Valiance
 SkillsdValiance	ÿc0upgrade - increases your movement speed
 DescValianceSyn	% Movement Speed per Base Level
-DescScourgeSyn	+1 Maximum Servant per 2 Base Levels (Max: 
+DescScourgeSyn	+1 Servant per 2 Base Levels (Max: 
 SkillnameConclave	ÿc8Conclave
 SkillsdConclave	ÿc0upgrade - empowers your servants of valor
 SkillnameFervor	ÿc8Fervor
@@ -6702,16 +6702,16 @@ SkillsdDragonjaws	ÿc0spell - shreds the target area with monstrous fangs
 DescDragonjawsSyn	Current Mana
 SkillnameDragonBreath	Dragon's Breath
 SkillsdDragonBreath	ÿc0debuff - reduces enemy fire resistance and fire damage
-DescDragonbreathSyn	Enemy Fire Resistance reduced by 2% per Base Level\nEnemy Fire Damage reduced by 1% per Base Level\nFire Spell Damage (Duration, Area)
+DescDragonbreathSyn	Enemy Fire and Lightning Damage reduced by 2% per Base Level\nEnemy Fire Resistance reduced by 4% per Base Level\nFire Spell Damage (Duration, Area)
 DescDragonBreath1	Area: 
 DescDragonBreath2	Enemy Fire Resistance: 
-DescDragonBreath3	Enemy Fire Damage: 
+DescDragonBreath3	Enemy Fire and Lightning Damage: 
 DescRagnarok1	Fireballs: 
 DescRagnarok2	Area of Effect: 
 SkillnameCombustion	ÿc8Combustion
 SkillsdCombustion	ÿc0upgrade - increases the offensive potency of Annihilation
 DescCombustionSyn	(Max area 10 yards)\nImproved Projectile and Radius Scaling per Base Level
-DescCombustion1	+20% Explosion Radius per 
+DescCombustion1	+0.6 yards Explosion Radius per 
 DescCombustion2	+1 Extra Projectile per 
 DescCombustion3	% Physical Spell Damage
 SkillnameApexpredator	ÿc8Apex Predator
@@ -6772,7 +6772,7 @@ SkillsdVampiricStrike	ÿc0upgrade - unleash a devastating melee blow while inspi
 SkillnameWingedCalamity	ÿc8Winged Calamity
 SkillsdWingedCalamity	ÿc0upgrade - familiars become exceptional in combat
 SkillnameExecution	ÿc8Execution
-SkillsdExecution	ÿc0upgrade - adds magic damage to Broadside while cloaked
+SkillsdExecution	ÿc1requires Broadside\nÿc0upgrade - adds magic damage to Broadside after backstabbing
 SkillnameMomentum	ÿc8Momentum
 SkillsdMomentum	ÿc0upgrade - increases proficency by reducing the cooldown
 SkillnameVoidGazer	ÿc8Void Gazer
@@ -6831,7 +6831,7 @@ BlackenedOne	Blackened One
 SwarmDeath	Swarm Death
 BloatedHost	Bloated Host
 DescLethalInc	Total Damage Increased by 
-DescLethalInc2	ÿc1Total Max Knives: 1
+DescLethalInc2	ÿc1Reduces Explosion Radius by 33%\nTotal Max Knives: 1
 DescTotalDmgBlvl	+%d%% Total Damage per Base Level
 DescLethalSyn2	+2% Movement Speed per Base Level
 DescVoidGazer	ÿc4Wychwind\n\nÿc1Warning: Disables Storm Crows, Maelstrom and Scorpion Blade
@@ -6992,7 +6992,7 @@ DescForgerSyn	+5% Maximum Life Regen per Base Level
 DescForgerHeal	% Maximum Life Regenerated over 5 seconds
 DescOuch	when hit by monster weapon damage
 DescEnemyARBlvl	 Enemy Attack Rating per Base Level
-DescAnyPsionic	(Psionic Skills, Prismatic Cloak, Doom)\n+1 Cognition per Base Level in Mind Skills\nÿc4Synergies
+DescAnyPsionic	(Psionic Skills, Perfect Being, Prismatic Cloak, Doom)\n+1 Cognition per Base Level in Mind Skills\nÿc4Synergies
 DescIQ	ÿc3Cognition: 
 DescEnergizeSyn	+1% Maximum Life Healed per Base Level
 DescEnergize2	ÿc3(Requires 10% Unspent Maximum Mana)
@@ -7012,8 +7012,8 @@ DescCog100A	\nÿc2You Have Bloodbath
 DescCog100B	\nÿc0You Have Bloodbath\nÿc8Reach 100 Cognition\n
 DescCog125A	\nÿc2Mind Ripple: Adds 25% of Magic Damage as Physical
 DescCog125B	\nÿc0Mind Ripple: Adds 25% of Magic Damage as Physical\nÿc8Reach 125 Cognition\n
-DescCog150A	\nÿc2Perfect Being: +25% Chance to Avoid Damage
-DescCog150B	\nÿc0Perfect Being: +25% Chance to Avoid Damage\nÿc8Reach 150 Cognition\n
+DescCog150A	\nÿc2-15% to Enemy Magic Resistance
+DescCog150B	\nÿc0-15% to Enemy Magic Resistance\nÿc8Reach 150 Cognition\n
 DescBlackHolesAndRevelations	+4% Total Damage per Base Level
 DescDejavu	Total Damage: +
 Overseer's Slippers	Overseer's Slippers
@@ -7313,7 +7313,7 @@ SkillnameFortitude	ÿc8Fortitude
 SkillsdFortitude	ÿc0upgrade - become a Tireless Warrior
 DescFortitudeSyn	+25 Maximum Stamina per Base Level
 SkillSuperposition2	+200% Cast Speed\nÿc8Entangled\n
-SkillsdSuperposition1	ÿc4lightning proficiency - requires 50 points in other lightning tree skills\nÿc1you cannot learn this skill if you have points in Mana Sweep\nÿc3disables the use of summoning skills\nÿc0warp - short ranged chain teleport leaving you entangled
+SkillsdSuperposition1	ÿc4lightning proficiency - requires 50 points in other lightning tree skills\nÿc1you cannot learn this skill if you have points in Mana Sweep\nÿc0warp - short ranged chain teleport leaving you entangled
 SkillnameEotS	ÿc8Eye of the Storm
 SkillsdEotS	ÿc0upgrade - you become shielded while casting Thunderstone
 DescPLRBlvl	+%d%% Poison Length Reduction per Base Level
@@ -7352,9 +7352,9 @@ SkillsdPyre	ÿc0upgrade - you gain physical resistance while casting Pyroblast
 SkillPyre1	\nPyroblast: -10% Total Damage
 DescTrinityArrowSyn	% Bonus Damage per Base Level
 SkillnameKeenSight	ÿc8Keen Sight
-SkillsdKeenSight	ÿc0upgrade - increases the seek range of wyrmshot
+SkillsdKeenSight	ÿc0and gives critical strike chance with bows and crossbows\nupgrade - increases the seek range of wyrmshot
 DescKeenSightRange	Wyrmshot seek range: 
-DescKeenSightSyn	Seek Range Increased by 0.65 yards per Base Level
+DescKeenSightSyn	+2% Critical Strike Chance per Base Level\nSeek Range Increased by 0.65 yards per Base Level
 SkillPyre2	1% Physical Resist per 
 SkillHavocSyn	Cooldown reduced by 1 second per 
 SkillSwarm1	Witch Blood: double damage scaling
@@ -7373,17 +7373,17 @@ MasteryEnduranceUnlock	\n\nÿc9Defeat Bartuc in the Chamber of Blood\nÿc8Unlock
 MasteryContinuityUnlock	\n\nÿc9Defeat Inarius in the Chapel of Vanity\nÿc8Unlockable Skill\nÿc1
 MasterySpecializationUnlock	\n\nÿc9Defeat Baal in the Worldstone Chamber on Hell difficulty\nÿc8Unlockable Skill\nÿc1
 MasteryChemistryUnlock	\n\nÿc9Defeat the Dark Star Dragon in under 1m 30s in Bremmtown\nÿc8Unlockable Skill\nÿc1
-SkillnameParadigmShift	Paradigm Shift
-SkillsdParadigmShift	ÿc0passive - Mooncall increases elemental power instead of physical
+SkillnameParadigmShift	Primordial Might
+SkillsdParadigmShift	ÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0passive - Mooncall increases elemental power instead of physical
 SkillParadigmShift1	% of Mooncall Physical Damage bonus added as Innate Elemental Damage
 SkillnameColdBlooded	ÿc8Cold Blooded
-SkillsdColdBlooded	ÿc0upgrade - Mooncall increases your cold pierce
-SkillColdBlooded1	1.5% of Dexterity reduces Enemy Cold Resistance
+SkillsdColdBlooded	ÿc0upgrade - using Bladestorm with a crystal sword triggers a Glacial Volley
+SkillColdBlooded1	% chance to cast Glacial Volley on Bladestorm
 SkillnamePremonition	ÿc8Premonition
 SkillsdPremonition	ÿc0upgrade - maximum block chance is increased during Fusillade
 SkillPremonition1	% Maximum Block Chance While Fusillade is Active
 SkillnameArcaneSustenance	ÿc8Arcane Sustenance
-SkillsdArcaneSustenance	upgrade - Mana Shield is improved while Fusillade is active
+SkillsdArcaneSustenance	ÿc0upgrade - Mana Shield is improved while Fusillade is active
 SkillArcaneSustenance1	% of Maximum Mana restored on Melee Attack
 SkillArcaneSustenance2	Mana Shield: 50% less Mana drained when hit
 SkillFusilladeSyn	% of Dexterity added as Magic Damage per Base Level
@@ -7718,7 +7718,7 @@ SkillnameConductivity	ÿc8Conductivity
 SkillsdConductivity	ÿc0upgrade - Stormcall has a chance to cast Askari Lightning on hit
 SkillnameDetermination	Determination
 SkillsdDetermination	ÿc3only allows the use of melee, summoning and buff/debuff skillsÿc0\npassive - sacrifices elemental damage capabilities to increase your defense
-SkillTenacity1	\nÿc8Deal no Fire, Cold or Lightning Damage
+SkillTenacity1	\nÿc4Physical Damage Specialization
 SkillTenacity2	% of Weapon Physical Damage Bonuses added as Bonus Defense
 SkillnameLethalFocus	Fatal Focus
 SkillsdLethalFocus	ÿc0passive - increases your deadly strike at the cost of your maximum block chance
@@ -7746,7 +7746,7 @@ SkillsdHoZUpgrade	ÿc0upgrade - your hammers have a chance to bounce and explode
 SkillElementalCommand1	Increases Trinity Arrow and Barrage max Base Level by 1 per 
 SkillElementalCommand2	 Character Levels
 SkillnameSalvo	ÿc8Honing
-SkillsdSalvo	ÿc0upgrade - changes Stampede's damage mechanics
+SkillsdSalvo	ÿc0upgrade - specializes Stampede for poison damage delivery
 SkillSalvo1	Stampede weapon damage increases to 
 SkillSalvo2	Stampede bonus physical and magic damage removed
 DmgDemonsDesc	% Damage to Demons
@@ -7814,7 +7814,7 @@ DescAnimalCompSyn1	More Bear life per Base Level (Increasing returns, Max: +
 DescCascade1	\nÿc1Bonus fire damage reduced by 66% without Steady Aim\nÿc3Consumes Steady Aim
 SkillnamePrimalBond	Primal Bond
 SkillsdPrimalBond	ÿc1requires 25 points in Bear Companion\nÿc0passive - increases weapon physical damage based on summon resists
-SkillPrimalBond1	% Weapon Physical Damage per 1% Summoned Minion Resistances (Max +750%)
+SkillPrimalBond1	% Weapon Physical Damage per 1% Summoned Minion Resistances (Max +800%)
 SkillPrimalBondSyn	+1% Weapon Physical Damage per 
 DescBacchSyn3	% Bonus to Mana Regeneration
 DescFeedItSyn	-1% Enemy Cold Resistance per 2% Life Steal
@@ -7888,7 +7888,42 @@ crX21	ÿc0Difficulty: ÿc8Impossible\nÿc0Area Level: 150\nÿc4The Heart of Dark
 SkillnameDecoy	Decoy
 SkillsdDecoy	ÿc0summon - spawn a decoy to distract your foes
 DescDecoyLast	% of Caster Life
-DescDecoySyn	% of Caster Life per Base Level
+DescDecoySyn	Cooldown reduced by 0.4 seconds per Base Level
 DescDecoyBaseHP	Base Life: 
 DescDecoyLove	ÿc3Affected by Minion Stat Bonuses
 BaseLevels	 Base Levels
+Breath of Fire	Breath of Fire
+DescIgniteSkills	Fragmentation Shot
+DescIgnitePierceSyn	-1.5% to Enemy Fire Resistance per Base Level (max 35%)
+DescConvertToRandom	Converts %d%% Physical Damage to Fire, Cold, or Lightning
+Divebomb	Foul Vermin
+DescWPNPhys	% Weapon Physical Damage
+DescBackstabHit	200% Weapon Damage\n4 Hits per Attack
+wm01	Maiden Bow (Mastercrafted)
+SkillPrimordia1	\nÿc4 Elemental Damage Specialization
+SkillColdBlooded2	Deals damage equal to 125% of your total Cold weapon damage\nConverts your Fire and Lightning weapon damage to Cold\n3 Piercing Projectiles\nÿc2Glacial Volley\n
+wm02	Kukri (Mastercrafted)
+Maenad	Maenad
+AthuluasBlessing	Athulua's Blessing
+UberButchersTooth	Butcher's Tooth (Uber)
+b60	ÿc;The Butcher's Tooth (Uber)
+virx	ÿc;Mark of Victory
+vrx1	ÿc4Horror Under Tristram (Uber)
+ssx1	ÿc5Quest Item\nÿc4Scroll of Summoning
+To The Uber Butcher	ÿc0Difficulty: ÿc;Very Hard\n\nÿc8+ Horror Under Tristram (Uber) +\n\nÿc0Dungeon Quest\nÿc4Butcher's Lair
+uButcherRand	The Butcher (Flameblast)
+SkillStampedeX	Bonus Physical Damage increases with 
+SkillStampedeXX	% of total Strength
+setloot	(Cost: 50000 gold)\nCube with Arcane Crystal to create ÿc2Set Item\nÿc8Explorer's Cache
+Nemesis	ÿc1Nemesis
+DPBulwark	Bulwark
+DPBulwarkInfo	Projector regenerates 4%% life per second
+DPCommander	Commander
+DPCommanderInfo	Summons allies
+DPBefowler	Befowler
+DPBefowlerInfo	Buffs allies, Debuffs enemies
+DPArchitect	Architect
+DPArchitectInfo	Elemental Dominion
+DPMainInfo	Requires two officers nearby to enter maintenance mode
+SkillGaleForce1	3 Hits per Attack
+DPCommanderPet	Fetish Spirit

@@ -7150,7 +7150,7 @@ txt#06	ÿc310% Combat Speeds\nÿc0Cube with the Demonsbane to Add Bonus\n
 txt#05	ÿc310% Movement Speed\nÿc0Cube with the Eternal Bone Pile to Add Bonus\n
 txt#14	ÿc3Maximum Elemental Resists +1%\nÿc0Cube with the Glorious Book of Median to Add Bonus\n
 txt#08	ÿc3+10% to Summoned Minion Resistances\n+20% to Summoned Minion Life\nÿc0Cube with the Idol of Vanity to Add Bonus\n
-txt#02	ÿc3Total Character Defense 20%\nÿc0Cube with the Legacy of Blood to Add Bonus\n
+txt#02	ÿc320% Bonus to Defense\nÿc0Cube with the Legacy of Blood to Add Bonus\n
 txt#15	ÿc330% Magic Find\nÿc0Cube with the Corrupted Wormhole to Add Bonus\n
 txt#01	ÿc3Enhanced Weapon Damage +20%\nÿc0Cube with the Book of Lies to Add Bonus\n
 txt#10	ÿc3+10% to Spell Damage\nÿc0Cube with the Silver Seal of Ureh to Add Bonus\n
@@ -7499,7 +7499,7 @@ Dreamweaver	Dreamweaver
 Strixclaw	Strixclaw
 NewDryadbark	Dryadbark
 New3DryhtenEaldor	Dryhten Ealdor
-Dubhdroiacht	Dubhdroiacht
+Dubhdroiacht	Dubhdraiocht
 DurandaltheBlazingSword	Durandal the Blazing Sword
 Dusk Shard	Dusk Shard
 Dwaallicht	Dwaallicht
@@ -9240,7 +9240,7 @@ SkillsdValthekFlay	spell - emit arcane lightning around you
 GlowingVertigo	Glowing Vertigo
 Assault on Mt Arreat	Arreat Summit
 To The Assault on Mt Arreat	ÿc0Difficulty: ÿc2Easy\n\nÿc8+ Assault on Mount Arreat +\n\nÿc0Dungeon Quest\nÿc4Arreat Summit
-To Level Challenge 1	ÿc0Required Level: 50\n\nÿc8Quest: Defeat the three Priestesses\n\nÿc0Level Challenge\nÿc4Tran Athulua
+To Level Challenge 1	ÿc0Required Level: 45\n\nÿc8Quest: Defeat the three Priestesses\n\nÿc0Level Challenge\nÿc4Tran Athulua
 SkillnameBoltProc	Bolt
 SkillnameLexTalionis	Lex Talionis
 SkillsdLexTalionis	buff - enemies near you trigger retaliate novas
@@ -9884,7 +9884,7 @@ SkillEarthquakeSyn	% Bonus Physical Damage per Base Level
 SkillsdTslam	ÿc1requires a melee weapon\nÿc0attack - blast out a stunning thunderclap
 SkillUpheavalSyn	 Physical Damage to Thunderslam per Base Level
 SkillUpheaval1	 Base Physical Damage to Thunderslam
-SkillUpheaval2	(this damage increases with your Enhanced Weapon Damage bonuses)
+SkillUpheaval2	Enhanced Weapon Damage bonuses\n10% of Total Strength
 SkillHoS1	ÿc1Deal no Fire, Cold or Lightning damage
 SkillHoS2	% of Weapon Physical Damage bonuses added as Crushing Blow
 SkillHoS3	% of Weapon Physical Damage bonuses added as Attack Rating
@@ -9954,3 +9954,5 @@ Angelic Touch	Angelic Touch
 Louhi	Louhi
 cr21	Quest Item\nÿc4Charged Riftstone (ÿc;16ÿc4)
 ebu	Essence of Time
+Mirror Temple	The Mirror Temple
+To The Mirror Temple	ÿc0Difficulty: ÿc1Hard\n\nÿc8+ Nemesis +\n\nÿc0Dungeon Quest\nÿc4The Mirror Temple
