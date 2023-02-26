@@ -5165,7 +5165,7 @@ DescPredatorSyn	+1-2% 生命偷取 - 每 2 基础等级
 FuckVizharan	更多治疗 - 每基础等级 (收益递减)
 DescUBerElemSyn	+15% 元素伤害 - 每基础等级\n拉斯玛的选择 (Rathma's Chosen)
 DescBladeSpiritsSyn	+15% 生命与伤害 - 每基础等级
-DescBlankBaneblade3	+150% 格挡速度\n+1% 格挡基础几率\n\n冷却时间: 5 秒\n持续时间: 20 分钟\n
+DescBlankBaneblade3	+150% 格挡速度\n\n冷却时间: 5 秒\n持续时间: 20 分钟\n
 DescGladBlank	+150% 格挡速度\n+6% 格挡基础几率\n
 DescWelcomeBack	+1 生命 - 打击时 - 每基础等级
 DescItAlwaysGetsWorse	+2% 躲避几率至图腾 - 每基础等级
@@ -7285,7 +7285,7 @@ DescIEDIncr	固有元素伤害:
 DescElementalCommandSyn	+%d%% 固有元素伤害 - 每基础等级
 DescElementalCommandUpg	ÿc2巨龙传说 Dragonlore
 SkillnameFireatWill	ÿc8自由射击 (Fire at Will)
-SkillsdFireatWill	ÿc0升级 - 〈方阵〉生效时提高速度
+SkillsdFireatWill	ÿc0升级 - 〈诱饵〉生效时提高速度
 DescFireatWillSyn	冷却时间减少 0.6 秒 - 每基础等级
 DescSorcBlvlBonus	% 伤害乘数(Multiplier) - 每基础等级
 DescCrystallineB1	\n(收益递增 -随 冰冷法术伤害)
@@ -7927,3 +7927,7 @@ DPArchitectInfo	元素统治
 DPMainInfo	需要两名附近的官员才能进入维护模式。
 SkillGaleForce1	3 次命中 - 每次攻击
 DPCommanderPet	巫术精神 (Fetish Spirit)
+TombTerror	墓地邪物 (Tomb Terror)
+AbyssLord	深渊领主 (Abyss Lord)
+SireOfDark	深暗领主 (Sire of Darkness)
+mon_nemummy	死亡时释放处刑 (Crucify)
