@@ -6808,7 +6808,7 @@ N0+S	ÿc8魔法容器 Magical Vessel
 &84	ÿc8神秘球体 Mystic Orb\n恶魔核心 The Demon Core
 &70	ÿc8神秘球体 Mystic Orb\n无尽之光 The Endless Light
 &78	ÿc8神秘球体 Mystic Orb\n月之水晶 The Moon Crystal
-&95	ÿc8神秘球体 Mystic Orb\n完美球体 The Perfect Sphere
+&95	ÿc8神秘球体 Mystic Orb\n风暴之眼 Eye of the Storm
 &85	ÿc8神秘球体 Mystic Orb\n乌迪贤之魂 Uldyssian's Spirit
 &82	ÿc8神秘球体 Mystic Orb\n维兹郡的滚珠 Vizjun's Ball Bearing
 &87	ÿc8神秘球体 Mystic Orb\n战争使者 Warbringer
@@ -9956,3 +9956,4 @@ cr21	任务物品 Quest Item\nÿc4充能的秘境石 Charged Riftstone (ÿc;16ÿ
 ebu	ÿc4时间精华 Essence of Time
 Mirror Temple	魔镜神殿
 To The Mirror Temple	ÿc0难度: ÿc1困难\n\nÿc8+ 宿敌 +\n\nÿc0地城任务\nÿc4魔镜神殿
+&96	ÿc8神秘球体 Mystic Orb\n隐形 Invisible

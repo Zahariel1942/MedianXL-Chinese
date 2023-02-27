@@ -7901,12 +7901,12 @@ DescWPNPhys	% 武器物理伤害(WPD)
 DescBackstabHit	200% 武器伤害\n4 次命中 - 每次攻击
 wm01	女士之弓 (大师级)
 SkillPrimordia1	\nÿc4 元素伤害特化
-SkillColdBlooded2	造成你的 125% 的武器冰冷伤害\n转换你的火焰和闪电武器伤害至冰冷\n3 个穿刺投射物\nÿc2冰川齐射(Glacial Volley)\n
+SkillColdBlooded2	造成你的 140% 的武器冰冷伤害\n转换你的火焰和闪电武器伤害至冰冷\n3 个穿刺投射物\nÿc2冰川齐射(Glacial Volley)\n
 wm02	反曲刀 (大师级)
 Maenad	酒神信徒 (Maenad)
 AthuluasBlessing	阿图卢阿的祝福
 UberButchersTooth	屠夫的牙齿 (Uber)
-b60	ÿc;The 屠夫的牙齿 (Uber)
+b60	ÿc;屠夫的牙齿 (Uber)
 virx	ÿc;胜利印记 (Mark of Victory)
 vrx1	ÿc4崔斯特姆地下的恐惧 (Uber)
 ssx1	ÿc5任务物品\nÿc4召唤卷轴
@@ -7914,10 +7914,10 @@ To The Uber Butcher	ÿc0难度: ÿc;非常困难\n\nÿc8+ 崔斯特姆地下的�
 uButcherRand	屠夫 (火焰冲击)
 SkillStampedeX	物理伤害增加
 SkillStampedeXX	% 的力量
-setloot	(金币花费: 50000)\n与奥术水晶一起重塑，创造ÿc2套装物品\nÿc8探险家的储藏箱
+setloot	与两颗奥术水晶于方块中重塑以创造ÿc2套装物品\nÿc8探险家的储藏箱 Explorer's Cache
 Nemesis	ÿc1宿敌
 DPBulwark	防壁 (Bulwark)
-DPBulwarkInfo	投射者回复 4%% 生命每秒
+DPBulwarkInfo	投射者回复 3%% 生命每秒
 DPCommander	指挥官 (Commander)
 DPCommanderInfo	召唤盟友
 DPBefowler	魔化者 (Befowler)
@@ -7931,3 +7931,11 @@ TombTerror	墓地邪物 (Tomb Terror)
 AbyssLord	深渊领主 (Abyss Lord)
 SireOfDark	深暗领主 (Sire of Darkness)
 mon_nemummy	死亡时释放处刑 (Crucify)
+moss	ÿc0方块重塑材料 Cube Reagent\nÿc8阴影之镜 Mirror of Shadows
+MoSAma	ÿc3+1 至亚马逊技能等级\n物理伤害减少 5\nÿc0与 神圣太阳石 Sacred Sunstone 于方块中重塑以增加额外属性\n\n(只限亚马逊)
+MoSAss	ÿc3+1 至刺客技能等级\n物理伤害减少 5\nÿc0与 暗影涡流 Shadow Vortex 于方块中重塑以增加额外属性\n\n(只限刺客)
+MoSBar	ÿc3+1 至野蛮人技能等级\n物理伤害减少 5\nÿc0与 世界之石球体 Worldstone Orb 于方块中重塑以增加额外属性\n\n(只限野蛮人)
+MoSDru	ÿc3+1 至德鲁伊技能等级\n物理伤害减少 5\nÿc0与 草·杜拉果实 Caoi Dulra Fruit 于方块中重塑以增加额外属性\n\n(只限德鲁伊)
+MoSNec	ÿc3+1 至死灵法师技能等级\n物理伤害减少 5\nÿc0与 灵魂石碎片 Soulstone Shard 于方块中重塑以增加额外属性\n\n(只限死灵法师)
+MoSPal	ÿc3+1 至圣骑士技能等级\n物理伤害减少 5\nÿc0与 神力之眼 Eye of Divinity 于方块中重塑以增加额外属性\n\n(只限圣骑士)
+MoSSor	ÿc3+1 至魔法使技能等级\n物理伤害减少 5\nÿc0与 枢纽水晶 Nexus Crystal 于方块中重塑以增加额外属性\n\n(只限魔法使)

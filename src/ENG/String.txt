@@ -6808,7 +6808,7 @@ N0+S	ÿc8Magical Vessel
 &84	ÿc8Mystic Orb\nThe Demon Core
 &70	ÿc8Mystic Orb\nThe Endless Light
 &78	ÿc8Mystic Orb\nThe Moon Crystal
-&95	ÿc8Mystic Orb\nThe Perfect Sphere
+&95	ÿc8Mystic Orb\nEye of the Storm
 &85	ÿc8Mystic Orb\nUldyssian's Spirit
 &82	ÿc8Mystic Orb\nVizjun's Ball Bearing
 &87	ÿc8Mystic Orb\nWarbringer
@@ -9956,3 +9956,4 @@ cr21	Quest Item\nÿc4Charged Riftstone (ÿc;16ÿc4)
 ebu	Essence of Time
 Mirror Temple	The Mirror Temple
 To The Mirror Temple	ÿc0Difficulty: ÿc1Hard\n\nÿc8+ Nemesis +\n\nÿc0Dungeon Quest\nÿc4The Mirror Temple
+&96	ÿc8Mystic Orb\nInvisible

@@ -1369,7 +1369,7 @@ x
 11368	Congratulations!
 11369	Cube after Killing Dark Star Dragon in Under 1 Minute and 30 Seconds
 11370	+8 to Maximum Forked Lightning Projectiles
-11371	Deal No Crushing Blows\nYour Attacks Ignore the Physical Resistance of the Undead\n40% of Minion Life Increases Added as Bonus to Defense\n12% of Minion Damage Increases Added as Deadly Strike
+11371	Deal No Crushing Blows\n40% of Minion Life Increases Added as Bonus to Defense\n12% of Minion Damage Increases Added as Deadly Strike
 11372	(Max: 1 minute from each other)\nCube after Killing Imperius and Malthael
 11373	Cube with Essence/Runestone to Roll Stat
 11374	Can be Upgraded with Ghost Trance
