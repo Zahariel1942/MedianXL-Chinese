@@ -7939,3 +7939,4 @@ MoSDru	ÿc3+1 至德鲁伊技能等级\n物理伤害减少 5\nÿc0与 草·杜�
 MoSNec	ÿc3+1 至死灵法师技能等级\n物理伤害减少 5\nÿc0与 灵魂石碎片 Soulstone Shard 于方块中重塑以增加额外属性\n\n(只限死灵法师)
 MoSPal	ÿc3+1 至圣骑士技能等级\n物理伤害减少 5\nÿc0与 神力之眼 Eye of Divinity 于方块中重塑以增加额外属性\n\n(只限圣骑士)
 MoSSor	ÿc3+1 至魔法使技能等级\n物理伤害减少 5\nÿc0与 枢纽水晶 Nexus Crystal 于方块中重塑以增加额外属性\n\n(只限魔法使)
+limit_60	/ 60%

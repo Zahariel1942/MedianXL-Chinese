@@ -7483,7 +7483,7 @@ Dragon Tail	龙尾 Dragon Tail
 ValaskaSU3	龙爪 Dragonclaw
 Dragonfire	龙焰 Dragonfire
 WristBladeSU3	龙鱼 Dragonfish
-EyeofTheStorm	暴风之眼 Eye of the Storm
+EyeofTheStorm	风暴之弧 Storm Arc
 BoneScalpel	剖骨刀 Bone Scalpel
 Dragon's Blood	龙血 Dragon's Blood
 Dragon's Breach	Dragon's Breach
@@ -9957,3 +9957,5 @@ ebu	ÿc4时间精华 Essence of Time
 Mirror Temple	魔镜神殿
 To The Mirror Temple	ÿc0难度: ÿc1困难\n\nÿc8+ 宿敌 +\n\nÿc0地城任务\nÿc4魔镜神殿
 &96	ÿc8神秘球体 Mystic Orb\n隐形 Invisible
+Talon	猛禽 Talon
+ModMaxAvoid	最大躲避几率

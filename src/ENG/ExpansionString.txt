@@ -7939,3 +7939,4 @@ MoSDru	ÿc3+1 to Druid Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cube with
 MoSNec	ÿc3+1 to Necromancer Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cube with Soulstone Shard to Add Bonus\n\n(Necromancer Only)
 MoSPal	ÿc3+1 to Paladin Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cube with Eye of Divinity to Add Bonus\n\n(Paladin Only)
 MoSSor	ÿc3+1 to Sorceress Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cube with Nexus Crystal to Add Bonus\n\n(Sorceress Only)
+limit_60	/ 60%

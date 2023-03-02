@@ -7483,7 +7483,7 @@ Dragon Tail	Dragon Tail
 ValaskaSU3	Dragonclaw
 Dragonfire	Dragonfire
 WristBladeSU3	Dragonfish
-EyeofTheStorm	Eye of the Storm
+EyeofTheStorm	Storm Arc
 BoneScalpel	Bone Scalpel
 Dragon's Blood	Dragon's Blood
 Dragon's Breach	Dragon's Breach
@@ -9957,3 +9957,5 @@ ebu	Essence of Time
 Mirror Temple	The Mirror Temple
 To The Mirror Temple	ÿc0Difficulty: ÿc1Hard\n\nÿc8+ Nemesis +\n\nÿc0Dungeon Quest\nÿc4The Mirror Temple
 &96	ÿc8Mystic Orb\nInvisible
+Talon	Talon
+ModMaxAvoid	Maximum Avoid Chance

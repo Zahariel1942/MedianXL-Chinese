@@ -1315,7 +1315,7 @@ x	+20 最大〈魔仆〉技能等级
 x	幽灵之舞: +300% 魔法伤害加成
 x	+1% 物理抗性 - 每 18% 法力恢复
 x	每 20 体力 +1% 物理/魔法法术伤害
-x	与符文于方块中重塑以开启时空裂缝(Time Rift)\n
+11317	与符文于方块中重塑以开启时空裂缝(Time Rift)\n
 x	-5% 致命攻击(DS) - 每 1% 攻击速度\n+400% 致命攻击(DS)
 x	铁盾娘子: +15% 增强武器伤害(EWD) - 高于 120 的每一级角色等级
 11320	无法升级
@@ -2127,7 +2127,7 @@ StrAutomapPing	Ping值:
 12126	ÿc8怪异圣坛 Weird Shrine
 12127	深渊也凝视着你 the abyss gazes also into you\n如果你长时间凝视深渊 And if you gaze for long into an abyss\n\n从而变成怪物 thereby become a monster\n仍需小心谨慎，以免他 might take care lest he\n与怪物战斗的人 He who fights with monsters\n
 12128	等级 1 救赎光环 Salvation Aura
-12129	+140 魔法伤害 - 每 1% 致命攻击(DS)
+12129	+105 魔法伤害 - 每 1% 致命攻击(DS)
 12130	龙颚减少敌人30%物理抗性，持续1秒 Dragon Jaws reduces enemy physical resist by 30% for 1 second\n龙颚攻击范围提升 30% Dragon Jaws area increased by 30%
 12131	ÿc致死一击时有52%几率释放60级的心灵风暴\nÿc8拥有25点至心灵风暴时
 12132	+低于7000生命时每秒再生1000生命 +1000 Life Regenerated per Second While Under 7000 Life\n

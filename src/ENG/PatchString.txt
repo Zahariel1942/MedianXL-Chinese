@@ -1315,7 +1315,7 @@ x	+20 to Maximum Familiar Skill Level
 x	Spiral Dance: +300% Bonus Magic Damage
 x	+1% Physical Resist per 18% Mana Regeneration
 x	+1% Physical/Magic Spell Damage per 20 Vitality
-x	Cube with Rune to Open Time Rift\n
+11317	Cube to open Time Rift\n
 x	-5% Deadly Strike per 1% Attack Speed\n+400% Deadly Strike
 x	Shieldmaiden: +15% Enhanced Weapon Damage per character level above 120
 11320	Cannot be Upgraded
@@ -2127,7 +2127,7 @@ StrAutomapPing	Ping:
 12126	ÿc8Weird Shrine\n
 12127	the abyss gazes also into you\nAnd if you gaze for long into an abyss\n\nthereby become a monster\nmight take care lest he\nHe who fights with monsters\n\n\n
 12128	Level 1 Salvation Aura
-12129	+140 Magic Damage per 1% Deadly Strike
+12129	+105 Magic Damage per 1% Deadly Strike
 12130	Dragon Jaws reduces enemy physical resist by 30% for 1 second\nDragon Jaws area increased by 30%
 12131	ÿc52% Chance to Cast level 60 Eldritch Storm on Death Blow\nÿc8With 25 Points in Eldritch Storm
 12132	+1000 Life Regenerated per Second While Under 7000 Life
