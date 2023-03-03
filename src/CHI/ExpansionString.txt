@@ -6285,7 +6285,6 @@ DescPedoSpeed	+5% 打击恢复 - 每基础等级
 DescPedoConvert	 (基于体力)
 DescEvilPriestLol	+1% 复生几率 (Reanimate) - 每基础等级 (最大: 20%)
 DescFamineMaxLife	+50 最大生命 - 每基础等级
-DescBringFood	2% 生命所偷取 (Leeched) - 每基础等级
 DescPrimarch	+100 最大生命 - 每基础等级
 DescHPBlank	 最大生命\n
 DOptional1	折跃技能冷却提高 20 秒
