@@ -2127,7 +2127,7 @@ StrAutomapPing	Ping值:
 12126	ÿc8怪异圣坛 Weird Shrine
 12127	深渊也凝视着你 the abyss gazes also into you\n如果你长时间凝视深渊 And if you gaze for long into an abyss\n\n从而变成怪物 thereby become a monster\n仍需小心谨慎，以免他 might take care lest he\n与怪物战斗的人 He who fights with monsters\n
 12128	等级 1 救赎光环 Salvation Aura
-12129	+105 魔法伤害 - 每 1% 致命攻击(DS)
+12129	+95 魔法伤害 - 每 1% 致命攻击(DS)
 12130	龙颚减少敌人30%物理抗性，持续1秒 Dragon Jaws reduces enemy physical resist by 30% for 1 second\n龙颚攻击范围提升 30% Dragon Jaws area increased by 30%
 12131	ÿc致死一击时有52%几率释放60级的心灵风暴\nÿc8拥有25点至心灵风暴时
 12132	+低于7000生命时每秒再生1000生命 +1000 Life Regenerated per Second While Under 7000 Life\n
@@ -2170,6 +2170,6 @@ strHotkeydescEmote	你的角色会发出的音频表情，周围的其他玩家�
 12169	ÿc3+40% 图腾伤害协同\nÿc5如果你拥有魔灵:\nÿc3+20% 武器物理伤害(WPD)每一点<召唤系>技能树仆从基础等级\nÿc3+10% 仆从生命每一点<召唤系>技能树仆从基础等级\nÿc5如果你拥有拉斯玛的选择:\nÿc3鲜血骷髅从召唤物生命属性中获得双倍收益\nÿc3鲜血骷髅从龙焰燃油中获得三倍收益\nÿc5如果你拥有帷幕之王:
 12170	ÿc8+2% 增强武器伤害(EWD)每 3% 攻击速度\nÿc1不能被翻新
 12171	ÿc8+1 闪电伤害每 1% 总武器物理伤害(WPD)加成\n+1 闪电伤害每 1% 防御加成\nÿc1不能被翻新
-12172	ÿc8不会造成火、电或冰冷伤害\n〈喜极而狂〉: +300% 总伤害
+12172	ÿc8火焰、冰冷、闪电穿透减少 100\n不会造成火、电或冰冷伤害\n〈喜极而狂〉: +300% 总伤害
 12173	ÿc5将 10个 屠夫的牙齿 The Butcher's Tooth 于方块中重塑以解锁此任务\n难度等级: 125\nÿc4崔斯特姆地下的恐惧 (Uber)\n
 12174	ÿc5与 胜利印记(Mark of Victory) 于方块中重塑以使此护符属性翻倍\n与 强化符文Urt(9#) 于方块中重塑以获得任务入口卷轴\nÿc4崔斯特姆地下的恐惧 (Uber)\n

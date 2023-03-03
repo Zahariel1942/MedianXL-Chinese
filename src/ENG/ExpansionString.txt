@@ -6284,7 +6284,7 @@ DescTimerLossPedo	Cooldown Reduced by 0.2 seconds per Base Level
 DescPedoSpeed	+5% Hit Recovery per Base Level
 DescPedoConvert	 (Based on Vitality)
 DescEvilPriestLol	+1% Reanimate Chance per Base Level (Max: 20%)
-DescBringFood	2% Life Leeched per Base Level
+DescFamineMaxLife	+50 Maximum Life per Base Level
 DescPrimarch	+100 Maximum Life per Base Level
 DescHPBlank	 Maximum Life\n
 DOptional1	Warp skill cooldowns increased by 20 seconds
@@ -7940,3 +7940,41 @@ MoSNec	ÿc3+1 to Necromancer Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cub
 MoSPal	ÿc3+1 to Paladin Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cube with Eye of Divinity to Add Bonus\n\n(Paladin Only)
 MoSSor	ÿc3+1 to Sorceress Skill Levels\nPhysical Damage Reduced by 5\nÿc0Cube with Nexus Crystal to Add Bonus\n\n(Sorceress Only)
 limit_60	/ 60%
+statExplanation str	Required to wear most items, increases damage on some builds
+statExplanation dex	Required to wear certain items, provides Attack Rating, block chance with a shield, increases damage on some builds
+statExplanation vit	Increases Life
+statExplanation enr	Increases Mana Points, increases damage on most spells
+statExplanation buffdur	Increases the duration of most skill effects
+statExplanation sigs	Obtained from disenchanting items and killing enemies
+statExplanation ewd	Multiplier to physical weapon damage (before conversion). Additive to Str/Dex Damage Bonus
+statExplanation innateele	Innate Elemental Damage multiplier. Only specific weapons provide Innate Elemental Damage
+statExplanation ar	Increases the accuracy of your weapon damage skills
+statExplanation ds	Chance to deal double physical weapon damage (before conversion)
+statExplanation cb	Chance to reduce a percent of enemy's life on hit. Does not work against bosses
+statExplanation strbon	Enhanced Weapon Damage bonus from points in Strength
+statExplanation dexbon	Enhanced Weapon Damage bonus from points in Dexterity
+statExplanation spellfocus	Multiplier to Spell Damage. 1% total damage per 10 Spell Focus
+statExplanation psn dur	Increases the duration of poison spells
+statExplanation pierce	Reduces enemy's resistance by a percentage
+statExplanation ias	Attack Speed increases how quickly you perform melee swings or ranged weapon attacks
+statExplanation fcr	Cast Speed increases how quickly you cast spells
+statExplanation fbr	Block Rate determines how quickly you recover after blocking an attack
+statExplanation fhr	Hit Recovery determines how quickly you recover after being struck
+statExplanation frw	Increases walking and sprinting speed (Diminishing Returns)
+statExplanation baseblock	One of two factors in calculating block chance (the other factor being Dexterity)
+statExplanation blockcap	Extends the maximum block chance above 50%
+statExplanation evade	Chance to ignore melee attacks and missiles while moving
+statExplanation dodge	Chance to ignore melee attacks while standing still, attacking, casting, and turning
+statExplanation avoid	Chance to ignore missiles while standing still, attacking, casting, and turning
+statExplanation resstack	Stacking resistances beyond their limit can be useful to counter debuffs or enemy elemental pierce
+statExplanation absorb	Percent Absorb applies after resistances, reducing damage by a percentage and then healing that amount\nFlat Absorb applies after Percent Absorb and also reduces damage then heals for a specific value
+statExplanation pdr	Physical Damage Reduction, applies before Resistances
+statExplanation edr	Elemental Damage Reduction, applies before Resistances
+statExplanation clr	Reduces the duration of curses
+statExplanation plr	Reduces the length of poison damage dealt to your hero
+statExplanation hpregen	Life Regenerated per second\nPercentage bonus to natural mana recovery
+statExplanation leech	Leech a percentage of weapon physical damage dealt. Reduced effectiveness in nightmare and hell
+statExplanation los mos	Life or Mana gained on any weapon hit
+statExplanation mf	Does not affect items which don't roll quality like runes\nIncreases the chance items dropped will be Magic, Rare, Set or Unique
+statExplanation slowt	Reduces target movement and attack speed when dealing weapon damage. Cap of 25% against bosses
+statExplanation slowatt	Slows enemies when they attack or hit you with a missile

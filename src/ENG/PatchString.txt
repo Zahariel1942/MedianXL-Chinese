@@ -2127,7 +2127,7 @@ StrAutomapPing	Ping:
 12126	ÿc8Weird Shrine\n
 12127	the abyss gazes also into you\nAnd if you gaze for long into an abyss\n\nthereby become a monster\nmight take care lest he\nHe who fights with monsters\n\n\n
 12128	Level 1 Salvation Aura
-12129	+105 Magic Damage per 1% Deadly Strike
+12129	+95 Magic Damage per 1% Deadly Strike
 12130	Dragon Jaws reduces enemy physical resist by 30% for 1 second\nDragon Jaws area increased by 30%
 12131	ÿc52% Chance to Cast level 60 Eldritch Storm on Death Blow\nÿc8With 25 Points in Eldritch Storm
 12132	+1000 Life Regenerated per Second While Under 7000 Life
@@ -2170,6 +2170,6 @@ strHotkeydescEmote	Audio emote from your character that other players around you
 12169	ÿc3+40% Totem damage synergy\nÿc5If you have Jinn:\nÿc3+20% Weapon Physical Damage per Summon Tree Minion Base Level\nÿc3+10% Minion Life per Summon Tree Minion Base Level\nÿc5If you have Rathma's Chosen:\nÿc3Blood Skeletons get Double Benefit from Minion Life Stats\nÿc3Blood Skeletons get Triple Benefit from Dragonfire Oil\nÿc5If you have Veil King:
 12170	ÿc8+2% Enhanced Weapon Damage per 3% Attack Speed\nÿc1Cannot be Renewed
 12171	ÿc8+1 Lightning Damage per 1% Total Physical Weapon Damage Bonus\n+1 Lightning Damage per 1% Bonus to Defense\nÿc1Cannot be Renewed
-12172	ÿc8Deal No Fire, Lightning, or Cold Damage\nEcstatic Frenzy: +300% Total Damage
+12172	ÿc8Fire, Cold, and Lightning Pierce Reduced by 100\nEcstatic Frenzy: +300% Total Damage
 12173	ÿc5Transmute 10 Butcher's Teeth to unlock this quest\nDifficulty Level: 125\nÿc4Horror Under Tristram (Uber)\n
 12174	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with an Urt rune to receive a quest entrance scroll\nÿc4Horror Under Tristram (Uber)\n

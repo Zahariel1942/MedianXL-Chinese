@@ -6284,6 +6284,7 @@ DescTimerLossPedo	冷却时间减少 0.2 秒 - 每基础等级
 DescPedoSpeed	+5% 打击恢复 - 每基础等级
 DescPedoConvert	 (基于体力)
 DescEvilPriestLol	+1% 复生几率 (Reanimate) - 每基础等级 (最大: 20%)
+DescFamineMaxLife	+50 最大生命 - 每基础等级
 DescBringFood	2% 生命所偷取 (Leeched) - 每基础等级
 DescPrimarch	+100 最大生命 - 每基础等级
 DescHPBlank	 最大生命\n
@@ -7903,7 +7904,7 @@ wm01	女士之弓 (大师级)
 SkillPrimordia1	\nÿc4 元素伤害特化
 SkillColdBlooded2	造成你的 140% 的武器冰冷伤害\n转换你的火焰和闪电武器伤害至冰冷\n3 个穿刺投射物\nÿc2冰川齐射(Glacial Volley)\n
 wm02	反曲刀 (大师级)
-Maenad	酒神信徒 (Maenad)
+Maenad	酒神信徒 Maenad
 AthuluasBlessing	阿图卢阿的祝福
 UberButchersTooth	屠夫的牙齿 (Uber)
 b60	ÿc;屠夫的牙齿 (Uber)
@@ -7940,3 +7941,41 @@ MoSNec	ÿc3+1 至死灵法师技能等级\n物理伤害减少 5\nÿc0与 灵魂�
 MoSPal	ÿc3+1 至圣骑士技能等级\n物理伤害减少 5\nÿc0与 神力之眼 Eye of Divinity 于方块中重塑以增加额外属性\n\n(只限圣骑士)
 MoSSor	ÿc3+1 至魔法使技能等级\n物理伤害减少 5\nÿc0与 枢纽水晶 Nexus Crystal 于方块中重塑以增加额外属性\n\n(只限魔法使)
 limit_60	/ 60%
+statExplanation str	满足装备需求，增加某些Build伤害
+statExplanation dex	满足装备需求, 提供攻击命中率、盾牌格挡几率，对某些Build增加伤害
+statExplanation vit	增加生命值
+statExplanation enr	增加法力值，增加大多数法术伤害
+statExplanation buffdur	增加大多数技能效果的持续时间
+statExplanation sigs	从分解物品和击杀敌人中获得
+statExplanation ewd	物理武器伤害加成（转换前）。与力量/敏捷伤害奖励相加
+statExplanation innateele	固有元素伤害加成。只有特定的武器提供固有元素伤害
+statExplanation ar	增加武器伤害技能的命中率
+statExplanation ds	造成双倍物理武器伤害的几率（转换前）
+statExplanation cb	击中时减少按百分比减少敌人敌人生命值。对Boss无效
+statExplanation strbon	从力量点数中获得的增强武器伤害(EWD)奖励
+statExplanation dexbon	从敏捷点数中获得的增强武器伤害(EWD)奖励
+statExplanation spellfocus	法术伤害加成。每 10 点法术专注力增加 1% 总伤害
+statExplanation psn dur	增加毒素法术的持续时间
+statExplanation pierce	减少敌人的抗性
+statExplanation ias	攻击速度增加近战挥击或远程武器攻击的速度
+statExplanation fcr	施法速度增加咒语的施法速度
+statExplanation fbr	格挡率确定阻挡攻击后恢复的速度
+statExplanation fhr	被攻击恢复速度
+statExplanation frw	增加行走和奔跑速度（递减收益）
+statExplanation baseblock	计算格挡几率的两个因素之一（另一个因素是敏捷）
+statExplanation blockcap	将最大格挡几率超过 50%
+statExplanation evade	移动时忽略近战攻击和投射物的几率
+statExplanation dodge	在站立、攻击、施法和转向时忽略近战攻击的几率
+statExplanation avoid	在站立、攻击、施法和转向时忽略投射物攻击的几率
+statExplanation resstack	堆叠抗性超过其限制可以用于抵消减益或敌人元素穿透
+statExplanation absorb	百分比吸收应用于抗性之后，将伤害按百分比减少，然后治疗该量\n固定吸收在百分比吸收之后应用，也会减少伤害，然后治疗特定值
+statExplanation pdr	物理伤害减免，应用于抗性之前
+statExplanation edr	元素伤害减免，应用于抗性之前
+statExplanation clr	减少诅咒的持续时间
+statExplanation plr	减少毒药伤害持续时间
+statExplanation hpregen	每秒恢复的生命值\n提供自然法力回复的百分比加成
+statExplanation leech	吸取所造成的武器物理伤害的百分比。在噩梦和地狱中效果降低
+statExplanation los mos	在任何武器攻击命中时获得生命值或法力值
+statExplanation mf	不影响像符文这样不具有品质属性的物品\n增加物品掉落为魔法Magic、稀有Rare、套装Set或独特Unique的几率
+statExplanation slowt	当造成武器伤害时，减少目标的移动和攻击速度。对Boss有 25% 的上限
+statExplanation slowatt	当敌人攻击或者使用投射物攻击你时造成减速
