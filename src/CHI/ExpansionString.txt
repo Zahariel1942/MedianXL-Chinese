@@ -7862,7 +7862,7 @@ Zakarum's Guidance	萨卡兰姆的指引 Zakarum's Guidance
 The Intrepid	无畏者 The Intrepid
 desc_TargetDummy1	0%% 抗性
 desc_TargetDummy2	0%% 抗性 - 免疫抗性穿透
-desc_TargetDummy3	ÿc855%% ÿc445%% ÿc;99%% ÿc0抗性 - 仅受到1%伤害
+desc_TargetDummy3	ÿc855%% ÿc445%% ÿc;99%% ÿc0抗性 - 仅受到 1%% 伤害
 desc_TargetDummy4	x
 desc_TargetDummy5	x
 desc_TargetDummy6	x
