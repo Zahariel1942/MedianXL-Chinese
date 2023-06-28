@@ -4407,7 +4407,7 @@ skillname8	Inner Sight
 skillsd8	illuminates and weakens nearby monsters
 skillld8	for you and your party\nmaking them easier to hit\nilluminates nearby enemies
 skillan8	Inner Sight
-skillname9	Critical Strike
+skillname9	% Critical Strike
 skillsd9	passive - chance of doing double damage
 skillld9	passive - your attacks have a chance to do double damage
 skillan9	Critical Strike
@@ -7030,7 +7030,7 @@ voDX	Cube Reagent\nÿc8Enchanting Crystal
 hnrx	Cube Reagent\nÿc8Mark of Infusion
 mec	Cube Reagent\nÿc8Meditation Candle
 0++	ÿc8Mystic Orb
-8o@	Cube Reagent\nÿc8Oil of Absolution
+8o@	Cube Reagent\nÿc8Oil of Lesser Alchemy
 7o@	Cube Reagent\nÿc8Oil of Craft
 2o@	Cube Reagent\nÿc8Oil of Disjunction
 1o@	Cube Reagent\nÿc8Oil of Duplication
@@ -7152,13 +7152,13 @@ txt#14	ÿc3Maximum Elemental Resists +1%\nÿc0Cube with the Glorious Book of Med
 txt#08	ÿc3+10% to Summoned Minion Resistances\n+20% to Summoned Minion Life\nÿc0Cube with the Idol of Vanity to Add Bonus\n
 txt#02	ÿc320% Bonus to Defense\nÿc0Cube with the Legacy of Blood to Add Bonus\n
 txt#15	ÿc330% Magic Find\nÿc0Cube with the Corrupted Wormhole to Add Bonus\n
-txt#01	ÿc3Enhanced Weapon Damage +20%\nÿc0Cube with the Book of Lies to Add Bonus\n
+txt#01	ÿc3Weapon Physical Damage +20%\nÿc0Cube with the Book of Lies to Add Bonus\n
 txt#10	ÿc3+10% to Spell Damage\nÿc0Cube with the Silver Seal of Ureh to Add Bonus\n
 txt#16	ÿc3Adds 5-10 Damage\nÿc0Cube with the Soul of Kabraxis to Add Bonus\n
 txt#07	ÿc3Slow Target 4%\nÿc0Cube with Xazax's Illusion to Add Bonus\n
 txt#09	ÿc3Physical Resist 5%\nÿc0Cube with the Sunstone of the Gods to Add Bonus\n
 txt#04	ÿc3Maximum Mana: +5%\nMaximum Life: +5%\nÿc0Cube with the Ancient Repositories to Add Bonus\n
-DescTheSleep	ÿc8Cube with Trophy to Awakenÿc0
+DescTheSleep	ÿc8Disenchant to open a portal to the World Nexus\n\nCube with Trophy to Awakenÿc0
 txt#17	ÿc3Adds 100-150 cold damage\nAdds 100-150 lightning damage\nAdds 100-150 fire damage\nÿc0Cube with the Neutrality Pact to Add Bonus\n
 pffffffffttt	Cube with your Class Charm...\nYour Class Charm looks a bit messy!
 DescScrollBRC2	Cube your Class Charm to Complete Trial\nÿc9Reward\n\nÿc0Collect 666,666 or more Gold on your Character\nÿc9Trial of Greed\n\nÿc0Anywhere\nÿc9Location\n\nÿc0Any\nÿc9Difficulty\n
@@ -7451,7 +7451,7 @@ DTouchEni	Death Touch
 Death Ward	Death Ward
 Deathforce	Deathforce
 DeadlyDancer	Deadly Dancer
-Deathwind	Deathwind
+WickedTorch	Wicked Torch
 New2Demacian	Demacian Justice
 Dementia	Dementia
 TwoHandedSwordSU3	Demon Regalia
@@ -7872,7 +7872,7 @@ New2Pitchburner	Pitchburner
 NewPitlordsPendulum	Pitlord's Pendulum
 Pixie Legion	Pixie Legion
 LightCrossbowSU3	Plague Bolter
-PlagueGland	Plague Gland
+DeadBolter	Dead Bolter
 Plaguemourn	Plaguemourn
 New3Plunderbird	Plunderbird
 BucklerSU3	Polar Breath
@@ -8145,7 +8145,7 @@ NewStillborn	The Stillborn
 The Tannr Scutum	The Tannr Scutum
 TheTesseract	The Tesseract
 The Toecutter	The Toecutter
-TheTranquilizer	The Tranquilizer
+InfernalIchor	Infernal Ichor
 TheVanquisher	The Vanquisher
 BlackMasquerade	Black Masquerade
 The Wailing Wall	The Wailing Wall
@@ -9044,7 +9044,7 @@ ModitemEnrFactor	Spell Focus
 ModitemMoonstrikeSyn	Enhanced Damage to Moonstrike
 ModitemBreakerDesc	Enhanced Damage vs. Necrobots
 ModitemStanceRadius	Enhanced Stance Radius
-ModTotPhysDmg	Enhanced Weapon Damage
+ModTotPhysDmg	Weapon Physical Damage
 ModitemMaxSummon	Extra Flayer Minions
 ModitemMissMiss	Extra Magic Missiles Bolts
 ModitemVTgtSyn	Extra Targets to Paladin Vessels
@@ -9629,7 +9629,7 @@ en2c	ÿc3+10% to Lightning Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Bod
 en2d	ÿc3+10% to Poison Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en2e	ÿc3+10% to Physical/Magic Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en2f	ÿc3+10% Innate Elemental Damage\n+5% to All Attributes\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
-en2g	ÿc3Enhanced Weapon Damage +75%\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
+en2g	ÿc3Weapon Physical Damage +75%\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en2h	ÿc3Regenerate Mana +15%\n+2 to All Skills\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en3a	ÿc3+8% Life Stolen per Hit\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
 en3b	ÿc3+100 Life Regenerated per Second\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
@@ -9878,13 +9878,13 @@ SkillsdPurifyingFlame	ÿc1requires Conflux\nÿc4Signature Skill\nÿc0buff - a re
 SkillPurifyingFlame1	% of Maximum Life restored per second while Overloaded
 SkillPurifyingFlameSyn	% Poison Length Reduced per Base Level
 SkillnamePrimordialStrike	Primordial Strike
-SkillsdPrimordialStrike	ÿc1requires Conflux and Elemental Overload\nÿc0attack - discharge the power of the elements
+SkillsdPrimordialStrike	ÿc1requires Conflux\nÿc0attack - discharge the power of the elements
 SkillEarthquake1	1.4 second Aftershock delay\n
 SkillEarthquakeSyn	% Bonus Physical Damage per Base Level
 SkillsdTslam	ÿc1requires a melee weapon\nÿc0attack - blast out a stunning thunderclap
 SkillUpheavalSyn	 Physical Damage to Thunderslam per Base Level
 SkillUpheaval1	 Base Physical Damage to Thunderslam
-SkillUpheaval2	Enhanced Weapon Damage bonuses\n10% of Total Strength
+SkillUpheaval2	Weapon Physical Damage bonuses\n10% of Total Strength
 SkillHoS1	ÿc1Deal no Fire, Cold or Lightning damage
 SkillHoS2	% of Weapon Physical Damage bonuses added as Crushing Blow
 SkillHoS3	% of Weapon Physical Damage bonuses added as Attack Rating
@@ -9959,3 +9959,6 @@ To The Mirror Temple	ÿc0Difficulty: ÿc1Hard\n\nÿc8+ Nemesis +\n\nÿc0Dungeon 
 &96	ÿc8Mystic Orb\nInvisible
 Talon	Talon
 ModMaxAvoid	Maximum Avoid Chance
+AnotherCurrentBonus	Current Bonus:
+DescOilLAlchemy	90\nThe Oil of Lesser Alchemy\nallows you to craft amulets:\n\nOil + Set Amulet\n--> Crafted Amulet\nwith +1 to All Skills\n\nAdd one affix at random:\n------------------------------\n10% Movement Speed\n+100 Life regenerated per Second\n+7% Innate Elemental Damage\n+5% Vitality\n+5% Energy\n-5% Enemy Elemental Resistances\n+5% Physical Resist\n+25% Weapon Physical Damage\nPoison Length Reduced by 20%\nCurse Length Reduced by 20%\n
+Shockandawe	Shock and Awe

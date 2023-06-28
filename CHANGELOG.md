@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## ongoing
+- 更新至测试服(2.6.1)内容
+- 新名词
+    - 抛射 (Catapult Shot)
+    - 烈焰冲击 (Flameburst Shot)
+    - 残忍雕塑 (Brutal Effigy)
+    - 致命雕塑 (Deathly Effigy)
+    - 血渴 (Bloodthirst)
+    - 尖刺迸发 (Bolt Rush)
+    - 尖刺新星 (Bolt Nova)
+    - 巫术实践 (Voodoo Practice)
+    - 巫毒之路 (Voodoo Path)
+    - 炼金之路 (Alchemist Path)
+    - 亡者滋养 (Life From Death)
+    - 死亡抵近 (Death's Reach)
+    - 生生不息 (Mighty Vigor)
+    - 掠夺 (Pillage)
+    - 不屈 (Unyielding)
+    - 适应 (Aptitude)
+    - 守卫 (Warder)
+    - 雷神之锤 (Mjolner)
+    - 木锥 (Stake Driver)
+    - 炼金制备 (Alchemic Preparation)
+    - 炼金油 (Lesser Alchem)
+    - 邪恶火炬 (Wicked Torch)
+    - 逃脱死亡 (Dead Bolter)
+    - 地狱灵液 (Infernal Ichor)
+    - 震撼和敬畏 (Shock and Awe)
+- 翻译校对
+    - 草·杜拉 -> 卡奥伊·杜拉
+- 修复
+    - 亚马逊酒神节 -> 血魔法
+
+
 ## 2.5.0_1.6 (2023-03-05 04:58:25)
 - 修复训练营地假人崩溃问题
 

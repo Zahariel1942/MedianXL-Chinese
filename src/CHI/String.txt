@@ -4407,7 +4407,7 @@ skillname8	内视 (Inner Sight)
 skillsd8	照亮并削弱附近的怪物
 skillld8	更容易击中目标\n让你和你的队伍成员\n照亮附近的敌人
 skillan8	内视
-skillname9	暴击 (Critical Strike)
+skillname9	% 暴击 (Critical Strike)
 skillsd9	被动 - 有机会造成两倍的伤害
 skillld9	被动 - 你的攻击可能对目标造成双倍伤害
 skillan9	暴击
@@ -7005,7 +7005,7 @@ s0m	召唤之书 Book of Summoning
 quz	Boom!
 adi	《血之遗产》 Legacy of Blood
 yqe	《蜘蛛之月》 Moon of the Spider
-x04	草·杜拉果实 Caoi Dulra Fruit
+x04	卡奥伊·杜拉果实 Caoi Dulra Fruit
 w@w	冷核聚变简图 Cold Fusion Schematics
 a67	恭喜。你得到它了!\nÿc4天罚之灵 Spirit of Damnation
 #Y^	创造者之手 Creator's Hand\n恭喜!
@@ -7030,7 +7030,7 @@ voDX	方块重塑材料\nÿc8强化水晶 Enchanting Crystal
 hnrx	方块重塑材料\nÿc8注入标记 Mark of Infusion
 mec	方块重塑材料\nÿc8冥想蜡烛 Meditation Candle
 0++	ÿc8神秘球体 Mystic Orb
-8o@	方块重塑材料\nÿc8赦免油 Oil of Absolution
+8o@	方块重塑材料\nÿc8炼金油 Oil of Lesser Alchemy
 7o@	方块重塑材料\nÿc8锻造油 Oil of Craft
 2o@	方块重塑材料\nÿc8分离油 Oil of Disjunction
 1o@	方块重塑材料\nÿc8复制油 Oil of Duplication
@@ -7152,13 +7152,13 @@ txt#14	ÿc3最大元素抗性 +1%\nÿc0与〈Median荣耀之书〉于方块中�
 txt#08	ÿc3+10% 召唤仆从抗性\n+20% 召唤仆从生命\nÿc0与〈虚荣神像〉于方块中重塑以增加额外属性\n
 txt#02	ÿc320% 防御加成\nÿc0与〈血之遗产〉于方块中重塑以增加额外属性\n
 txt#15	ÿc330% 魔法物品获取率 (MF)\nÿc0与〈腐化虫洞〉于方块中重塑以增加额外属性\n
-txt#01	ÿc3增强武器伤害 +20%\nÿc0与〈谎言之书〉于方块中重塑以增加额外属性\n
+txt#01	ÿc3武器物理伤害 +20%\nÿc0与〈谎言之书〉于方块中重塑以增加额外属性\n
 txt#10	ÿc3+10% 法术伤害\nÿc0与〈乌雷的银印〉于方块中重塑以增加额外属性\n
 txt#16	ÿc3增加 5-10 伤害\nÿc0与〈卡巴拉克斯之魂〉于方块中重塑以增加额外属性\n
 txt#07	ÿc3减慢目标 4%\nÿc0与〈卡扎克斯的幻象〉于方块中重塑以增加额外属性\n
 txt#09	ÿc3物理抗性 5%\nÿc0与〈诸神的太阳石〉于方块中重塑以增加额外属性\n
 txt#04	ÿc3最大法力: +5%\n最大生命: +5%\nÿc0与〈古老宝典〉于方块中重塑以增加额外属性\n
-DescTheSleep	ÿc8与〈奖杯〉于方块中重塑以进行〈觉醒〉ÿc0
+DescTheSleep	ÿc8解除魔法以打开通往世界枢纽(World Nexus)的传送门\n\n与〈奖杯〉于方块中重塑以进行〈觉醒〉ÿc0
 txt#17	ÿc3增加 100-150 闪电伤害\n增加 100-150 冰冷伤害\n增加 100-150 火焰伤害\nÿc0与〈中立条约〉于方块中重塑以增加额外属性:\n
 pffffffffttt	与你的职业神符于方块中重塑...\n你的职业神符有点点脏!
 DescScrollBRC2	将你的职业神符于方块中重塑以完成试炼\nÿc9奖励\n\nÿc0收集 666,666 枚或以上的金币到你的角色\nÿc9贪婪试炼 Trial of Greed\n\nÿc0任意\nÿc9位置\n\nÿc0任意\nÿc9难度\n
@@ -7202,7 +7202,7 @@ x	-- UNIQUES --
 Sacred Sunstone	(亚马逊挑战物品)\n神圣太阳石 Sacred Sunstone
 Shadow Vortex	(刺客挑战物品)\n暗影涡流 Shadow Vortex
 Worldstone Orb	(野蛮人挑战物品)\n世界之石球体 Worldstone Orb
-Caoi Dulra Fruit	(德鲁伊挑战物品)\n草·杜拉果实 Caoi Dulra Fruit
+Caoi Dulra Fruit	(德鲁伊挑战物品)\n卡奥伊·杜拉果实 Caoi Dulra Fruit
 Soulstone Shard	(死灵法师挑战物品)\n灵魂石碎片 Soulstone Shard
 Orb of Divinity	(圣骑士挑战物品)\n神力之眼 Eye of Divinity
 BeadsOfTheSK22	(秘密)\n蛇王之珠 Beads of the Snake King
@@ -7451,7 +7451,7 @@ DTouchEni	死亡之触 Death Touch
 Death Ward	死亡守护 Death Ward
 Deathforce	Deathforce
 DeadlyDancer	Deadly Dancer
-Deathwind	死亡之风 Deathwind
+WickedTorch	邪恶火炬 Wicked Torch
 New2Demacian	德玛西亚之正义 Demacian Justice
 Dementia	痴呆 Dementia
 TwoHandedSwordSU3	Demon Regalia
@@ -7872,7 +7872,7 @@ New2Pitchburner	Pitchburner
 NewPitlordsPendulum	深渊领主的钟摆 Pitlord's Pendulum
 Pixie Legion	Pixie Legion
 LightCrossbowSU3	Plague Bolter
-PlagueGland	疫毒腺体 Plague Gland
+DeadBolter	逃脱死亡 Dead Bolter
 Plaguemourn	Plaguemourn
 New3Plunderbird	Plunderbird
 BucklerSU3	Polar Breath
@@ -8145,7 +8145,7 @@ NewStillborn	The Stillborn
 The Tannr Scutum	The Tannr Scutum
 TheTesseract	超正方体 The Tesseract
 The Toecutter	The Toecutter
-TheTranquilizer	镇痛剂 The Tranquilizer
+InfernalIchor	地狱灵液 Infernal Ichor
 TheVanquisher	征服者 The Vanquisher
 BlackMasquerade	黑色假面 Black Masquerade
 The Wailing Wall	哭墙 The Wailing Wall
@@ -8681,7 +8681,7 @@ Set_Lazbro	(致敬套装)\n大主教拉扎鲁斯 Archbishop Lazarus
 MSBig Game Hunter	(野蛮人好战者套装)\n王牌猎人 Big Game Hunter
 Set_labrynth2	(瓦泰克任务套装)\n赫拉迪姆兄弟会 Brotherhood of the Horadrim
 Set_labrynth	(瓦泰克任务套装)\n维兹杰雷兄弟会 Brotherhood of the Vizjerei
-MSCaoi Dulra	(德鲁伊猎人系套装)\n草·杜拉 Caoi Dulra
+MSCaoi Dulra	(德鲁伊猎人系套装)\n卡奥伊·杜拉 Caoi Dulra
 MSOrchard	(死灵法师怨恨系套装)\n天界果园 Celestial Orchard
 MSCelestia's Myth	(亚马逊矛系套装)\n塞勒斯提亚的神话 Celestia's Myth
 MSCinadide's Craft	(圣骑士荣耀系套装)\n(暂译) 辛纳戴的精工 Cinadide's Craft
@@ -9044,7 +9044,7 @@ ModitemEnrFactor	法术专注 (Spell Focus)
 ModitemMoonstrikeSyn	增强〈月之一击〉伤害
 ModitemBreakerDesc	增强对〈死灵机器人〉伤害
 ModitemStanceRadius	增强战斗姿态半径
-ModTotPhysDmg	增强武器伤害
+ModTotPhysDmg	武器物理伤害
 ModitemMaxSummon	额外的剥皮者(Flayer)仆从
 ModitemMissMiss	额外的魔法飞弹弓弹(Missiles Bolts)
 ModitemVTgtSyn	额外的目标至〈圣骑士化身〉
@@ -9629,7 +9629,7 @@ en2c	ÿc3+10% 闪电法术伤害\n+40 法术专注\nÿc0与 一件身体护甲 �
 en2d	ÿc3+10% 毒素法术伤害\n+40 法术专注\nÿc0与 一件身体护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en2e	ÿc3+10% 物理/魔法法术伤害\n+40 法术专注\nÿc0与 一件身体护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en2f	ÿc3+10% 固有元素伤害\n+5% 所有属性\nÿc0与 一件身体护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
-en2g	ÿc3增强武器伤害 +75%\nÿc0与 一件身体护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
+en2g	ÿc3武器物理伤害 +75%\nÿc0与 一件身体护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en2h	ÿc3法力恢复 +15%\n+2 所有技能\nÿc0与 一件身体护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en3a	ÿc3+8% 每击中生命偷取\nÿc0与 手套 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en3b	ÿc3+100 每秒生命恢复\nÿc0与 手套 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
@@ -9657,7 +9657,7 @@ en7f	ÿc3+35 精力\nÿc0与 戒指 于方块中重塑以增加额外属性\n\n�
 en8a	ÿc3持续时间: +20%\n法术伤害(除毒素): +10%\n物理伤害: +15%\nÿc4强化你的固有技能\nÿc0与〈神圣太阳石〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en8b	ÿc3持续时间: +30%\n治疗: +20%\nÿc4强化你的固有技能\nÿc0与〈暗影涡流〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en8c	ÿc3持续时间: +50%\n防御: +20%\n最大生命: +5%\nÿc4强化你的固有技能\nÿc0与〈世界之石球体〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
-en8d	ÿc3持续时间: +25%\n元素法术伤害: +5%\n物理伤害: +10%\n攻击速度: +10%\nÿc4强化你的固有技能\nÿc0与〈草·杜拉果实〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
+en8d	ÿc3持续时间: +25%\n元素法术伤害: +5%\n物理伤害: +10%\n攻击速度: +10%\nÿc4强化你的固有技能\nÿc0与〈卡奥伊·杜拉果实〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en8e	ÿc3ÿc3冷却时间减少 20%\nÿc4强化你的固有技能\nÿc0与〈灵魂石碎片〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en8f	ÿc3持续时间: +25%\n武器物理伤害: +25%\nÿc4强化你的固有技能\nÿc0与〈神力之眼〉于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 en8g	ÿc3伤害吸收提高 20%\n被击中时 9% 更少的法力吸取\nÿc4强化你的固有技能\nÿc0与 枢纽水晶>于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
@@ -9878,13 +9878,13 @@ SkillsdPurifyingFlame	ÿc1需要〈汇流〉\nÿc4标志性技能 Signature Skil
 SkillPurifyingFlame1	% 每秒最大生命恢复 - 当〈过载〉时
 SkillPurifyingFlameSyn	% 毒素持续时间减少 - 每基础等级
 SkillnamePrimordialStrike	始源打击 (Primordial Strike)
-SkillsdPrimordialStrike	ÿc1需要〈汇流〉与〈元素过载〉\nÿc0攻击 - 放出元素之力
+SkillsdPrimordialStrike	ÿc1需要〈汇流〉\nÿc0攻击 - 放出元素之力
 SkillEarthquake1	1.4 秒余震延迟\n
 SkillEarthquakeSyn	% 物理伤害加成 - 每基础等级
 SkillsdTslam	ÿc1需要一件近战武器\nÿc0攻击 - 炸出一股撼人的雷鸣
 SkillUpheavalSyn	 物理伤害至〈摔雷〉 - 每基础等级
 SkillUpheaval1	 基础物理伤害至〈摔雷〉
-SkillUpheaval2	10% 的总力量加至增强武器伤害(EWD)
+SkillUpheaval2	加至武器物理伤害(PWD)\n10% 的总力量
 SkillHoS1	ÿc1不造成火焰、冰冷或闪电伤害
 SkillHoS2	% 的武器物理伤害加成加为压碎性打击(CB)
 SkillHoS3	% 的物理物理伤害加成加为准确率
@@ -9959,3 +9959,6 @@ To The Mirror Temple	ÿc0难度: ÿc1困难\n\nÿc8+ 宿敌 +\n\nÿc0地城任�
 &96	ÿc8神秘球体 Mystic Orb\n隐形 Invisible
 Talon	猛禽 Talon
 ModMaxAvoid	最大躲避几率
+AnotherCurrentBonus	当前加成:
+DescOilLAlchemy	90\n炼金油可用于锻造项链。\n\n油 + 套装项链\n--> 锻造的项链\n额外 +1 所有技能\n\n增加一个随机前缀:\n------------------------------\n10% 移动速度\n+100 每秒生命回复\n+7% 固有元素伤害\n+5% 体力\n+5% 精力\n-5% 敌人元素抗性\n+5% 物理抗性\n+25% 武器物理伤害\n毒素持续时间减少  20%\n诅咒持续时间减少  20%\n
+Shockandawe	震撼和敬畏 Shock and Awe
