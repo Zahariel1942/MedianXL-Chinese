@@ -2178,6 +2178,7 @@ strHotkeydescEmote	Audio emote from your character that other players around you
 12177	ÿc3 as a multiplier to the bonus lightning damage\nEgg Trap: adds 25% of Weapon Physical Damage bonuses\nEgg Trap: explodes instantly\nÿc1 Disables Raid, Earth Talons and Summoning
 12178	ÿc5Transmute in the cube after reaching Level 121\nDifficulty Level: 121\nÿc4Death Projector (Uber)\n
 12179	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with a Thal rune to receive two quest entrance scrolls\nÿc4Death Projector (Uber)\n
-12180	Sacrifices: -2 Seconds to Cooldown\nDeathly Effigy: +4 to Maximum Effigies\n50 Life Regeneration per Widowmaker Base Level\nWidowmaker Nullified
+12180	Sacrifices: -2 Seconds to Cooldown\nDeathly Effigy: +4 to Maximum Effigies\n50 Life Regeneration per Widowmaker Base Level\nWidowmaker and Life Steal Nullified
 12181	Flametail Shot Inherits Catapult Shot's Fire Damage\nAlchemic Preparation: Flametail Shot gains +1 Projectile per 4 Base Levels
 12182	Reckoning of Zerae: Grants +1% Lightning Pierce per 1% Deadly Strike
+12183	Arcane Fury: 5% Additional Mana and Energy During Buff Effect

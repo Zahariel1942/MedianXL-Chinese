@@ -2281,8 +2281,8 @@ ESkillSpikes	尖刺投射：
 ESkillStars	星星：
 ESkillWolf	狼：
 ESkillWolves	狼群：
-ESkillShoots	射击
-ESkillTimes	次
+ESkillShoots	射击 
+ESkillTimes	 次
 ESkillSpikes2	尖刺投射
 ESkillPerKick	每一踢
 EskillLifeSteal	偷取生命：
@@ -6483,7 +6483,7 @@ limit_75	/75%
 limit_90	/ 90%
 DescNephalemSpiritSyn	% 固有元素伤害 - 每基础等级
 DescGladPoison	职业毒素技能持续时间
-DescSnakeBiteSyn	(收益递增)\n更多毒素伤害 - 每基础等级\n〈角斗士的支配〉基础等级
+DescSnakeBiteSyn	& 伤害加成 - 每基础等级和蛇姿态等级
 SteveJobs	火之树 Tree of Fire
 Luminescence	幽光 Luminescence
 mon_coldatk	冰冷攻击
@@ -6865,7 +6865,7 @@ SkeletonKhan	Skeleton Khan
 SkillnameMoldtheFlesh	ÿc8重造血肉 (Mold the Flesh)
 SkillnameGrimVision	ÿc8狰狞面容 (Grim Vision)
 SkillnameViolentImmolation	ÿc8残暴自灭 (Violent Immolation)
-SkillnameChaosNova	ÿc8混沌新星 'Chaos Nova'
+SkillnameChaosNova	ÿc8混沌新星 (Chaos Nova)
 SkillnameMetalSolace	ÿc8金属鼓舞 (Metal Solace)
 SkillnameOnslaught	ÿc8猛攻 (Onslaught)
 SkillnameVoracity	ÿc8夺魂 (Reaper)
@@ -6889,11 +6889,11 @@ SkillsdOnslaught	ÿc0升级 - 减少冷却时间以获得更多的杀戮力量
 SkillsdVoracity	ÿc1需要 10 点投入至〈死亡天使〉\nÿc0升级 - 加深寄生的嗜血，赋予更大伤害与范围
 SkillsdOminousVigor	ÿc4需要 30 点投入至其他〈近战〉系技能\nÿc0被动 - 增高你格挡的几率、力量与敏捷
 SkillsdDemonicCommune	ÿc0升级 - 亵渎之血带来移动速度的提高
-SkillsdBrutalEffigy	ÿc0升级 - 你的雕塑获得一道光环，靠近时增强你的战斗能力。
+SkillsdBrutalEffigy	ÿc0升级 - 你的雕塑获得一道光环，靠近时增强你的战斗能力
 SkillsdAlchemicalProvision	ÿc0升级 - 提高由你掌控的火箭保有量
 SkillsdIgnite	ÿc0升级 - 通过超自然的训练火焰伤害大幅提高
 SkillsdOccultPath	ÿc4需要 20 点投入至其他〈怨恨〉系技能\nÿc0被动 - 横跨黑暗，一条新的道路在你面前展开
-SkillsdExile	ÿc0causing them to be mercilessly assaulted\nthe cursed victims are perceived as enemies by their ranks,\n使得它们遭受残忍猛攻\n诅咒 - 受诅咒者将会依它们的阶级视为敌人，
+SkillsdExile	ÿc0使得它们遭受残忍猛攻\n诅咒 - 受诅咒者将会依它们的阶级视为敌人，
 SkillsdDreamTerror	ÿc0升级 - 令你的目标遭受一股加深的恐惧
 SkillsdDarkGathering	ÿc0升级 - 你黑暗艺术的权威同你的大军一同增长
 SkillsdDirge	ÿc0升级 - 图腾被杀死时施放它们的法术
@@ -7152,7 +7152,7 @@ DescJinnEruption	unused
 Duress	Duress
 DescPrimordial1	(只在你拥有一个相符的伤害来源时生效)
 SkillnameViolence	ÿc8血渴 (Bloodthirst)
-SkillsdViolence	ÿc1需要 30 点投入至其他〈投掷〉系技能\nÿc3技能随战斗姿态改变ÿc0\nÿc0被动 - 你的〈姿态〉使你获得基于生命偷取的加成\n(蛇 - 100%至毒素穿透, 鹰 - 100%至闪电穿透, 狼 - 50% 至暴击几率)
+SkillsdViolence	ÿc1需要 30 点投入至其他〈投掷〉系技能\nÿc3(蛇 - 100%至毒素穿透, 鹰 - 100%至闪电穿透, 狼 - 50% 至暴击几率)\n技能随战斗姿态改变ÿc0\nÿc0被动 - 你的〈姿态〉使你获得基于生命偷取的加成\n
 DescCDredBy	冷却时间减少 
 SkillnameCitadel	ÿc8要塞 (Citadel)
 SkillsdCitadel	ÿc0升级 - 提高你的最大格挡几率
@@ -7179,7 +7179,7 @@ DescSoulbondMaxed	ÿc2点满此技能: 双倍〈挽歌〉死亡时施放法术�
 DescDirgeBoni	% 几率死亡时施放增强的法术
 DescDirgeReally	增强的法术: 双倍伤害
 Splintered Soul	Splintered Soul
-DescOverload1	\nÿc8共享冷却时间\nÿc8Using a different skill replaces the currently active buff\n\nÿc2净化之焰 Purifying Flame\n彻骨冰寒 Deep Freeze\n雷鸣风暴 Thunderstorm\nÿc8使用以下技能后激活 30 秒:
+DescOverload1	\nÿc8共享冷却时间\nÿc8使用不同的技能会替换掉当前生效的增益\n\nÿc2净化之焰 Purifying Flame\n彻骨冰寒 Deep Freeze\n雷鸣风暴 Thunderstorm\nÿc8使用以下技能后激活 30 秒:
 DescOverload2	+10% 元素吸收，基于你当前的〈过载〉类型
 DescPactWithTotems	 至法力\nÿc5(基于〈图腾〉技能树中的点数)\nÿc8学者 Scholarÿc0
 DescPactWithSummons	% 召唤仆从抗性\nÿc5(基于〈召唤〉技能树中的点数)\nÿc8死灵法师 Necromancerÿc0
@@ -7308,7 +7308,7 @@ gob	地精之王 'The Goblin King'\n活动奖励:
 GobolinoReward	地精之王 'The Goblin King'\n活动奖励:
 SkillnameCollapse	消散 (Vanish)
 SkillsdCollapse	ÿc4需要 60 点投入至其他〈怨恨〉系技能\nÿc0被动 - 目标的灵魂受到思维与肉体从躯壳中分离之苦
-DescGameOver	ÿc1(enemies that are exiled, terrified and poisoned die instantly)\n被〈流放〉、〈恐惧〉及〈中毒〉的敌人即刻死亡
+DescGameOver	ÿc1被〈流放〉、〈恐惧〉及〈中毒〉的敌人即刻死亡
 SkillnameFortitude	ÿc8刚毅 (Fortitude)
 SkillsdFortitude	ÿc0升级 - 成为不知疲倦的战士
 DescFortitudeSyn	+25 最大耐力 - 每基础等级
@@ -7346,7 +7346,7 @@ SkillFlamefrontSyn	+1 火焰弹数量 - 每 10 技能等级 (最大
 SkillFlamefrontSyn2	 技能等级 (最大 6)
 SkillnameIncineration	ÿc8焚化 (Incineration)
 SkillsdIncineration	ÿc0升级 - 你的法力加强〈烈焰前线〉
-SkillIncineration1	+3 火焰弹数量 - 若大于 80% 法力\n-1 火焰弹数量
+SkillIncineration1	+3 火焰弹数量 - 若大于 80% 法力
 SkillnamePyre	ÿc8火葬 (Pyre)
 SkillsdPyre	ÿc0升级 - 施放〈炎爆术〉时你获得物理抗性
 SkillPyre1	\n〈炎爆术〉: -10% 总伤害
@@ -7475,7 +7475,7 @@ DescTCrackRange	〈雷破〉索敌范围:
 SkillnameRiftField	ÿc8裂缝场 (Rift Field)
 SkillsdRiftField	ÿc0升级 - 提高〈雷破〉的索敌范围
 DescRiftFieldSyn	索敌范围提高 1.35 码 - 每基础等级
-DescFendSyn	ÿc8〈狂怒〉: 物理抗性乘以〈狂怒〉集气数
+DescFendSyn	ÿc8〈狂怒〉: 3% 物理抗性 - 每层集气
 DescFireEleLifeSyn	+15% 生命 - 每基础等级
 SkillnameBloodMagic	ÿc8不稳定精华 (Unstable Essence)
 SkillsdBloodMagic	升级 - 每次召唤两个元素
@@ -7774,7 +7774,7 @@ DimensionalKeyM	奈非天托付 Nephalem Mandate
 DescReckoning2H	当持有双手武器时获得额外加成
 SkillnameResistance	反抗 (Resistance)
 SkillsdResistance	ÿc0被动 - 基于路线提升你的防御和格挡
-DescResistanceSyn	当持有双手武器时 +7% 总防御加成 - 每基础等级\n+3% 最大格挡几率 - 每基础等级 (锤子路线)\n+1% 基础格挡几率 - 每基础等级 (雷电路线)
+DescResistanceSyn	当持有双手武器时 +5% 总防御加成 - 每基础等级\n+3% 最大格挡几率 - 每基础等级 (锤子路线)\n+1% 基础格挡几率 - 每基础等级 (雷电路线)
 DescResistThunder	+%d%% 基础格挡率 (雷电路线)
 DescResistHammer	+%d%% 最大格挡率 (锤子路线)
 DescResistance	+30% 格挡速度
@@ -7894,7 +7894,7 @@ DescDecoyLove	ÿc3受仆从属性加成影响
 BaseLevels	 基础等级
 Breath of Fire	火焰吐息 (Breath of Fire)
 DescFlameFragScaling	不受武器物理伤害(WPD)影响
-DescAlchPrepPierceSyn	-1.5% 敌人火焰抗性 - 每基础等级 (最大 35%)
+DescAlchPrepPierceSyn	-1% 敌人火焰抗性 - 每 2 基础等级
 DescConvertToRandom	转换 %d%% 物理伤害至火焰、冰冷、闪电伤害
 Divebomb	作呕虫群 (Foul Vermin)
 DescWPNPhys	% 武器物理伤害(WPD)
@@ -7983,7 +7983,7 @@ vrx2	ÿc4死亡发射器 (Uber)
 b61	ÿc;激光对焦水晶 (Uber)
 To The Uber Projector	ÿc0难度: ÿc;非常困难\n\nÿc8+ 死亡发射器 (Uber) +\n\nÿc0地城任务\nÿc4试验场
 SkillnameDeathlyEffigy	致命雕塑 (Deathly Effigy)
-skillsdEffigy	ÿc1需要一把弩\nÿc0投射物 - 召唤一个恐怖的雕像，它发射环形子弹并撕碎附近的尸体。
+skillsdEffigy	ÿc1需要一把弩\nÿc0投射物 - 召唤一个恐怖的雕像，它发射环形子弹并撕碎附近的尸体
 DescEffigyInherit	继承你的物理伤害、准确率、力量和致命一击(DS)
 DescEffigySkills	附近有尸体可用时释放尖刺迸发 (Bolt Rush)\n释放尖刺新星 (Bolt Nova)
 DescnameBrutalAura	ÿc8残忍光环 (Brutal Aura)\n\nÿc2致命雕塑〈Deathly Effigy〉
@@ -7996,7 +7996,7 @@ DescVoodooARBonus	获得 3 准确率 - 每 4 点基础力量\n2% 几率命中时
 DescVoodooStrBonus	% 至力量
 DescLifeFromDeathSynBonus	ÿc/打击时恢复 1 生命 - 每 10 基础等级\nÿc2炼金之路 (Alchemist Path)\n\nÿc/1% 物理抗性 - 每 2 基础等级\nÿc2巫毒之路 (Voodoo Path)
 DescVoodooPath	% 至物理抗性\nÿc2巫毒之路 (Voodoo Path)ÿc5
-DescAlchemistPath	 生命 - 打击时\nÿc2炼金之路 (Alchemist Path)ÿc5
+DescAlchemistPath	 % 增加治疗药水效果\n治疗药水持续 15 秒\nÿc2炼金之路 (Alchemist Path)ÿc5
 SkillnameLifeFromDeath	亡者滋养 (Life From Death)
 SkillsdLifeFromDeath	需要<巫术实践>或<衰弱合剂>\n被动 - 探索生与死的奥秘会增强你的耐力
 Deaths Reach	死亡抵近 (Death's Reach)
@@ -8006,8 +8006,8 @@ IM_HollowInfo	固定的. 对附近的移动目标发动攻击
 DescTantrumBursts	冲击: 
 DescTantrumScaling	发射 1 额外冲击 - 每 5 等级
 SkillViolence2	100% 的生命偷取加至闪电穿透\n
-SkillViolence3	50% 的生命偷取加至暴击几率\n
-SkillnameMightyVigor	生生不息 (Mighty Vigor)
+SkillViolence3	33% 的生命偷取加至暴击几率\n
+SkillnameMightyVigor	坚韧 (Mighty Vigor)
 SkillsdMightyVigor	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 你的力量增强你的生命偷取
 SkillMightyVigor1	+1% 生命偷取 每 
 SkillMightyVigorSyn	 更少的力量需求  - 每基础等级
@@ -8020,7 +8020,7 @@ SkillUnyielding1	% 物理抗性 - 受到武器伤害后
 SkillSnakeStance1	% 毒素伤害 - 高于 120 的每 1 角色等级
 SkillnameAptitude	适应 (Aptitude)
 SkillsdAptitude	ÿc3技能随战斗姿态改变\nÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 随着经验增长，你的战斗姿态变得更加有效。
-SkillAptitude1	+1% 〈蛇姿态〉伤害加成至〈涌动〉 - 高于 120 的每 1 角色等级
+SkillAptitude1	+2% 〈蛇姿态〉伤害加成至〈涌动〉 - 高于 120 的每 1 角色等级
 SkillAptitude2	+1.5% 固有元素伤害至 〈鹰姿态〉 - 高于 120 的每 1 角色等级
 SkillAptitude3	+10% 武器物理伤害至 〈狼姿态〉 - 高于 120 的每 1 角色等级
 SkillAptitude4	奖励效果随着角色等级的提升而增加
@@ -8039,3 +8039,6 @@ StakeDriver	木锥 (Stake Driver)
 DescWychSyn	暴风乌鸦 (Storm Crows): +0.2s 至弱点持续时间 - 每基础等级
 SksynStampede	(随战斗姿态改变)\n协同加成
 SkillsdSpikeNova	在你周围发射一圈致命的尖刺
+DescLifeFromDeathSynBonusTemp	ÿc/2.5% 增加治疗药水效果 - 每基础等级\n治疗药水持续 15 秒\nÿc2炼金之路 (Alchemist Path)\n\nÿc/1% 物理抗性 - 每 2 基础等级\nÿc2巫毒之路 (Voodoo Path)
+DescSnakeBiteSyn2	% 增加伤害 - 高于 120 的每 1 角色等级
+SkillStampede6	+1 投射物 - 每 9 基础等级\n

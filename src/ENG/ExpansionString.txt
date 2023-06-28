@@ -6483,7 +6483,7 @@ limit_75	/75%
 limit_90	/ 90%
 DescNephalemSpiritSyn	% Innate Elemental Damage per Base Level
 DescGladPoison	Class Poison Skill Duration
-DescSnakeBiteSyn	(Increasing Returns)\nMore Poison Damage per Base Level\nGladiator's Dominance Base Levels
+DescSnakeBiteSyn	% Damage per Base Level and Snake Stance Base Level
 SteveJobs	Tree of Fire
 Luminescence	Luminescence
 mon_coldatk	Cold Attack
@@ -7346,7 +7346,7 @@ SkillFlamefrontSyn	+1 Firebolt per 10 Skill Levels (Max
 SkillFlamefrontSyn2	 Skill Levels (Max 6)
 SkillnameIncineration	ÿc8Incineration
 SkillsdIncineration	ÿc0upgrade - your mana empowers Flamefront
-SkillIncineration1	+3 Firebolts if above 80% Mana\n-1 Firebolt
+SkillIncineration1	+3 Firebolts if above 80% Mana
 SkillnamePyre	ÿc8Pyre
 SkillsdPyre	ÿc0upgrade - you gain physical resistance while casting Pyroblast
 SkillPyre1	\nPyroblast: -10% Total Damage
@@ -7475,7 +7475,7 @@ DescTCrackRange	Thundercrack seek range:
 SkillnameRiftField	ÿc8Rift Field
 SkillsdRiftField	ÿc0upgrade - increases the seek range of thundercrack
 DescRiftFieldSyn	Seek Range Increased by 1.35 yards per Base Level
-DescFendSyn	ÿc8Fury: Physical Resistance is Multiplied by Fury Charges
+DescFendSyn	ÿc8Fury: 3% Additional Physical Resistance per Fury Charges
 DescFireEleLifeSyn	+25% Life per Base Level
 SkillnameBloodMagic	ÿc8Unstable Essence
 SkillsdBloodMagic	ÿc0upgrade - summon two elementals per cast
@@ -7774,7 +7774,7 @@ DimensionalKeyM	Nephalem Mandate
 DescReckoning2H	Bonus is increased while holding a two handed weapon
 SkillnameResistance	Resistance
 SkillsdResistance	ÿc0passive - improves your defenses and blocking based on your path
-DescResistanceSyn	+7% Total Defense Multiplier While Holding a Two Handed Weapon per base Level\n+3% Maximum Block Chance per Base Level (Hammer Path)\n+1% Base Block Chance per Base Level (Thunder Path)
+DescResistanceSyn	+5% Total Defense Multiplier While Holding a Two Handed Weapon per base Level\n+3% Maximum Block Chance per Base Level (Hammer Path)\n+1% Base Block Chance per Base Level (Thunder Path)
 DescResistThunder	+%d%% Base Block Chance (Thunder Path)
 DescResistHammer	+%d%% Maximum Block Chance (Hammer Path)
 DescResistance	+30% Block Speed
@@ -7894,7 +7894,7 @@ DescDecoyLove	ÿc3Affected by Minion Stat Bonuses
 BaseLevels	 Base Levels
 Breath of Fire	Breath of Fire
 DescFlameFragScaling	Does Not Scale With Modifiers to Weapon Physical Damage
-DescAlchPrepPierceSyn	-1.5% to Enemy Fire Resistance per Base Level (max 35%)
+DescAlchPrepPierceSyn	-1% to Enemy Fire Resistance per 2 Base Levels
 DescConvertToRandom	Converts %d%% Physical Damage to Fire, Cold, or Lightning
 Divebomb	Foul Vermin
 DescWPNPhys	% Weapon Physical Damage
@@ -7996,7 +7996,7 @@ DescVoodooARBonus	Gain 3 Attack Rating per 4 Points of Base Strength\n2% Chance 
 DescVoodooStrBonus	% To Strength
 DescLifeFromDeathSynBonus	ÿc/1 Life on Striking per 10 Base LEvels\nÿc2Alchemist Path\n\nÿc/1% Physical Resistance per 2 Base Levels\nÿc2Voodoo Path
 DescVoodooPath	% To Physical Resistance\nÿc2Voodoo Pathÿc5
-DescAlchemistPath	 Life on Striking\nÿc2Alchemist Pathÿc5
+DescAlchemistPath	% Increased Healing From Potions\nHealing Potions Last 15 Seconds\nÿc2Alchemist Pathÿc5
 SkillnameLifeFromDeath	Life From Death
 SkillsdLifeFromDeath	requires voodoo practice or debilitating concoction\npassive - insight on the secrets of life and death heighten your endurance
 Deaths Reach	Death's Reach
@@ -8006,7 +8006,7 @@ IM_HollowInfo	Immobile. Attacks on nearby motion
 DescTantrumBursts	Bursts: 
 DescTantrumScaling	Fires 1 Additional Burst Every 5 Levels
 SkillViolence2	100% of your Life Steal added as Lightning Pierce\n
-SkillViolence3	50% of your Life Steal added as Critical Strike chance\n
+SkillViolence3	33% of your Life Steal added as Critical Strike chance\n
 SkillnameMightyVigor	Mighty Vigor
 SkillsdMightyVigor	ÿc4proficiency skill - you may pick up to 2\nÿc0passive - your strength increases your bloodthirst
 SkillMightyVigor1	+1% Life Steal per 
@@ -8020,7 +8020,7 @@ SkillUnyielding1	% Physical Resist after taking weapon damage
 SkillSnakeStance1	% Poison damage per character level above 120
 SkillnameAptitude	Aptitude
 SkillsdAptitude	ÿc3skill changes depending on combat stance\nÿc4proficiency skill - you may pick up to 2\nÿc0passive - your combat stance becomes more effective with experience
-SkillAptitude1	+1% to Snake Stance Multiplier on Stampede per Character level above 120
+SkillAptitude1	+2% to Snake Stance Multiplier on Stampede per Character level above 120
 SkillAptitude2	+1.5% Innate Elemental Damage to Eagle Stance per Character level above 120
 SkillAptitude3	+10% Weapon Physical Damage to Wolf Stance per Character level above 120
 SkillAptitude4	Bonuses scale up to character level 
@@ -8039,3 +8039,6 @@ StakeDriver	Stake Driver
 DescWychSyn	Storm Crows: +0.2s to Vulnerability Duration per Base Level
 SksynStampede	(change depending on combat stance)\nSynergies
 SkillsdSpikeNova	fire a ring of deadly spikes around you
+DescLifeFromDeathSynBonusTemp	ÿc/2.5% Increased Healing from Potions per Base Level\nHealing Potions Last 15 Seconds\nÿc2Alchemist Path\n\nÿc/1% Physical Resistance per 2 Base Levels\nÿc2Voodoo Path
+DescSnakeBiteSyn2	% Total Damage per Character Level above 120
+SkillStampede6	+1 Projectile per 9 Base Levels\n
