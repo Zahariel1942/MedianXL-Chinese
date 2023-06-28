@@ -39,7 +39,7 @@ jobs:
           node-version: 16
 
       - name: Make Changelog.html
-        run: npx markdown-to-html-cli -s CHANGELOG.md -o ./dest/CHANGELOG.html --style=./public/style.css --no-dark-mode
+        run: npx markdown-to-html-cli@3.5.3 -s CHANGELOG.md -o ./dest/CHANGELOG.html --style=./public/style.css --no-dark-mode
 
       - name: Zip mpq file
         uses: TheDoctor0/zip-release@0.6.0

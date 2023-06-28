@@ -4047,7 +4047,7 @@ SkillnameScorpionSting	蝎蛰 (Scorpion Sting)
 SkillnameVirulence	恶毒 ( Virulence )
 SkillnameDoom	末日 (Doom)
 SkillnameDoomS	寒冰回旋 ( Ice Whirl )
-SkillnameAlchPrep	Alchemical Preparation
+SkillnameAlchPrep	炼金制备 (Alchemical Preparation)
 SkillnameDragonform	龙的祝福 (Dragon's Blessing)
 SkillnameDragonLady	巨龙传说 (Dragonlore)
 SkillnameCatapultShot	抛射 (Catapult Shot)
