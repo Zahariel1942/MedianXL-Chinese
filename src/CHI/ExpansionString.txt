@@ -7152,7 +7152,7 @@ DescJinnEruption	unused
 Duress	Duress
 DescPrimordial1	(只在你拥有一个相符的伤害来源时生效)
 SkillnameViolence	ÿc8血渴 (Bloodthirst)
-SkillsdViolence	ÿc1需要 30 点投入至其他〈投掷〉系技能\nÿc3(蛇 - 100%至毒素穿透, 鹰 - 100%至闪电穿透, 狼 - 50% 至暴击几率)\n技能随战斗姿态改变ÿc0\nÿc0被动 - 你的〈姿态〉使你获得基于生命偷取的加成\n
+SkillsdViolence	ÿc1需要 30 点投入至其他〈投掷〉系技能\nÿc3技能随战斗姿态改变ÿc0\nÿc0被动 - 你的〈姿态〉使你获得基于生命偷取的加成
 DescCDredBy	冷却时间减少 
 SkillnameCitadel	ÿc8要塞 (Citadel)
 SkillsdCitadel	ÿc0升级 - 提高你的最大格挡几率
@@ -7377,8 +7377,8 @@ SkillnameParadigmShift	始源之力 (Primordial Might)
 SkillsdParadigmShift	ÿc3仅允许使用近战、召唤与增/减益技能\nÿc0被动 - <唤月>增加元素力量而不是物理
 SkillParadigmShift1	% 的〈唤月〉物理伤害加成加为固有元素伤害
 SkillnameColdBlooded	ÿc8冷血 (Cold Blooded)
-SkillsdColdBlooded	ÿc0升级 - 使用水晶剑时 <刀刃风暴> 触发冰川齐射 (Glacial Volley)
-SkillColdBlooded1	% 几率触发冰川齐射 (Glacial Volley) - <刀刃风暴>
+SkillsdColdBlooded	ÿc0升级 - 使用水晶剑时 〈刀刃风暴〉 触发〈冰川齐射〉
+SkillColdBlooded1	% 几率触发〈冰川齐射〉 - 〈刀刃风暴〉
 SkillnamePremonition	ÿc8预感 (Premonition)
 SkillsdPremonition	ÿc0升级 - 〈齐射〉期间提高最大格挡率
 SkillPremonition1	% 最大格挡率 - 当 〈齐射〉生效时
@@ -7408,7 +7408,7 @@ SkillSuperposition3	持续时间: 5 秒\n不造成火焰、冰冷或毒素伤害
 SkillSuperposition4	% 药水效能
 SkillSuperpositionSyn	% 药水效能 - 每基础等级
 SkillCrystalline0	% 火焰、闪电与毒素法术伤害
-DescAlchPrepSyn	% +1 投射物至〈烈焰冲击〉和〈抛射〉 - 每基础等级
+DescAlchPrepSyn	+1 投射物至〈烈焰冲击〉和〈抛射〉 - 每基础等级
 DescDirgeBoniKill	% 致死一击时几率施放增强的法术
 DescDirgeSyn1	致死一击 +%d%% 几率施放增强的法术 - 每基础等级
 DescDirgeSyn2	死亡时 +%d%% 几率施放增强的法术 - 每基础等级
@@ -7901,7 +7901,7 @@ DescWPNPhys	% 武器物理伤害(WPD)
 DescBackstabHit	200% 武器伤害\n4 次命中 - 每次攻击
 wm01	女士之弓 (大师级)
 SkillPrimordia1	\nÿc4 元素伤害特化
-SkillColdBlooded2	造成你的 140% 的武器冰冷伤害\n转换你的火焰和闪电武器伤害至冰冷\n3 个穿刺投射物\nÿc2冰川齐射(Glacial Volley)\n
+SkillColdBlooded2	造成你的 140% 的武器冰冷伤害\n转换你的火焰和闪电武器伤害至冰冷\n3 个穿刺投射物\nÿc2冰川齐射 (Glacial Volley)\n
 wm02	反曲刀 (大师级)
 Maenad	酒神信徒 Maenad
 AthuluasBlessing	阿图卢阿的祝福
@@ -8007,7 +8007,7 @@ DescTantrumBursts	冲击:
 DescTantrumScaling	发射 1 额外冲击 - 每 5 等级
 SkillViolence2	100% 的生命偷取加至闪电穿透\n
 SkillViolence3	33% 的生命偷取加至暴击几率\n
-SkillnameMightyVigor	坚韧 (Mighty Vigor)
+SkillnameMightyVigor	强韧 (Mighty Vigor)
 SkillsdMightyVigor	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 你的力量增强你的生命偷取
 SkillMightyVigor1	+1% 生命偷取 每 
 SkillMightyVigorSyn	 更少的力量需求  - 每基础等级
@@ -8023,7 +8023,7 @@ SkillsdAptitude	ÿc3技能随战斗姿态改变\nÿc4专精技能 - 最多选择
 SkillAptitude1	+2% 〈蛇姿态〉伤害加成至〈涌动〉 - 高于 120 的每 1 角色等级
 SkillAptitude2	+1.5% 固有元素伤害至 〈鹰姿态〉 - 高于 120 的每 1 角色等级
 SkillAptitude3	+10% 武器物理伤害至 〈狼姿态〉 - 高于 120 的每 1 角色等级
-SkillAptitude4	奖励效果随着角色等级的提升而增加
+SkillAptitude4	奖励效果最高至角色等级 
 SkillAptitudeSyn	 至角色等级效果加成 - 每基础等级
 SkillVoidGazerStormSyn	弱点: +1 额外目标
 SkillnameWarder	守卫 (Warder)

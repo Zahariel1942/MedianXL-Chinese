@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 2.6.0_0.3 (2023-06-28 16:52:10)
+## ongoing
 - 更新至测试服(2.6.2)内容
 - 新名词
     - 抛射 (Catapult Shot)
@@ -15,7 +15,7 @@
     - 炼金之路 (Alchemist Path)
     - 亡者滋养 (Life From Death)
     - 死亡抵近 (Death's Reach)
-    - 坚韧 (Mighty Vigor)
+    - 强韧 (Mighty Vigor)
     - 掠夺 (Pillage)
     - 不屈 (Unyielding)
     - 适应 (Aptitude)
