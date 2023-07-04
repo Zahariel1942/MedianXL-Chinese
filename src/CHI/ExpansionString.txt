@@ -4038,7 +4038,7 @@ SkillnameDemaciaaa	塑风 'Windform'
 SkillnameDemiurge	正义崇拜 (Veneration of Justice)
 SkillnameDemSpeed	恶魔之速 ( Demonic Speed )
 SkillnameDevilsFang	魔鬼之牙图腾 ( Devil's Fang Totem )
-SkillnameDevouringAcid	吞噬之云 ( Devouring Cloud )
+SkillnameDevouringAcid	吞噬之云 (Devouring Cloud)
 SkillnameDireErid	精神控制 ( Mind Control )
 SkillnameDissUber	崩解 ( Disintegrate )
 SkillnameDivApparition	神圣显现 (Divine Apparition)
@@ -4343,7 +4343,7 @@ SkillnameSpikeRipple	剃刀脊刺 'Razor Spines'
 SkillnameSpikestorm	急袭 (Raid)
 SkillnameSplitfire	裂火 ( Splitfire )
 SkillnameSplotch	血语者印记 ( Bloodspeaker's Mark )
-SkillnameSporeShot	觅心 (Heartseeker)*
+SkillnameSporeShot	觅心 (Heartseeker)
 SkillnameSquallGust	嚎风 ( Squall Gust )
 SkillnameSquallWave	嚎波 ( Squall Wave )
 SkillnameSRam	暴徒 (Rampagor)
@@ -4435,7 +4435,7 @@ SkillnameZomgVolcano	火屑流 ( Pyroclastic Flow )
 SkillnaneCraneStance	灵鹤姿态 ( Crane Stance )
 x	-- SKILLDESCS --
 SkillsdSkySiege	ÿc1需要一把弓或弩\nÿc0传送到目标处，以弓箭发出的弹片爆裂周围区域
-SkillsdAAAGH3	ÿc0(endows the weapons of the honorable with blessed light)\n被动 - 以祝福之光赋以荣耀之武器
+SkillsdAAAGH3	ÿc0被动 - 以祝福之光赋以荣耀之武器
 SkillsdAbysmal2	ÿc0法术 - 围绕目标地点创造一道回旋的冰霜涡流
 SkillsdACHarmony	ÿc0被动 - 众神在战斗中保护你，缓速你的敌人
 SkillsdAeriaIHateYou	ÿc0法术 - 施放多重闪电弹烤焦你的敌人
@@ -4465,7 +4465,7 @@ SkillsdBanish	ÿc0诅咒 - renders target vulnerable to magic and elemental dama
 SkillsdBarrage	ÿc1需要一把弓或弩ÿc0\n投射物 - 在你周围所有方向发射箭矢风暴
 SkillsdBarrelz	ÿc0法术 - 投掷一个装满爆炸性粉末的木桶!
 SkillsdBeacon	ÿc0增益 - 周期性引爆附近一个毁灭性的陷阱
-SkillsdBearClaw	ÿc1需要一把投掷斧ÿc0\n投射物 - 击晕(stuns)并使其中毒(poisons)的投掷斧攻击
+SkillsdBearClaw	ÿc1需要一把投掷斧ÿc0\n投射物 - 击晕并使其中毒的投掷斧攻击
 SkillsdBearski	ÿc3此姿态对你与你的先祖英灵生效\nÿc0战斗姿态 - 大幅度提高防御强度
 SkillsdBerry	ÿc0发展索格伦荒野的特性\n增益 - 与自然的和谐允许德鲁伊
 SkillsdBFG83K	ÿc0法术 - frags everyone near this death orb of deathful deathsome death
@@ -4554,7 +4554,7 @@ SkillsdDemaciaaa	ÿc1需要一把近战武器ÿc0\n攻击 - 击中你路径上�
 SkillsdDemiurge	ÿc0增益 - 提高体力、精力与武器伤害
 SkillsdDemSpeed	ÿc9(再次施放以关闭)ÿc0\nboosts 移动速度 but renders you vulnerable
 SkillsdDevilsFang	ÿc0尸体图腾 - summons corpses and reanimates them as asatruar
-SkillsdDevouringAcid	ÿc0法术 - advancing contagion that creates deadly acid clouds on impact
+SkillsdDevouringAcid	ÿc0法术 - 冲击时形成致命酸雾的传播性攻击。
 SkillsdDireErid	ÿc0吸引他到他的仆人马利克(Malic)身边，并控制他直到他死去\n使用此法术转化路西昂，三神教普莱姆斯
 SkillsdDissUber	ÿc0法术 - powerful energy wave that destroys everything nearby
 SkillsdDivApparition	ÿc0折跃 - 传送到目标位置，冻结附近怪物
@@ -4883,7 +4883,7 @@ SkillsdWayOfTheSdr	ÿc0被动 - 允许你进行强力的毒素性攻击
 SkillsdWhaaWhaaWhaaa	ÿc1需要一把矛ÿc0\n折跃打击 - 闪烁到目标的头上，伤害附近的敌人
 SkillsdWhirlpool	ÿc1需要一件近战武器\nÿc0攻击 - creates a devastating maelstrom of damage
 SkillsdWhoStopsThe	ÿc0法术 - 瞄准一个目标敌人缓慢扩散的余烬之雨
-SkillsdWildFire	ÿc1需要一把斧或钉锤\nÿc0攻击 - 你持久不息的力量通过魔阶(demonic ranks)燃成一片野火
+SkillsdWildFire	ÿc1需要一把斧或钉锤\nÿc0攻击 - 你持久不息的力量通过魔阶燃成一片野火
 SkillsdWindform	ÿc1需要一把剑\nÿc0攻击 - 以死亡之舞与风合为一体
 SkillsdWingedStrike	ÿc1需要一把矛、一支爪或一把薙刀ÿc0\ncreep up on the target and deliver a lethal poisonous strike
 SkillsdWipeoutEbolt	ÿc0在你面前发射大范围的穿透性闪电爆裂\nfires wide piercing blasts of lightning in front of you
@@ -4944,7 +4944,7 @@ DescFixedMP	 法力
 DescLycDisabled	 点满此技能以启用ÿc8 变形术 (Lycanthropy)\nÿc1变形术被禁用ÿc0\n
 DescLifePerBerry	 最大生命
 DescPets	 最大仆从
-DescAncSpiXD	每达成以下角色等级时 +1 最大英灵: 20, 40, 100, 140
+DescAncSpiXD	+1 最大英灵 当角色等级达到 20, 40, 100, 140 时
 DescNovas	 新星
 DescLotusPois2	 于 1 秒内
 DescShamansSpellSyn2	 - 每基础等级于〈英灵〉技能树
@@ -5074,8 +5074,8 @@ DescLycEnabled	ÿc2 狼人形态的技能变得更有效了\nÿc2变形术启用
 DescThisIsLight	ÿc2两条中立技能树，保持中立\n一条中立技能树，不论阵营\n你可选择:\n中立技能 Neutral Skill
 DescThisIsShadow	ÿc2两条中立技能树，保持中立\n一条中立技能树，不论阵营\n你可选择:\n中立技能 Neutral Skill
 DescHarmedCharm	\n
-DescWhileCloaked	ÿc8背刺时 (While Backstabbing):\n
-DescMultiplier	\nÿc:(weapon damage multipliers on attack skills)\n武器伤害乘数影响\n此技能的元素伤害受攻击技能上的
+DescWhileCloaked	ÿc8背刺时:\n
+DescMultiplier	\nÿc:武器伤害乘数影响\n此技能的元素伤害受攻击技能上的
 DescReflectNoKills	\nÿc:不触发“死亡时”效果\n反射伤害杀死的敌人
 DescReflectNoKillsC	\nÿc:不触发“死亡时”效果\n反射伤害杀死的敌人
 DescReequip	\nÿc:如果加成未应用，请重新装备物品
@@ -5208,7 +5208,7 @@ Desc1B9Cruc	8-16 尖刺(数量)-取决于附近敌人\n转换 25% 物理伤害�
 DescRocksDmg	85% 武器伤害\n
 DescSunstrikeDmg	85% 武器伤害\n
 DescAcidNr	收割者(数量): 
-DescDevouringAcid	Acid Puddle 持续时间: 5 秒
+DescDevouringAcid	酸性淤泥持续时间: 5 秒
 DescOnlyWhenStruck	在战斗中被打击后激活 (Activate after being Struck in Combat)
 DescActiveRadius	激活半径: 
 DescLivingFlameSyn	额外最大生命 - 每基础等级 (收益递增)
@@ -5286,7 +5286,7 @@ DescEunuch	施法速度:
 DescCastWowz	施法速度: 
 DescSpamPunishers	施放
 DescStormfront	闪电矛(Lightning Spears): 
-DescProtector	使用〈保护者嗜血〉(Protector Bloodlust)
+DescProtector	使用〈保护者嗜血〉
 DescCBlow	压碎性打击几率: 
 DescMWDeadly	致命攻击几率: 
 DescEOFMagCrit	(Magic Critical Hit) 魔法暴击几率: 
@@ -5349,7 +5349,7 @@ DescDarklingsNr	黑虫(数量):
 DescDazzleDur	Dazzle 持续时间: 
 DescDazzleEffect	Dazzle: 敌人准确率: 
 DescDeadlyStrike	致命攻击: 
-DescIFailedAtModding	( Deals more damage in crowded areas )\n在拥挤的场景造成更多伤害\n
+DescIFailedAtModding	在拥挤的场景造成更多伤害\n
 DescRMBonus	每个镶嵌的符文防御加成乘数: 
 DescStoneACBonus	防御加成: 
 DescNukeDelay	引爆间延迟: 
@@ -5375,7 +5375,7 @@ DescZombieDur	持续时间: 1 小时
 DescRetaliationSparklez	+1 所有技能\n
 DescBlankSleepDur	躲避投射物几率: 
 Harmful2	持续时间: 5 秒\n受到伤害提高 50%\nÿc8弱点 Vulnerability\n
-DescColosseumStack	持续时间: 5 秒\n敌人移动速度与伤害: -25%\n敌人物理抗性: -10%\n敌人防御: -100%\nÿc8没玩爽吗？ Are you not entertained?
+DescColosseumStack	持续时间: 5 秒\n敌人移动速度与伤害: -25%\n敌人物理抗性: -10%\n敌人防御: -100%\nÿc8没玩爽吗？
 DescPrayerRange	效果半径: 
 DescAcid2Aura	元素法术伤害: 
 DescElemAura	元素法术伤害: 
@@ -5634,7 +5634,7 @@ DescTakedownFury2	ÿc0100% 武器伤害\n\n每秒治疗 1% 最大生命 - 每道
 DescBlankHyenaFury	ÿc8〈狂怒〉: 毒素持续时间效能提高 20% - 每道〈狂怒〉集气
 DescShower2	使用等级 1 〈石头澡〉
 DescDefender	使用〈报复〉
-DescGuardian	使用〈群斧飞舞〉(Axe Volley)
+DescGuardian	使用〈群斧飞舞〉
 DescStoneVel	移动速度: 
 DescWhenActVel	移动速度: 
 DescStonyGaze	移动速度: -30%\n防御: -50%\n物理抗性: -10%\n伤害: -40%\nÿc8硬直 Petrify\n
@@ -5693,7 +5693,7 @@ To The Realm of Sin	ÿc0难度: ÿc9中等\n\nÿc8+ 罪恶之心 Heart of Sin +\
 Path to Enlightenment	启蒙之路 Path to Enlightenment
 To The Path to Enlightenment	ÿc0难度: ÿc1困难\n\nÿc8+ 光之放逐者 Banisher of Light +\n\nÿc0地城任务\nÿc4Path to Enlightenment\n启蒙之路
 SymbiosisEff1	(Symbiotic Link) 共生连结: 
-SymbiosisEff2	% 效能 (efficiency)
+SymbiosisEff2	% 效能
 SymbiosisSyn	〈收割者〉Harvesters: 1 秒更快恢复 - 每基础等级 (最小 20s)\n+1% 几率躲避伤害(最大 15%) - 每基础等级
 SymbiosisSpell	冰冷与闪电法术伤害: +
 SymbiosisMaxLevel	基础等级
@@ -6219,14 +6219,14 @@ SkillnameCatalystTrap	催化陷阱 (Catalyst Trap)
 SkillsdCatalystTrap	ÿc1需要〈诡术〉\nÿc0陷阱 - 在靠近敌人时激活，缓速它们并强化你其他陷阱
 DescCatalyst1	在〈催化〉半径范围内引爆的陷阱造成:\nÿc8连锁反应 Chain Reaction\n
 DescCatalyst2	% 总伤害
-DescCatalyst3	敌人移动速度: -50%\n(Arming) 武装时间: 1.6 秒\n持续时间: 50 秒\n
+DescCatalyst3	敌人移动速度: -50%\n武装时间: 1.6 秒\n持续时间: 50 秒\n
 DescCatalyst4	+10% 伤害至〈连锁反应〉 - 每基础等级
 SkillnameShockwaveTrap	震波陷阱 (Shockwave Trap)
 SkillsdShockwaveTrap	ÿc1需要〈诡术〉\nÿc0陷阱 - 在敌人附近引爆为混乱新星
 DescShockwave1	% 敌人闪电抗性
 DescShockwave2	最大陷阱数: 
 DescShockwave3	+1 最大陷阱数量 - 每 6 额外基础等级
-DescShockwave4	(Arming) 武装时间: 0.6 秒\n
+DescShockwave4	武装时间: 0.6 秒\n
 DescBeaconX	提高总爆裂伤害 
 DescBeaconZ	引爆前站在〈催化〉附近\n
 DescBeaconSyn	〈催化陷阱〉: 200% 伤害提高的效能\n诡术 Subterfuge
@@ -6243,7 +6243,7 @@ DescShockwave5	+4% 闪电抗性穿透 - 每基础等级
 DescWolfAR	 准确率
 lms	'The Last Man Standing'（坚持就是胜利）\n活动奖励:
 LastManStanding	'The Last Man Standing'（坚持就是胜利）\n活动奖励:
-DescFiendsInherit	ÿc3〈收割者〉继承你所有的法术施法者(Spellcaster)属性
+DescFiendsInherit	ÿc3〈收割者〉继承你所有的法术施法者属性
 Placeholder	占位符 Placeholder
 DescSweeptimer	冷却时间减少 1.6 秒 - 每基础等级
 StrStashPageLocal	储藏页: 
@@ -6574,8 +6574,8 @@ SkillsdPaganRitual	ÿc0法术 - 烈焰吞没尸体，每牺牲一个都治疗你
 DescPaganRight	冷却时间减少 0.2 秒 - 每基础等级
 DescActivePassive	\nÿc1需要一把德鲁伊法杖或〈卡奥伊·杜拉果实〉\nÿc0周期性消耗尸体以恢复生命\nÿc8被动光环效果 Passive Aura Effect
 DescInfectedRoots	在中心击中多次
-DescBarkskin	\n(Earth Link)大地连结: 
-DescBarksyn	最大生命与防御提高 - 每基础等级\n+5% 效能 (Efficiency) - 每基础等级 (最大 100%)
+DescBarkskin	\n大地连结: 
+DescBarksyn	最大生命与防御提高 - 每基础等级\n+5% 效能 - 每基础等级 (最大 100%)
 DescLionheartSyn	+1.2% 固有元素伤害 - 每基础等级
 DescRathmaBabiesDmg2	% 总伤害
 AmazoniteUltra	亚马逊保卫者 Amazon Defender
@@ -6770,7 +6770,7 @@ SkillsdAmbush	ÿc0升级 - 用致命的魔仆给你的敌人送去惊喜
 SkillnameVampiricStrike	ÿc8吸血鬼之袭 (Vampiric Strike)
 SkillsdVampiricStrike	ÿc0升级 - 受黑夜影响时，释放一道破坏性极大的近战强打击
 SkillnameWingedCalamity	ÿc8有翼灾厄 (Winged Calamity)
-SkillsdWingedCalamity	ÿc0升级 - 魔仆从战斗中除外 (become exceptional)
+SkillsdWingedCalamity	ÿc0升级 - 使魔仆在战斗中杰出
 SkillnameExecution	ÿc8行刑 (Execution)
 SkillsdExecution	ÿc1需要〈侧击炮〉\nÿc0升级 - 在背刺时增加魔法伤害至〈侧击炮〉
 SkillnameMomentum	ÿc8动量 (Momentum)
@@ -6910,10 +6910,10 @@ DescBlizzgay2	 〈凤凰之道〉
 DescBlizzgay3	 〈狮鹫之道〉
 DescFamiliarPBeing	\n你的魔仆继承你的〈完美存在〉与〈棱镜斗篷〉被动\n\nÿc9(基于各个〈之道〉的技能等级)
 DescFamiliarAR	魔仆准确率: 
-DescFamiliarVel	魔仆速度(Velocity): 
+DescFamiliarVel	魔仆速度: 
 DescFamiliarGDR	魔仆总伤害减少: 
 DescFamiliarUses	使用等级 
-DescFamiliarBatAttack	 〈蝙蝠攻击〉(Bat Attack)
+DescFamiliarBatAttack	 〈蝙蝠攻击〉
 DescFamiliarExpire	ÿc1魔仆于 30 秒后过期\nÿc4蝠击 Batstrike
 DescWingedSyn	提高伤害减少 - 每 2 基础等级 (收益递减)\n+1000 准确率 - 每基础等级\n+5% 速度 - 每基础等级\n提升的〈蝙蝠攻击〉
 Lifecrusher	Lifecrusher
@@ -7141,7 +7141,7 @@ FlayerSurvivor	Flayer Survivor
 PreservedSentinel	Preserved Sentinel
 IceSpitter	Ice Spitter
 DescAcumen2	+1 投射物至〈精神鞭笞〉
-DescNoSLVL	\nÿc1(Does Not Scale With Skill Levels)\n不与技能等级关联
+DescNoSLVL	\nÿc1不与技能等级关联
 DescScalesWithUlvl	(随角色等级提高)
 DescBrutalSyn	+4% 移动速度 - 每基础等级\n+1% 致命攻击(DS) - 每基础等级
 DescAlchPrepProj	投射物至〈烈焰冲击〉和〈抛射〉
@@ -7169,7 +7169,7 @@ DescTotemMaxed	ÿc2点满此技能: 每次施法召唤2个图腾\n
 SkillnameSpiritReave	魂灵撕裂 (Spirit Reave)
 SkillsdSpiritReave	ÿc1需要一个近战目标\nÿc0攻击 - 造成持续魔法伤害的近战攻击
 MinionDmgString	伤害: 
-SkillSpiritReave1	% 的合计的(Combined)英灵每秒物理伤害为魔法
+SkillSpiritReave1	% 的合计的英灵每秒物理伤害为魔法
 SkillSpiritReave2	 魔法伤害每秒)
 SkillSpiritReave3	\n在一个英灵死亡后 8% 几率变得可使用
 DescIncreasesCtc	提高施放法术几率 
@@ -7180,7 +7180,7 @@ DescDirgeBoni	% 几率死亡时施放增强的法术
 DescDirgeReally	增强的法术: 双倍伤害
 Splintered Soul	Splintered Soul
 DescOverload1	\nÿc8共享冷却时间\nÿc8使用不同的技能会替换掉当前生效的增益\n\nÿc2净化之焰 Purifying Flame\n彻骨冰寒 Deep Freeze\n雷鸣风暴 Thunderstorm\nÿc8使用以下技能后激活 30 秒:
-DescOverload2	+10% 元素吸收，基于你当前的〈过载〉类型
+DescOverload2	+10% 元素吸收 - 基于你当前的〈过载〉类型
 DescPactWithTotems	 至法力\nÿc5(基于〈图腾〉技能树中的点数)\nÿc8学者 Scholarÿc0
 DescPactWithSummons	% 召唤仆从抗性\nÿc5(基于〈召唤〉技能树中的点数)\nÿc8死灵法师 Necromancerÿc0
 DescPendingPact	ÿc3点数加到其他技能树后解锁加成ÿc1
@@ -7210,7 +7210,7 @@ DescBloomPoisSyn	+%d%% 每基础等级增加的你的仆从抗性
 DescMSperBlvl	+%d%% 移动速度 - 每基础等级
 DescBloomSyn	半径提高 1.3 码 - 每基础等级
 DescMovementSpeed	+%d%% 移动速度
-DescBloomAura	ÿc8剧毒光环 Venomous Aura\n\nÿc2收割者 Harvesters
+DescBloomAura	ÿc8剧毒光环\n\nÿc2收割者 (Harvesters)
 DescMinionRes	+%d%% 召唤仆从抗性 
 DescMinionResBlvl	+%d%% 仆从抗性 - 每基础等级
 DescCeaselessSyn	冷却时间减少 0.33 秒 - 每基础等级
@@ -7238,7 +7238,7 @@ SkillnameTracking	追踪 (Tracking)
 SkillsdTracking	ÿc4需要 70 点投入至其他〈猎人〉系技能\nÿc0被动 - 猎人的专门知识让你的追踪之路达到新高度
 DescRequiresHunter	ÿc3需要 %d 基础等级投入至〈猎人〉技能树ÿc1
 Smoldering Edge	Smoldering Edge
-DescCoolestSkillz	ÿc0获得你的冰冷伤害与冰冷穿透\n提高的移动与攻击速度\n+100% 压碎性打击几率\nÿc8灵狼被激怒 Spirit Wolves are Enraged\n\nÿc0狼人技能冰冷伤害加倍\n法力恢复速率: -50%\n-25% 敌人冰冷抗性\nÿc8你被激怒 You are Enraged\n
+DescCoolestSkillz	ÿc0获得你的冰冷伤害与冰冷穿透\n提高的移动与攻击速度\n+100% 压碎性打击几率\nÿc8灵狼被激怒\n\nÿc0狼人技能冰冷伤害加倍\n法力恢复速率: -50%\n-25% 敌人冰冷抗性\nÿc8你被激怒\n
 DescCoolest2	提高持续时间 1 秒 - 每基础等级
 rc01	ÿc8El Container (01)\n符文容器：El
 rc02	ÿc8Eld Container (02)\n符文容器：Eld
@@ -7287,7 +7287,7 @@ DescElementalCommandUpg	ÿc2巨龙传说 Dragonlore
 SkillnameFireatWill	ÿc8自由射击 (Fire at Will)
 SkillsdFireatWill	ÿc0升级 - 〈诱饵〉生效时提高速度
 DescFireatWillSyn	冷却时间减少 0.6 秒 - 每基础等级
-DescSorcBlvlBonus	% 伤害乘数(Multiplier) - 每基础等级
+DescSorcBlvlBonus	% 伤害乘数 - 每基础等级
 DescCrystallineB1	\n(收益递增 -随 冰冷法术伤害)
 SkillnameWintertide	冬潮 (Wintertide)
 SkillsdWintertide	ÿc1需要一把权杖或一支法珠\nÿc0折跃 - 传送你到一个目标敌人
@@ -7587,7 +7587,7 @@ Blazing Armament	炽热军火 Blazing Armament
 SkillSpiritBond	ÿc8魂灵纽带 (Spirit Bond)
 SkillsdSpiritBond	ÿc0升级 - 〈魂灵撕裂〉的持续时间随你的召唤数提高
 DescSpiritBondBonus	% 持续时间至〈魂灵撕裂〉
-DescSpiritBondScale	% 〈魂灵撕裂〉持续时间 - 每一个额外的最大魂灵(spirit)数
+DescSpiritBondScale	% 〈魂灵撕裂〉持续时间 - 每一个额外的最大英灵数
 SpiritBondSyn	+100% 〈魂灵撕裂〉持续时间加成 - 每基础等级
 ArmouredTitan	装甲泰坦 Armored Titan
 EnigmaticGuardian	奇秘守护者 Enigmatic Guardian
@@ -7605,9 +7605,9 @@ LegionLich	裂魂者 Soulbreaker
 Nightstalker	暗夜魔王 Nightstalker
 Manoruk2	准备就绪 OilUp
 CorruptionBstr	死亡时永久腐化区域 Permanently corrupts area on death
-DescAmbushX	\nÿc9(使用〈闪烁〉(Blink)后短时间内可用)\nÿc2蝠击 Batstrike -> 召唤魔仆 Summon Familiar
+DescAmbushX	\nÿc9(使用〈闪烁〉后短时间内可用)\nÿc2〈蝠击〉 -> 〈召唤魔仆〉
 DescBetterStrike	继承〈之道〉技能等级为基础等级\n可获所有刺客被动技能收益
-DescCoupDeGrace	\n200% 武器伤害\n\nÿc9(当 吸血鬼标记 存在时可用)\nÿc2蝠击 Batstrike -> 吸血鬼之袭 Vampiric Strike
+DescCoupDeGrace	\n200% 武器伤害\n\nÿc9(当 吸血鬼标记 存在时可用)\nÿc2〈蝠击〉 -> 〈吸血鬼之袭〉
 DescCoupDeBats	魔法伤害加成 - 每基础等级
 DescCoupSyn	+1 投射物 - 每基础等级
 DescExpiresSoon	魔仆在此时间后过期: 
@@ -7620,7 +7620,7 @@ DescSecondWindSyn	% 每秒最大生命恢复 - 每 2 基础等级
 DescEleAegis1	% 火焰、冰冷与闪电吸收 - 格挡后
 DescImpale1	% 几率【暴露弱点】 - 攻击时
 SkillImpaleSyn	+1% 几率【暴露弱点】 - 每 
-SkillImpale2	物理抗性: -50%\nÿc8暴露弱点 Expose Weakness\n
+SkillImpale2	物理抗性: -50%\nÿc8暴露弱点\n
 SkillnameDeadlyDance	致命舞步 (Deadly Dance)
 SkillsdDeadlyDance	ÿc0被动 - 增加你的压碎性打击(CB) 为致命攻击(DS)
 SkillDeadlyDanceSyn	% 的压碎性打击(CB) 为致命攻击(DS) - 每基础等级
@@ -7639,7 +7639,7 @@ SkillNoxiousMasterySyn2	% 毒素持续时间减少加为加成的防御 - 每基
 SkillNoxiousMastery1	% 毒素持续时间减少加为加成的防御
 SkillNoxiousMastery2	 最大〈箭毒〉基础等级
 SkillNoxiousMastery3	〈箭毒〉: +
-SkillNoxiousMastery4	% 伤害乘数(Multiplier) - 每基础等级
+SkillNoxiousMastery4	% 伤害乘数 - 每基础等级
 SkillNoxiousMasterySynNoSpace	+3% 移动速度 - 每基础等级\n+1% 物理抗性 - 每基础等级
 DescConvertsToMag	转换 %d%% 物理伤害为魔法
 DescNewVoracity	寄生弹拥有溅射范围(AoE)\n\nÿc9(〈死亡天使〉生效时可用)\nÿc2寄生 Parasite -> 夺魂 Reaper
@@ -7718,17 +7718,17 @@ SkillnameConductivity	ÿc8传导性 (Conductivity)
 SkillsdConductivity	ÿc0升级 - 〈风暴呼唤〉在击中时有几率施放〈阿斯卡利闪电〉
 SkillnameDetermination	决心 (Determination)
 SkillsdDetermination	ÿc3仅允许使用近战、召唤与增/减益技能ÿc0\n被动 - 牺牲元素伤害能力以提高你的防御
-SkillTenacity1	\nÿc4物理伤害专精
+SkillTenacity1	\nÿc4物理伤害特化
 SkillTenacity2	% 武器物理伤害加成加为防御加成
 SkillnameLethalFocus	夺命集火 (Fatal Focus)
 SkillsdLethalFocus	ÿc0被动 - 以最大格挡率为代价，提高你的致命攻击(DS)
-SkillnameGalvanism	ÿc8电疗 (Galvanism)
+SkillnameGalvanism	ÿc8流电 (Galvanism)
 SkillsdGalvanism	ÿc0升级 - 加强〈铁螺旋〉与〈雷鸣风暴〉
 SkillGalvanism1	铁螺旋: 角色等级超过 90 时，每 3 等级提高(技能)最大基础等级 1\n\n雷鸣风暴: 继承〈铁螺旋〉的闪电伤害加成
 SkillIronSpiralSyn	伤害加成以指数级提高 - 每基础等级
 SkillnameAncestralEndurance	ÿc8先祖的坚韧 (Ancestral Endurance)
 SkillsdAncestralEndurance	ÿc1需要 20 点投入至〈萨满〉系技能\nÿc0升级 - 使用〈魂灵撕裂〉后提高你的减伤
-SkillAncestralEndurance1	无需禁用召唤技能获得〈近战专精〉
+SkillAncestralEndurance1	获得〈近战专精〉且无需禁用召唤技能
 SkillnameTectonics	ÿc8构造学 (Tectonics)
 SkillsdTectonics	ÿc0升级 - 你的〈地震〉有几率触发一次〈石头澡〉
 SkillTectonicsSyn	% 需求的武器物理伤害加成 - 每基础等级
@@ -7789,8 +7789,8 @@ DescWotsFetish	击中 1 秒后再次引爆\n\nÿc3(随毒素法术伤害提高)\
 DescLethalInc3	毒素技能持续时间提高 
 DescLethalPSDur	+%d%% 技能持续时间 - 每基础等级
 DescThisIsHard	+2% 毒素技能伤害 - 每一级低于 100 的角色等级\n
-SkillShamanicTrance1	% 基础力量 (最大 600)
-SkillShamanicTrance2	先祖英灵 伤害乘数: 
+SkillShamanicTrance1	% 基础力量(最大 600)
+SkillShamanicTrance2	先祖英灵伤害乘数: 
 SkillSpiritWalkSyn	任意萨满技能: 
 SkillSpiritWalkSyn2	% 提高的治疗 (最高到 10% 最大生命)
 SkillSpiritWalk1	恢复 
@@ -8009,28 +8009,28 @@ SkillViolence2	100% 的生命偷取加至闪电穿透\n
 SkillViolence3	33% 的生命偷取加至暴击几率\n
 SkillnameMightyVigor	强韧 (Mighty Vigor)
 SkillsdMightyVigor	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 你的力量增强你的生命偷取
-SkillMightyVigor1	+1% 生命偷取 每 
-SkillMightyVigorSyn	 更少的力量需求  - 每基础等级
+SkillMightyVigor1	+1% 生命偷取每 
+SkillMightyVigorSyn	 更少的力量需求 - 每基础等级
 SkillnamePillage	掠夺 (Pillage)
 SkillsdPillage	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 杀死敌人时获得额外掉落
 SkillPillage1	强化符文, 圣坛, 稀有油, 印章\n\n你有很低的几率获得额外掉落:\n每当你在地狱难度击杀敌人时\n\nÿc8需要至少 5 点以解锁效果
 SkillnameUnyielding	不屈 (Unyielding)
 SkillsdUnyielding	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 被攻击后获得物理抗性
-SkillUnyielding1	% 物理抗性 - 受到武器伤害后
+SkillUnyielding1	% 物理抗性 在受到武器伤害后
 SkillSnakeStance1	% 毒素伤害 - 高于 120 的每 1 角色等级
 SkillnameAptitude	适应 (Aptitude)
 SkillsdAptitude	ÿc3技能随战斗姿态改变\nÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 随着经验增长，你的战斗姿态变得更加有效。
 SkillAptitude1	+2% 〈蛇姿态〉伤害加成至〈涌动〉 - 高于 120 的每 1 角色等级
 SkillAptitude2	+1.5% 固有元素伤害至 〈鹰姿态〉 - 高于 120 的每 1 角色等级
 SkillAptitude3	+10% 武器物理伤害至 〈狼姿态〉 - 高于 120 的每 1 角色等级
-SkillAptitude4	奖励效果最高至角色等级 
-SkillAptitudeSyn	 至角色等级效果加成 - 每基础等级
+SkillAptitude4	随等级提高的加成效果上限至等级 
+SkillAptitudeSyn	 至角色等级效果加成上限 - 每基础等级
 SkillVoidGazerStormSyn	弱点: +1 额外目标
 SkillnameWarder	守卫 (Warder)
 SkillsdWarder	ÿc1需要野蛮人职业盾牌\nÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 在格挡之后短暂时间内保护你免受伤害
 SkillWarderSyn	 伤害减少 - 每基础等级
-SkillWarder1	 物理/元素/魔法伤害减少
-SkillWarder2	 格挡之后
+SkillWarder1	 受到的物理/元素/魔法伤害减少 
+SkillWarder2	 在格挡后
 DescResistDefenceMulti	% 至总防御 - 当持有双手武器时
 Mjolner	雷神之锤 (Mjolner)
 SkillnameHammerStorm	锤子风暴 (Hammer Storm)

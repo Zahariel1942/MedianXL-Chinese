@@ -9559,7 +9559,7 @@ DescDevotionBow
 DescDevotionWolf	
 DescDevotionBear	
 DescDevotionRat	
-Desc500IQ	ÿc9在变形时可以使用 (while Shapeshifted)
+Desc500IQ	ÿc9在变形时可以使用
 Twisted Sanctum	扭曲圣殿 Twisted Sanctum
 Deals	造成 
 To The Twisted Sanctum	前往扭曲圣殿
@@ -9849,7 +9849,7 @@ GaleForceSyn	+0.66 码至溅射范围(AoE) - 每
 BaseLevelzz	 基础等级
 EWDSyn	% 武器物理伤害 - 每基础等级
 SkilsdPrecision	ÿc0被动 - 让你的〈旋风〉攻击更准确
-SkillnamePrecision	ÿc8精准性 (Precision)
+SkillnamePrecision	ÿc8精准 (Precision)
 PrecisionSyn1	% 准确率加成 - 每基础等级
 SavageryName	ÿc8残暴 (Savagery)
 SavageryDesc	ÿc0升级 - 在〈旋风〉期间增加致命攻击(DS)到你的攻击
@@ -9865,16 +9865,16 @@ SkillnamePrimordialHunt	ÿc8始源之猎 (Primordial Hunt)
 SkillsdPrimordialHunt	ÿc0升级 - 你的狼群降低的物理防御改为元素防御
 AncientBloodSyn	+0.5% 最大生命 - 每基础等级
 SkillnameThunderstorm	雷鸣风暴 (Thunderstorm)
-SkillsdThunderstorm	ÿc1需要〈汇流〉\nÿc4标志性技能 Signature Skill\nÿc0投射物 - 将你周围一大片区域电伤
+SkillsdThunderstorm	ÿc1需要〈汇流〉\nÿc4标志性技能\nÿc0投射物 - 将你周围一大片区域电伤
 SkillThunderstorm1	\n〈过载〉时无法使用
 SkillThunderstormSyn	% 移动速度 - 每基础等级
 SkillThunderstorm2	% 移动速度 - 当〈过载〉时
 SkillnameDeepFreeze	彻骨冰寒 (Deep Freeze)
-SkillsdDeepFreeze	ÿc1需要〈汇流〉\nÿc4标志性技能 Signature Skill\nÿc0攻击 - 一股致命寒冰的集中爆发
+SkillsdDeepFreeze	ÿc1需要〈汇流〉\nÿc4标志性技能\nÿc0攻击 - 一股致命寒冰的集中爆发
 SkillDeepFreeze1	% 固有元素伤害 - 当〈过载〉时
 SkiillDeepFreezeSyn	% 固有元素伤害 - 每基础等级
 SkillnamePurifyingFlame	净化之焰 (Purifying Flame)
-SkillsdPurifyingFlame	ÿc1需要〈汇流〉\nÿc4标志性技能 Signature Skill\nÿc0增益 - 恢复性的净化
+SkillsdPurifyingFlame	ÿc1需要〈汇流〉\nÿc4标志性技能\nÿc0增益 - 恢复性的净化
 SkillPurifyingFlame1	% 每秒最大生命恢复 - 当〈过载〉时
 SkillPurifyingFlameSyn	% 毒素持续时间减少 - 每基础等级
 SkillnamePrimordialStrike	始源打击 (Primordial Strike)
