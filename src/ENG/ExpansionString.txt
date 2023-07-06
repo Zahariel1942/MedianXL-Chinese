@@ -4478,9 +4478,9 @@ SkillsdBlackstorm	ÿc0upgrade - your Mind Flay is enhanced near your Slayer
 SkillsdBlackW	ÿc1disables catapult shot\nrequires a crossbowÿc0\nprojectile - unleash a barrage of homing bolts
 SkillsdBladeQ	ÿc0buff - temporarily hurls swirling blade mines at nearby foes
 SkillsdBladesOfLight	ÿc0provides self or target ally with magical thorns of light
-SkillsdBladespirit	ÿc0 summon - Zann swordwraiths fight alongside you
+SkillsdBladespirit	ÿc0special summon - Zann swordwraiths fight alongside you
 SkillsdBladestorm	ÿc1requires a staff, orb or crystal swordÿc0\nattack - unleash magical homing blades
-SkillsdBladestorm2	ÿc1requires a swordÿc0\nmelee attack that unleashes magical homing blades
+SkillsdBladestorm2	ÿc1requires a swordÿc0\nattack - unleashes magical homing blades
 SkillsdBladez	ÿc0creates a meat grinding wall of blades that carry weapon damage
 SkillsdBlamLight	ÿc0spell - target enemy explodes with a blast of holy light
 SkillsdBlastWave	ÿc0multiple gigantic stunning novas that knock enemies back
@@ -5044,7 +5044,7 @@ DescStopAvoid	% when standing still or whirlwinding
 DescPctVengeful	% damage for 5 seconds after being hit
 DescACFlash	% while Casting
 DescDeathFeedbackCap	(Capped at 25,000 Life)
-DescFeedbackCap	(Capped at 25,000 Mana)
+DescFeedbackCap	(Capped at 30,000 Mana)
 DescCurrentNeph1	(Current Value: 
 DescItsNotRocketSciGuys	(Damage per Second Remains Constant)
 DescCryoPhysCrit	(Damage: 25000)\n1% Chance to Atomize Target per 10 Base Energy
@@ -5088,7 +5088,7 @@ DescDemiurgeBlank
 DescTiefling	\nTotal Character Defense -50%
 DescTwistingBite	unused
 DescBlankHarbinger	unused
-DescNovaEffectM	\nConverts 90% Physical Damage to Magic\n13 Projectiles per Nova\n90% Weapon Damage\nÿc8Flechette Novas\n
+DescNovaEffectM	\nConverts 80% Physical Damage to Magic\n16 Projectiles per Nova\n90% Weapon Damage\nÿc8Flechette Novas\n
 DescFirstChargeRadius	
 DescYouNeedToWolfIt	\nRequired to unlock bonuses\nÿc8Lycanthropy\n
 DescBlankPounce	\nMagic Damage Increased by 100% per Fury Charge\nÿc8Fury\n
@@ -5164,7 +5164,7 @@ DescBacchSyn2	+1% Max Life regen per
 DescPredatorSyn	+1-2% Life Leech per 2 Base Levels
 FuckVizharan	More healing per Base Level (Diminishing Returns)
 DescUBerElemSyn	+15% Elemental Damage per Base Level\nRathma's Chosen
-DescBladeSpiritsSyn	ÿc8and Bonus to Defense\nInherits your Weapon Physical Damage\n
+DescBladeSpiritsSyn	ÿc8Inherits your % Weapon Physical Damage\n
 DescBlankBaneblade3	+150% Block Speed\n\nCooldown: 5 seconds\nDuration: 20 minutes\n
 DescGladBlank	+150% Block Speed\n-20% Max Block chance\n+15% base chance to Block\n
 DescWelcomeBack	+1 Life on Striking per Base Level
@@ -5195,7 +5195,7 @@ DescBlankEagleS	-50% Attack Speed\n
 DescBlankThreeFour	40% Weapon Damage\n
 DescBlankWar32	40% Weapon Damage\n
 DescCastsCharm	5% Chance to cast Level 1 Siren Song
-DescScimitar	5% Chance to cast Level 1/25/50 Bladestorm\n
+DescScimitar	20% Chance to cast Level 50 Bladestorm
 DescWeakeningSyn	-5% Enemy Cast Speed per Base Level
 DescThreeFourBlank	60% Weapon Damage\n
 DescOverkilled	110% Weapon Damage\n
@@ -7996,7 +7996,7 @@ DescVoodooARBonus	Gain 3 Attack Rating per 4 Points of Base Strength\n2% Chance 
 DescVoodooStrBonus	% To Strength
 DescLifeFromDeathSynBonus	ÿc/1 Life on Striking per 10 Base LEvels\nÿc2Alchemist Path\n\nÿc/1% Physical Resistance per 2 Base Levels\nÿc2Voodoo Path
 DescVoodooPath	% To Physical Resistance\nÿc2Voodoo Pathÿc5
-DescAlchemistPath	% Increased Healing From Potions\nHealing Potions Last 15 Seconds\nÿc2Alchemist Pathÿc5
+DescAlchemistPath	% Increased Healing From Potions\nÿc2Alchemist Pathÿc5
 SkillnameLifeFromDeath	Life From Death
 SkillsdLifeFromDeath	requires voodoo practice or debilitating concoction\npassive - insight on the secrets of life and death heighten your endurance
 Deaths Reach	Death's Reach
@@ -8039,6 +8039,8 @@ StakeDriver	Stake Driver
 DescWychSyn	Storm Crows: +0.2s to Vulnerability Duration per Base Level
 SksynStampede	(change depending on combat stance)\nSynergies
 SkillsdSpikeNova	fire a ring of deadly spikes around you
-DescLifeFromDeathSynBonusTemp	ÿc/2.5% Increased Healing from Potions per Base Level\nHealing Potions Last 15 Seconds\nÿc2Alchemist Path\n\nÿc/1% Physical Resistance per 2 Base Levels\nÿc2Voodoo Path
+DescLifeFromDeathSynBonusTemp	ÿc/2.5% Increased Healing from Potions per Base Level\nHealing Potions Last 2 Additional Seconds per 5 Base Levels\nÿc2Alchemist Path\n\nÿc/1% Physical Resistance per 2 Base Levels\nÿc2Voodoo Path
 DescSnakeBiteSyn2	% Total Damage per Character Level above 120
-SkillStampede6	+1 Projectile per 9 Base Levels\n
+SkillStampede6	+1 Projectile per 9 Base Levels (Max 3)\n
+DescAlchemyPotDuration	Healing Potions Last 
+DescRunemasterRes	% to Maximum Fire/Cold/Lightning Resistances

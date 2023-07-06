@@ -4478,9 +4478,9 @@ SkillsdBlackstorm	ÿc0升级 - 你的〈精神鞭笞〉在靠近你的〈杀手�
 SkillsdBlackW	ÿc1禁用〈弹射〉\nÿc1需要一把弩ÿc0\n投射物 - 释放出一道导引弹的弹幕
 SkillsdBladeQ	ÿc0增益 - 一段时间内向附近对手猛掷旋转的刀刃地雷
 SkillsdBladesOfLight	ÿc0provides self or target ally with magical thorns of light
-SkillsdBladespirit	ÿc0 召唤 - 赞艾苏的刀灵与你共同作战
+SkillsdBladespirit	ÿc0特殊召唤 - 赞艾苏的刀灵与你共同作战
 SkillsdBladestorm	ÿc1需要一支杖，一支法珠或一把水晶剑ÿc0\n攻击 - 放出魔法般导引的刀刃
-SkillsdBladestorm2	ÿc1需要一把剑ÿc0\nmelee attack that unleashes magical homing blades
+SkillsdBladestorm2	ÿc1需要一把剑ÿc0\n攻击 - 放出魔法般导引的刀刃
 SkillsdBladez	ÿc0creates a meat grinding wall of blades that carry weapon damage
 SkillsdBlamLight	ÿc0法术 - 目标敌人在一道圣光中爆炸
 SkillsdBlastWave	ÿc0multiple gigantic stunning novas that knock enemies back
@@ -5044,7 +5044,7 @@ DescStopAvoid	% - 当站在原地时或正使用〈旋风〉
 DescPctVengeful	% 伤害持续 5 秒 - 被击中后
 DescACFlash	% - 施法时 (while Casting)
 DescDeathFeedbackCap	(有 25,000 生命的上限)
-DescFeedbackCap	(有 25,000 法力的上限)
+DescFeedbackCap	(有 30,000 法力的上限)
 DescCurrentNeph1	(当前值: 
 DescItsNotRocketSciGuys	(每秒伤害保持不变)
 DescCryoPhysCrit	(伤害: 25000)\n每 10 基础精力 1% 几率原子化目标
@@ -5088,7 +5088,7 @@ DescDemiurgeBlank
 DescTiefling	\n总角色防御 -50%
 DescTwistingBite	unused
 DescBlankHarbinger	unused
-DescNovaEffectM	\n转换 90% 物理伤害为魔法\n每次新星 13 投射物\n90% 武器伤害\nÿc8箭弹新星 Flechette Novas\n
+DescNovaEffectM	\n转换 80% 物理伤害为魔法\n每次新星 16 投射物\n90% 武器伤害\nÿc8箭弹新星\n
 DescFirstChargeRadius	
 DescYouNeedToWolfIt	\n( Required to unlock bonuses )\n需要变形术解锁加成\nÿc8变形术 Lycanthropy\n
 DescBlankPounce	\nMagic Damage Increased by 100% per Fury Charge\nÿc8狂怒 Fury\n
@@ -5164,7 +5164,7 @@ DescBacchSyn2	+1% 最大生命恢复 - 每
 DescPredatorSyn	+1-2% 生命偷取 - 每 2 基础等级
 FuckVizharan	更多治疗 - 每基础等级 (收益递减)
 DescUBerElemSyn	+15% 元素伤害 - 每基础等级\n拉斯玛的选择 (Rathma's Chosen)
-DescBladeSpiritsSyn	ÿc8和防御加成\n继承武器物理伤害\n
+DescBladeSpiritsSyn	ÿc8继承你的 % 武器物理伤害\n
 DescBlankBaneblade3	+150% 格挡速度\n\n冷却时间: 5 秒\n持续时间: 20 分钟\n
 DescGladBlank	+150% 格挡速度\n-20% 最大格挡几率\n+15% 基础格挡几率\n
 DescWelcomeBack	+1 生命 - 打击时 - 每基础等级
@@ -5195,7 +5195,7 @@ DescBlankEagleS	-50% 攻击速度\n
 DescBlankThreeFour	40% 武器伤害\n
 DescBlankWar32	40% 武器伤害\n
 DescCastsCharm	5% 几率施放等级 1 海妖之歌(Siren Song)
-DescScimitar	5% 几率施放等级 1/25/50 〈刀刃风暴〉\n
+DescScimitar	20% 几率施放等级 50 〈刀刃风暴〉
 DescWeakeningSyn	-5% 敌人施法速度 - 每基础等级
 DescThreeFourBlank	60% 武器伤害\n
 DescOverkilled	110% 武器伤害\n
@@ -8039,6 +8039,8 @@ StakeDriver	木锥 (Stake Driver)
 DescWychSyn	暴风乌鸦 (Storm Crows): +0.2s 至弱点持续时间 - 每基础等级
 SksynStampede	(随战斗姿态改变)\n协同加成
 SkillsdSpikeNova	在你周围发射一圈致命的尖刺
-DescLifeFromDeathSynBonusTemp	ÿc/2.5% 增加治疗药水效果 - 每基础等级\n治疗药水持续 15 秒\nÿc2炼金之路 (Alchemist Path)\n\nÿc/1% 物理抗性 - 每 2 基础等级\nÿc2巫毒之路 (Voodoo Path)
+DescLifeFromDeathSynBonusTemp	ÿc/2.5% 增加治疗药水效果 - 每基础等级\n治疗药水效果持续 +2 秒 - 每 5 基础等级\nÿc2炼金之路 (Alchemist Path)\n\nÿc/1% 物理抗性 - 每 2 基础等级\nÿc2巫毒之路 (Voodoo Path)
 DescSnakeBiteSyn2	% 增加伤害 - 高于 120 的每 1 角色等级
-SkillStampede6	+1 投射物 - 每 9 基础等级\n
+SkillStampede6	+1 投射物 - 每 9 基础等级(最大 3)\n
+DescAlchemyPotDuration	治疗药水效果持续 
+DescRunemasterRes	% 至最大火焰/冰冷/闪电抗性

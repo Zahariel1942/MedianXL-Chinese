@@ -1350,7 +1350,7 @@ x	Shieldmaiden: +15% Weapon Physical Damage per character level above 120
 11349	Crucify: +14% Magic Damage per Base Level
 11350	Shadow Refuge: -1% to Enemy Fire, Cold and Lightning Resists per Base Level
 11351	+100% Duration to Solar Flare
-11352	Stampede Cooldown Cannot be Reduced Below 0.8 seconds
+11352	Stampede: +1 Projectile
 11353	You may Only use Melee, Summon and Support Skills
 11354	Fire Pierce Reduces Cold Pierce\nFire Spell Damage Reduces Cold Spell Damage\nGlacial Nova: +150% Total Damage
 11355	ÿc5 20 Second Cooldown to All Lightning Tree Spells\nÿc8If You Have any Points in Vengeful Power, Living Flame or Snow Queen
@@ -1556,7 +1556,7 @@ StrCfgShowAutomapParty	Show minions and mercenary
 11555	+3 Axes to Overkill
 11556	+1 Pain Spirit Projectiles
 11557	Parasite Gains 5 Additional Targets
-11558	+150 Base Energy to Psicrown
+11558	+500 Total Energy to Psicrown
 11559	Shred: +50% Duration
 11560	Spark of Hope Duration Increased by 15 seconds
 11561	+10 Rebound Projectiles
