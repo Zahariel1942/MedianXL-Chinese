@@ -4952,7 +4952,7 @@ DescOverAllElem	 每种元素
 DescTrin	 (如果你拥有其他〈伤害〉来源)
 DescCurrentNeph2	 - 每种元素)
 DescOnEachHit	 - 每次击中
-DescPerHardEnPsi	 - 每一点的基础精力
+DescPerHardEnPsi	 % 的精力
 DescNephalemDex	% 基础敏捷
 DescDeathCoilLost	 失去生命的百分比
 DescPctOfMaxLife	 最大生命的百分比
@@ -5048,7 +5048,7 @@ DescFeedbackCap	(有 30,000 法力的上限)
 DescCurrentNeph1	(当前值: 
 DescItsNotRocketSciGuys	(每秒伤害保持不变)
 DescCryoPhysCrit	(伤害: 25000)\n每 10 基础精力 1% 几率原子化目标
-DescGladRSyn	未使用
+DescConvCold	转换 %d%% 物理伤害至冰冷伤害
 DescWhatDoWolfiesDo	
 DescObliteration	(总伤害依据相对位置决定)\n大量击中 (Massively Hits)
 DescTotalStrike	(每次爆裂总火焰伤害: 
@@ -7463,7 +7463,7 @@ SkillsdFalconPUNCHMerc	ÿc0投射物 - 投掷斧在目标地点冲击，弱化�
 DescMaxCharges	ÿc8最大 
 DescCharges	 ÿc8集气
 DescPounceSyn	ÿc8〈狂怒〉: 魔法伤害提高 100% - 每道〈狂怒〉集气\nÿc0+1% 魔法伤害 - 每 1 敏捷
-Sksynspace	\nÿc4协同加成
+DescSynergies	\nÿc4协同加成
 DescWarSpiritSyn	〈血〉: +5% 加成防御 - 每基础等级\n〈风暴〉: +50 最大生命 - 每基础等级\n〈矛〉: +1% 压碎性打击(CB) - 每 2 基础等级\n〈标枪〉: +5% 攻击速度 - 每基础等级\n〈弓〉: +3 杀敌获取生命 - 每基础等级
 TremorWDM	%〈震颤〉武器伤害
 AftershockWDM	% 〈余震〉武器伤害
@@ -7731,7 +7731,7 @@ SkillsdAncestralEndurance	ÿc1需要 20 点投入至〈萨满〉系技能\nÿc0�
 SkillAncestralEndurance1	获得〈近战专精〉且无需禁用召唤技能
 SkillnameTectonics	ÿc8构造学 (Tectonics)
 SkillsdTectonics	ÿc0升级 - 你的〈地震〉有几率触发一次〈石头澡〉
-SkillTectonicsSyn	% 需求的武器物理伤害加成 - 每基础等级
+SkillTectonicsSyn	% 需求的武器物理伤害加成 - 每基础等级\n-100 力量需求 - 每基础等级
 SkillTectonics1	1% 几率施放〈石头澡〉 - 每 
 SkillTectonics2	% 武器物理伤害加成
 SkillTectonics3	当使用〈地震〉时:
@@ -8044,3 +8044,4 @@ DescSnakeBiteSyn2	% 增加伤害 - 高于 120 的每 1 角色等级
 SkillStampede6	+1 投射物 - 每 9 基础等级(最大 3)\n
 DescAlchemyPotDuration	治疗药水效果持续 
 DescRunemasterRes	% 至最大火焰/冰冷/闪电抗性
+SkillTectonics5	 力量

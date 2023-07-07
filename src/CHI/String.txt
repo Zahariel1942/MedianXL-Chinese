@@ -9892,7 +9892,7 @@ CurrentValue+	(当前值: +
 SkillsdHoS2	ÿc1若你有点数加到〈旋风〉，你不可学习此技能\n仅允许使用近战、召唤与增/减益技能\nÿc0被动 - 增强你的物理性技艺并令你元素性力量无效化
 SkillsdWhirlwind2	ÿc1若你有点数加到〈石之心〉，你不可学习此技能\n需要一件近战武器\nÿc0攻击 - 在死亡之舞中与风合为一体
 SkillsdLeap2	ÿc0折跃 - 跃过你的对手
-DescSoR1	敌人移动速度: -25%\n敌人准确率: -25%\n敌人物理抗性: -5%\n\n冷却时间: 2 秒\n
+DescSoR1	敌人移动速度: -25%\n敌人准确率: -25%\n敌人物理抗性: -5%\n
 DescAftermathSyn	% 力量加为魔法伤害 - 每基础等级
 SkillsdAftermath2	升级 - 〈石头澡〉受到亚瑞特威能的提升
 DescAftermath1	% 的力量加为魔法伤害至〈石头澡〉

@@ -9892,7 +9892,7 @@ CurrentValue+	(Current Value: +
 SkillsdHoS2	ÿc1you cannot learn this skill if you have points in Whirlwind\nonly allows the use of melee, summoning and buff/debuff skills\nÿc0passive - amplifies your physical prowess and nullifies your elemental power
 SkillsdWhirlwind2	ÿc1you cannot learn this skill if you have points in Heart of Stone\nrequires a melee weapon\nÿc0attack - become one with the wind in a dance of death
 SkillsdLeap2	ÿc0warp - jump over your foes
-DescSoR1	Enemy Movement Speed: -25%\nEnemy Attack Rating: -25%\nEnemy Physical Resist: -5%\n\nCooldown: 2 seconds\n
+DescSoR1	Enemy Movement Speed: -25%\nEnemy Attack Rating: -25%\nEnemy Physical Resist: -5%\n
 DescAftermathSyn	% Strength added as Magic damage per Base Level
 SkillsdAftermath2	upgrade - Shower of Rocks is improved by the might of Arreat
 DescAftermath1	% of Strength added as Magic damage to Shower of Rocks

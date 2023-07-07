@@ -4952,7 +4952,7 @@ DescOverAllElem	 per element
 DescTrin	 (if you have another source)
 DescCurrentNeph2	 per element)
 DescOnEachHit	 per hit
-DescPerHardEnPsi	 per point of base energy
+DescPerHardEnPsi	% of Total Energy
 DescNephalemDex	% of Base Dexterity
 DescDeathCoilLost	 percent of Life Lost
 DescPctOfMaxLife	 percent of Maximum Life
@@ -5048,7 +5048,7 @@ DescFeedbackCap	(Capped at 30,000 Mana)
 DescCurrentNeph1	(Current Value: 
 DescItsNotRocketSciGuys	(Damage per Second Remains Constant)
 DescCryoPhysCrit	(Damage: 25000)\n1% Chance to Atomize Target per 10 Base Energy
-DescGladRSyn	unused
+DescConvCold	Converts %d%% Physical Damage to Cold
 DescWhatDoWolfiesDo	
 DescObliteration	(total damage depends on relative position)\nMassively Hits
 DescTotalStrike	(Total Fire Damage per Blast: 
@@ -7731,7 +7731,7 @@ SkillsdAncestralEndurance	ÿc1requires 20 points in Shaman tree skills\nÿc0upgr
 SkillAncestralEndurance1	Gain Melee Devotion without disabling summon skills
 SkillnameTectonics	ÿc8Tectonics
 SkillsdTectonics	ÿc0upgrade - your Earthquakes occasionally trigger a Shower of Rocks
-SkillTectonicsSyn	% Weapon Physical Damage bonus required per Base Level
+SkillTectonicsSyn	% Weapon Physical Damage bonus required per Base Level\n-100 Strength required per Base Level
 SkillTectonics1	1% chance to cast Shower of Rocks per 
 SkillTectonics2	% Weapon Physical Damage bonuses
 SkillTectonics3	When using Earthquake:
@@ -8044,3 +8044,4 @@ DescSnakeBiteSyn2	% Total Damage per Character Level above 120
 SkillStampede6	+1 Projectile per 9 Base Levels (Max 3)\n
 DescAlchemyPotDuration	Healing Potions Last 
 DescRunemasterRes	% to Maximum Fire/Cold/Lightning Resistances
+SkillTectonics5	 Strength

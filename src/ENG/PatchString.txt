@@ -1281,7 +1281,7 @@ x	Remorseless Winter
 x	Knockback Enemies If You Have at Least 1000 Strength
 x	''Knowledge is Power''
 x	+2.5% Spell Damage per 1% Additional Experience Gain
-x	ÿc5+100% Bonus Magic Damage to Shower of Rocks\n+400% Bonus Magic Damage to Thunder Slam\n+300% Bonus Magic Damage to Earthquake\nÿc8If You Have no Points in the Stance Tree:
+11283	ÿc5Shower of Rocks: cooldown reduced by 1 second\nThunder Slam: cooldown reduced by 4 seconds\nÿc8If You Have no Points in combat stances:
 x	ÿc1Deathlord Morph\nÿc8Parasite: +6 Targets
 x	Flamefront: +5 Maximum Projectiles
 x	+1% Deadly Strike Per Firedance Base Level
@@ -2182,3 +2182,4 @@ strHotkeydescEmote	Audio emote from your character that other players around you
 12181	Flametail Shot Inherits Catapult Shot's Fire Damage\nAlchemic Preparation: Flametail Shot gains +1 Projectile per 4 Base Levels
 12182	Reckoning of Zerae: Grants +1% Lightning Pierce per 1% Deadly Strike
 12183	Arcane Fury: 5% Additional Mana and Energy During Buff Effect
+12184	Gain 50% of your Wolf Companion Base Damage as Flat Physical Damage\n+1% Fire, Cold and Lightning resistances per Wolf Companion Skill Level
