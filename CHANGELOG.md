@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## ongoing
+## 2.6.0_1.1 (2023-07-07 17:33:08)
 - 新名词
     - 原初之斧 Antediluvian
 - 修正
