@@ -7525,7 +7525,7 @@ A Perfect Storm	完美风暴 A Perfect Storm
 Cloudburst	Cloudburst
 Artemesias Authority	阿特米希娅的权威 Artemesia's Authority
 Guardian	守护者 Guardian
-Antediluvian	Antediluvian
+Antediluvian	原初之斧 Antediluvian
 gc01	ÿc8红宝石簇群 Ruby Cluster
 gc02	ÿc8绿宝石簇群 Emerald Cluster
 gc03	ÿc8蓝宝石簇群 Sapphire Cluster
