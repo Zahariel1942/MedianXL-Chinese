@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## ongoing
+## 2.6.3_1.3 (2023-07-26 13:04:39)
 - 更新至2.6.3版本内容。
 - 修正
     - 火焰九头蛇 Fire Hydra 更名枯牙 Witherfang
