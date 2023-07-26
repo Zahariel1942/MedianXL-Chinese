@@ -4705,7 +4705,7 @@ SkillsdMorePylons	ÿc0spell - creates a tempest of mental energy at the target p
 SkillsdMOTW	ÿc0buff - invoke the power of the wild to strengthen self or target ally
 SkillsdMountainKing	ÿc0passive - increases strength, dexterity, vitality and energy
 SkillsdMoveOnly	walk to target location
-SkillsdMummyReturns	ÿc0passive - ritual of the initiates to increase life of minions and mana regen
+SkillsdMummyReturns	ÿc0passive - ritual of the initiates fortifies you and your minions
 SkillsdMythal	ÿc0debuff - field of wild magic that pierces resistances
 SkillsdNecropolis	ÿc0passive - gain mastery over the black arts
 SkillsdNephalemWpns	ÿc3this skill affects you and your ancient spirits\nÿc0passive - enhance your weapons with ancestral elemental power
@@ -5923,7 +5923,7 @@ Edge of Nothingness	Edge of Nothingness
 To The Edge of Nothingness	ÿc0Difficulty: ÿc5Impossible\n\nÿc8+ Herald of the End +\n\nÿc0Dungeon Quest\nÿc4Edge of Nothingness
 DescEdyremCount	Edyrems: 
 |ld	Lylia's Curse
-LilithReward	Lylia's Curse
+LilithRewardFire	Lylia's Curse
 |dc	Dragon Claw
 DragonClaw	Dragon Claw
 Light_ones	Holy Nephalem
@@ -6019,7 +6019,7 @@ SkillsdAbyssKnight	ÿc0summon - death knights with a ranged void blast
 SkillnameIronGolem	Iron Golem
 SkillsdIronGolem	ÿc1requires a metallic item on the ground\nÿc0special summon - consume an item to forge a powerful living servant
 SkillnameResurgence	Resurgence
-SkillsdResurgence	ÿc0passive - your dark army grow stronger
+SkillsdResurgence	ÿc0passive - your dark army grows stronger
 SkillnameJinnWhat	What?
 SkillsdJinnWhat	ÿc0Hello
 TotemFrostclaw	Frostclaw
@@ -6058,7 +6058,7 @@ DescGrimVisionAura	ÿc8Grim Vision Aura\n\nÿc2Blood Skeleton
 DescImResurgence	Necromancer Minions: 
 DescResurgenceSyn	
 DescResurgenceMinDmg	% to Summoned Minion Damage
-DescResurgenceNextSyn	+10% to Summoned Minion Damage per Base Level
+DescResurgenceNextSyn	+5% to Summoned Minion Damage per Base Level
 DescResurgenceWard	+8% Bonus Defense per Base Level
 DescAttaBoy	% Movement Speed per Base Level
 DescAoE	Area Effect Attack
@@ -7717,7 +7717,7 @@ DescWayOfTheCold	-1% to Enemy Cold Resistance per Base Level
 SkillnameConductivity	ÿc8Conductivity
 SkillsdConductivity	ÿc0upgrade - Stormcall has a chance to cast Askari Lightning on hit
 SkillnameDetermination	Determination
-SkillsdDetermination	ÿc3only allows the use of melee, summoning and buff/debuff skillsÿc0\npassive - sacrifices elemental damage capabilities to increase your defense
+SkillsdDetermination	ÿc3only allows the use of melee, summoning and buff/debuff skillsÿc0\npassive - offense is the best defense
 SkillTenacity1	\nÿc4Physical Damage Specialization
 SkillTenacity2	% of Weapon Physical Damage Bonuses added as Bonus Defense
 SkillnameLethalFocus	Fatal Focus
@@ -7814,7 +7814,7 @@ DescAnimalCompSyn1	More Bear life per Base Level (Increasing returns, Max: +
 DescCascade1	\nÿc1Bonus fire damage reduced by 66% without Steady Aim\nÿc3Consumes Steady Aim
 SkillnamePrimalBond	Primal Bond
 SkillsdPrimalBond	ÿc1requires 25 points in Bear Companion\nÿc0passive - increases weapon physical damage based on summon resists
-SkillPrimalBond1	% Weapon Physical Damage per 1% Summoned Minion Resistances (Max +800%)
+SkillPrimalBond1	% Weapon Physical Damage per 1% Summoned Minion Resistances (Max +600%)
 SkillPrimalBondSyn	+1% Weapon Physical Damage per 
 DescBacchSyn3	% Bonus to Mana Regeneration
 DescFeedItSyn	-1% Enemy Cold Resistance per 2% Life Steal
@@ -8045,3 +8045,6 @@ SkillStampede6	+1 Projectile per 9 Base Levels (Max 3)\n
 DescAlchemyPotDuration	Healing Potions Last 
 DescRunemasterRes	% to Maximum Fire/Cold/Lightning Resistances
 SkillTectonics5	 Strength
+LilithRewardPoison	Lylia's Curse
+LilithRewardLit	Lylia's Curse
+LilithRewardCold	Lylia's Curse

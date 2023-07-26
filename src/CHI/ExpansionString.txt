@@ -4705,7 +4705,7 @@ SkillsdMorePylons	ÿc0法术 - 在目标地点创造一场精神能量的暴风�
 SkillsdMOTW	ÿc0增益 - 祈求旷野的力量强化自身或目标友军
 SkillsdMountainKing	ÿc0被动 - 提高力量、敏捷、体力与精力
 SkillsdMoveOnly	走到目标位置
-SkillsdMummyReturns	ÿc0被动 - 新入教徒的仪式，提高仆从生命与法力恢复
+SkillsdMummyReturns	ÿc0被动 - 新入教徒的仪式，增强你和你的仆从
 SkillsdMythal	ÿc0减益 - 穿透抗性的野魔法力场
 SkillsdNecropolis	ÿc0被动 - 获得黑色艺术的精通
 SkillsdNephalemWpns	ÿc3此技能对你与你的先祖英灵生效\nÿc0被动 - 以上古元素之力强化你的武器
@@ -5923,7 +5923,7 @@ Edge of Nothingness	虚无边界 Edge of Nothingness
 To The Edge of Nothingness	ÿc0难度: ÿc5不可能 (Impossible)\n\nÿc8+ 终结使者 Herald of the End +\n\nÿc0地城任务\nÿc4Edge of Nothingness\n虚无边界
 DescEdyremCount	艾迪伦(数量): 
 |ld	莉莉娅的诅咒 Lylia's Curse
-LilithReward	莉莉娅的诅咒 Lylia's Curse
+LilithRewardFire	莉莉娅的诅咒 Lylia's Curse
 |dc	龙爪 Dragon Claw
 DragonClaw	龙爪 Dragon Claw
 Light_ones	神圣奈非天 Holy Nephalem
@@ -6057,8 +6057,8 @@ DescAbyssSynergy	+1 骑士数量 - 每 6 基础等级
 DescGrimVisionAura	ÿc8狰狞面容光环 Grim Vision Aura\n\nÿc2鲜血骷髅 Blood Skeleton
 DescImResurgence	死灵法师仆从: 
 DescResurgenceSyn	
-DescResurgenceMinDmg	% 召唤仆从伤害
-DescResurgenceNextSyn	+10% 召唤仆从伤害 - 每基础等级
+DescResurgenceMinDmg	% 仆从伤害
+DescResurgenceNextSyn	+5% 仆从伤害 - 每基础等级
 DescResurgenceWard	+8% 防御加成 - 每基础等级
 DescAttaBoy	% 移动速度 - 每基础等级
 DescAoE	溅射攻击 (AoE)
@@ -6352,7 +6352,7 @@ DestructionEdyrem	毁灭之艾迪伦 Edyrem of Destruction
 SkillnameExpMerc	
 Stormpick	暴风砸(风暴铁镐) Stormpick
 DescSolarFlareDur	法力协同加成 - 每基础等级(效果递增)
-Fire Hydra	火焰九头蛇 Fire Hydra
+Fire Hydra	枯牙 Witherfang
 DescWPD	% 武器物理伤害
 ColdBlood	冷血 Cold Blood
 TheDefender	保卫者 The Defender
@@ -7717,7 +7717,7 @@ DescWayOfTheCold	-1% 敌人冰冷抗性 - 每基础等级
 SkillnameConductivity	ÿc8传导性 (Conductivity)
 SkillsdConductivity	ÿc0升级 - 〈风暴呼唤〉在击中时有几率施放〈阿斯卡利闪电〉
 SkillnameDetermination	决心 (Determination)
-SkillsdDetermination	ÿc3仅允许使用近战、召唤与增/减益技能ÿc0\n被动 - 牺牲元素伤害能力以提高你的防御
+SkillsdDetermination	ÿc3仅允许使用近战、召唤与增/减益技能ÿc0\n被动 - 进攻是最好的防守
 SkillTenacity1	\nÿc4物理伤害特化
 SkillTenacity2	% 武器物理伤害加成加为防御加成
 SkillnameLethalFocus	夺命集火 (Fatal Focus)
@@ -7814,7 +7814,7 @@ DescAnimalCompSyn1	更多熊的生命 - 每基础等级(最多
 DescCascade1	ÿc1缺少〈稳定瞄准〉时减少66%额外的火焰伤害\nÿc3消耗〈稳定瞄准〉
 SkillnamePrimalBond	原始纽带 (Primal Bond)
 SkillsdPrimalBond	ÿc1需求25点至〈熊伙伴〉\nÿc0被动 - 根据召唤物抗性加强武器物理伤害
-SkillPrimalBond1	% 武器物理伤害 - 每 1% 召唤物抗性(最大 +800%)
+SkillPrimalBond1	% 武器物理伤害 - 每 1% 召唤物抗性(最大 +600%)
 SkillPrimalBondSyn	+1% 武器物理伤害 - 每 
 DescBacchSyn3	% 法力回复速率
 DescFeedItSyn	-1% 敌人冰冷抗性 - 每 2% 生命偷取
@@ -8045,3 +8045,6 @@ SkillStampede6	+1 投射物 - 每 9 基础等级(最大 3)\n
 DescAlchemyPotDuration	治疗药水效果持续 
 DescRunemasterRes	% 至最大火焰/冰冷/闪电抗性
 SkillTectonics5	 力量
+LilithRewardPoison	莉莉娅的诅咒 Lylia's Curse
+LilithRewardLit	莉莉娅的诅咒 Lylia's Curse
+LilithRewardCold	莉莉娅的诅咒 Lylia's Curse

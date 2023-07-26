@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## ongoing
+- 更新至2.6.3版本内容。
+- 修正
+    - 火焰九头蛇 Fire Hydra 更名枯牙 Witherfang
+    - 爆炸半径遗物的文本
+
 ## 2.6.2_1.2 (2023-07-11 10:41:58)
 - 新名词
     - 冥府 Tartarus

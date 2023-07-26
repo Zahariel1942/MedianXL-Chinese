@@ -7127,7 +7127,7 @@ DescEleStones	ÿc9此配方将创造同一元素的符文\nÿc0与 〈原初符�
 DescOilRenewal	80\n翻新油可以用于随机化\n任意其他品质为超强品质，以便于\n作为符文之语的底材使用。\n\n油 + 非超强物品\n--> 超强物品\n
 DescCatalystDestruction	deprecated
 DescSecretToken	ÿc9但据说从怪物处掉落的十分稀有的纹章能够使用\n适用于此物品的配方虽尚未为人知，\n
-CubeInfusionMark	ÿc9享有双倍来自神秘球体的加成\n尊荣物品是拥有最大镶孔的空白物品\nÿc0与魔法武器/护甲于方块中重塑以创造尊荣物品 (Honorific Item)\n
+CubeInfusionMark	ÿc9享有双倍来自神秘球体的加成\n尊荣物品是拥有最大镶孔的空白物品\nÿc0与魔法或稀有武器/护甲于方块中重塑以创造尊荣物品 (Honorific Item)\n
 PotExpDesc	30 秒内 +100% 经验
 PotOfExpReloadedDesc	60 秒内 +150% 经验
 PotMagDesc	30 秒内 +150% 魔法物品获取率
