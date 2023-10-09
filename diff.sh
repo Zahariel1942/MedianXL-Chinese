@@ -1,12 +1,12 @@
 # /bin/bash
 
 diffFile() {
-echo $1"\n" >> output.txt
-awk '{print $1}' src/ENG/$1.txt > .tmp/eng
-awk '{print $1}' src/CHI/$1.txt > .tmp/chi
-sdiff -l .tmp/eng .tmp/chi | cat -n| grep -v -e '($' >> output.txt
-rm -rf .tmp/eng
-rm -rf .tmp/chi
+echo $1 >> output.txt
+awk '{print $1}' src/ENG/$1.txt > .tmp/eng.txt
+awk '{print $1}' src/CHI/$1.txt > .tmp/chi.txt
+sdiff -l .tmp/eng.txt .tmp/chi.txt | cat -n| grep -v -e '($' >> output.txt
+rm -rf .tmp/eng.txt
+rm -rf .tmp/chi.txt
 echo "------------------------------------------------------" >> output.txt
 }
 
