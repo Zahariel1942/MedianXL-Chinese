@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## ongoing
+- 更新至测试服(2.7.4)内容。
+- 新名词
+    - 末日审判 Armageddon
+    - 纠缠 Entanglement
+    - 严寒领域 Frigid Domain
+    - 荆棘仪式 Rite of Thorns
+    - 躁动仪式 Rite of the Restless
+    - 冰晶武库 Crystalline Arsenal
+    - 卡丘斯的祝福 Blessing of Karcheus
+    - 牺牲热忱 Sacrificial Fervor
+- 修正
+    - 开花 Bloom -> 绽放
+
 ## 2.6.3_1.3 (2023-07-26 13:04:39)
 - 更新至2.6.3版本内容。
 - 修正

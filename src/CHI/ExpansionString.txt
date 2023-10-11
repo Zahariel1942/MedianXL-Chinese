@@ -3013,7 +3013,7 @@ Harpylisk	哈比利斯克 Harpylisk
 kbFiend	地狱鼠 Hell Rat
 HenchmanElite	腐烂召生 Putrid Spawn
 ys_Hobogoblin	Hobgoblin
-HoradricMage	赫拉迪姆法师 Horadric Mage
+HoradricMage	赫拉迪姆火花 Horadric Spark
 HorrorZ	恐惧鹰隼 Horror Hawk
 HorrorArcherZ	Horror Archer
 HorrorSorcererZ	Horror Sorcerer
@@ -4746,7 +4746,7 @@ SkillsdPunish	ÿc0casts a slow moving bolt of doom that kills or cripples a targ
 SkillsdPurgeAttack	ÿc1需要一把镰刀或匕首ÿc0\nÿc0攻击 - 释放一个在目标间撕裂的魔法灾祸
 SkillsdPwnYourself4	ÿc3仅允许使用近战与增/减益技能\nÿc1需要一件元素性近战武器\nÿc0攻击 - 牺牲物理技巧以获取元素力量
 SkillsdPyro6	ÿc0summons a devastating volcanic wave of molten rock and fire
-SkillsdQQSkill	ÿc3仅允许使用近战、召唤与增/减益技能\nÿc1需要一支杖，一支法珠或一把水晶剑ÿc0\n增益 - 提升你的近战作战能力
+SkillsdQQSkill	ÿc1需要一支杖，一支法珠或一把水晶剑ÿc0\n增益 - 提升你的近战作战能力
 SkillsdQuakeState	ÿc1需要一件近战武器\nÿc7(仅在使用此技能后生效: Blood Hatred)\nÿc0melee attack that blasts out a gigantic crushing wave
 SkillsdRapBattle	ÿc1需要一把镰刀或匕首ÿc0\n折跃打击 - 跳至半空中并突然落下以送去毁灭的一击
 SkillsdRathmaRulez	ÿc0加强你的作战力量\n特殊召唤 - 唤醒拉斯玛在庇护之地的化身\nÿc4(近战/弩专精)
@@ -4932,8 +4932,8 @@ DescBombardment	 飞刀总数
 DescFixedHP	 生命
 DescLifeHealK	 杀敌恢复生命
 DescLifeOnHitPwn6	 近战攻击恢复生命
-DescLifeRage26	 近战攻击恢复生命
-DescBaneSynergy	 近战攻击恢复生命 - 每基础等级
+DescLifeRage26	 近战攻击恢复生命(与角色等级关联)
+DescBaneSynergy	 % 最大生命 - 每基础等级
 DescLifeOnHitPwn	 生命 - 打击时
 DescLifePerSecLF	 生命每秒)
 DescHPRestored	 生命恢复
@@ -5121,7 +5121,7 @@ DescUberWarning	ÿc9每个英雄你仅可选择一项终极技能
 DescMegaHeeelp	ÿc9每个英雄你仅可选择一项终极技能\nÿc8终极技能 Ultimate Skill\n
 DescDurScream	+0.24 秒持续时间 - 每基础等级
 DescTriumphOverEvil	+0.6 秒持续时间 - 每基础等级
-DescCRSelf	+1% 几率躲避投射物 - 每基础等级 (最大 35%)\n+10% 额外防御 - 每基础等级\n+10% 打击恢复 - 每基础等级
+DescCRSelf	+1% 几率躲避投射物 - 每基础等级 (最大 35%)\n+25% 额外防御 - 每基础等级\n+25% 打击恢复 - 每基础等级
 DescRSSSSS	+0.6 码 取目标范围 - 每 2 基础等级
 DescICanHazWolf2	伤害加成随基础等级提高
 DescNewCrows	+1 飞刀数量 - 每 
@@ -5174,7 +5174,7 @@ DescMREXSyn	+3% 固有元素伤害 - 每基础等级 (最大 30%)\n+10% 法力�
 DescMinRCMag	+350-700 魔法伤害加成 - 每基础等级
 DescAsterismSyn2	+3 最大伤害 - 每基础等级 (锤子路线)
 NewbiesDontGetIt	+%d%% 〈怨恨〉系技能伤害 - 每基础等级
-DescIncarnationSyn	提高准确率比例(scaling) - 每基础等级\n提高法术伤害比例(scaling) - 每基础等级
+DescIncarnationSyn	提高准确率加成 - 每基础等级\n提高法术伤害加成 - 每基础等级
 DescWitch2Syn	+10 杀敌获取生命 - 每基础等级
 DescMFforReals	+5% 队伍魔法物品获取率 - 每基础等级
 DescDemiurgeSyn	+30 体力与精力 - 每基础等级
@@ -5375,7 +5375,7 @@ DescZombieDur	持续时间: 1 小时
 DescRetaliationSparklez	+1 所有技能\n
 DescBlankSleepDur	躲避投射物几率: 
 Harmful2	持续时间: 5 秒\n受到伤害提高 50%\nÿc8弱点 Vulnerability\n
-DescColosseumStack	持续时间: 5 秒\n敌人移动速度与伤害: -25%\n敌人物理抗性: -10%\n敌人防御: -100%\nÿc8没玩爽吗？
+DescColosseumStack	持续时间: 5 秒\n敌人移动速度与伤害: -25%\n敌人物理抗性: -10%\n敌人防御: -50%\nÿc8没玩爽吗？
 DescPrayerRange	效果半径: 
 DescAcid2Aura	元素法术伤害: 
 DescElemAura	元素法术伤害: 
@@ -5638,7 +5638,7 @@ DescGuardian	使用〈群斧飞舞〉
 DescStoneVel	移动速度: 
 DescWhenActVel	移动速度: 
 DescStonyGaze	移动速度: -30%\n防御: -50%\n物理抗性: -10%\n伤害: -40%\nÿc8硬直 Petrify\n
-DescHauntedEnemy	移动速度: -33%\n伤害与准确率: -33%\nÿc8鬼缠 Haunt\n
+DescHauntedEnemy	毒素抗性: -20%\n移动速度: -33%\n伤害与准确率: -33%\nÿc8鬼缠 Haunt\n
 DescParaBonus	每颗宝石体力加成: 
 DescAbyssPerHit	涡流每秒击中 13 次\n球体并不造成伤害
 DescVulDurRed	弱点持续时间减少 0.4 秒 - 每基础等级
@@ -5923,7 +5923,7 @@ Edge of Nothingness	虚无边界 Edge of Nothingness
 To The Edge of Nothingness	ÿc0难度: ÿc5不可能 (Impossible)\n\nÿc8+ 终结使者 Herald of the End +\n\nÿc0地城任务\nÿc4Edge of Nothingness\n虚无边界
 DescEdyremCount	艾迪伦(数量): 
 |ld	莉莉娅的诅咒 Lylia's Curse
-LilithRewardFire	莉莉娅的诅咒 Lylia's Curse
+LilithRewardLit	莉莉娅的诅咒 Lylia's Curse
 |dc	龙爪 Dragon Claw
 DragonClaw	龙爪 Dragon Claw
 Light_ones	神圣奈非天 Holy Nephalem
@@ -6237,7 +6237,7 @@ DescArtificer2	ÿc8爪格挡 Claw Block
 DescArtificer3	% 格挡攻击与法术 - 当双持两把爪类武器时
 DescArtificer4	(行走或跑步时不生效)
 DescArtificer5	% 格挡几率 - 每基础等级
-DescSanguine4	% 总生命 - 近战攻击时 - 每基础等级
+DescSanguine4	% 加成至近战攻击恢复生命 - 每技能等级
 DescIncineration5	持续时间: 10 秒\n
 DescShockwave5	+4% 闪电抗性穿透 - 每基础等级
 DescWolfAR	 准确率
@@ -6524,7 +6524,7 @@ DOptionalSpawn6	ÿc1摧毁以治疗戴摩斯。提高难度与奖赏。\nÿc8石
 mon_crystalball	附近盟友免疫(Nearby Allies are Immune)
 BlackIce	黑冰 Black Ice
 MageSlayerSyn	+1% 固有元素伤害 - 每基础等级
-DescMageSlayer1	\n武器物理伤害 -150%\n-20% 元素伤害至附近敌人\n
+DescMageSlayer1	武器物理伤害 -150%\n+1% 最大元素抗性\n
 DescBaseBlock	% 基础格挡几率
 DescShadowDancerBlank	\n(依据角色等级决定)
 DescNoctuleSyn	+14% 额外魔法伤害 - 每基础等级
@@ -6663,13 +6663,13 @@ SkillnameFervor	ÿc8热忱 (Fervor)
 DescConclaveSyn	+1 最大仆人数量 - 每 2 基础等级\n+15% 仆从生命 - 每基础等级
 DescSummLife	% 召唤仆从生命
 DescConclave1	最大仆人数量: 
-DescFervor1	% 的伤害加为魔法伤害
-DescFervorSyn	+6% 的伤害加为魔法伤害 - 每基础等级
+DescFervor1	% 的伤害加为火焰伤害
+DescFervorSyn	+6% 的伤害加为火焰伤害 - 每基础等级
 DescSummDmg	% 召唤仆从伤害
-DescFervor2	(魔法伤害加成 +
-SkillnameReverence	ÿc8崇敬 (Reverence)
-SkillsdReverence	ÿc0升级 - 提升〈命运守卫〉与〈正义崇拜〉
-DescReverence1	〈正义崇拜〉持续时间设为 20 秒\n〈命运守卫〉持续时间设为 20 秒
+DescFervor2	(火焰伤害加成 +
+SkillnameReverence	ÿc2崇敬 (Reverence)
+SkillsdReverence	ÿc:禁止释放〈命运守卫〉与〈正义崇拜〉\nÿc0增益 - 〈命运守卫〉与〈正义崇拜〉持续生效
+DescReverence1	ÿc:禁止释放〈命运守卫〉与〈正义崇拜〉
 DescNephalem1	ÿc:\n禁用神圣与不洁技能\n奈非天技能 Nephalem Skill
 DescNephalemX	\nÿc:奈非天技能 Nephalem Skill
 SkillTranscendence	ÿc8超越 (Transcendence)
@@ -6678,7 +6678,7 @@ SkillFrostbite	ÿc8霜侵 (Frostbite)
 SkillsdFrostbite	ÿc7(需要〈无情来临〉)\nÿc0升级 - 〈无情来临〉增加冰冷伤害至〈神圣显现〉
 DescTranscendence1	% 的基础仆人物理伤害加为火焰
 DescTranscendence2	(火焰伤害加成 +
-DescTranscendenceSyn	+10% 的物理伤害加为火焰 - 每基础等级\n火焰法术伤害 Fire Spell Damage
+DescTranscendenceSyn	% 的物理伤害加为火焰伤害 - 每基础等级\n火焰法术伤害
 DescFrostbite1	〈神圣显现〉冰冷伤害乘数: +
 DescFrostbiteSyn	+15% 总冰冷伤害 - 每基础等级
 SkillnameConfluence	ÿc8汇集 (Confluence)
@@ -7050,7 +7050,7 @@ DarkSovereign	Dark Sovereign
 Siegebreaker	Siegebreaker
 DescGrimVisionSyn	+2% 压碎性打击(CB) - 每基础等级\n+10% 物理伤害 - 每基础等级\n半径提高 1.3 码 - 每基础等级
 SkillnameGrowth	生长 (Growth)
-SkillnameBloom	ÿc8开花 (Bloom)
+SkillnameBloom	ÿc8绽放 (Bloom)
 SkillnameBestialPotency	ÿc8野兽之力 (Bestial Potency)
 SkillnamePutrescence	ÿc8Putrescence
 SkillnamePrimalDominance	ÿc8根源支配 (Primal Dominance)
@@ -7063,7 +7063,7 @@ SkillnameBlazingSeed	ÿc8幼崽的祝福 (Progeny's Blessing)
 SkillnameEruptingStrike	ÿc8爆发打击 (Erupting Strike)
 SkillnameHeartofthePackPassive	ÿc8群落之心 (Heart of the Pack)
 SkillnameSpiritualAlignment	灵魂直列 (Spiritual Alignment)
-SkillnameSolidifiedWind	ÿc8收割飓风 (Reaping Gale)
+SkillnameArmageddon	末日审判 (Armageddon)
 SkillsdGrowth	ÿc0被动 - 提高的抗性使收割者更熟练地战斗
 SkillsdBloom	ÿc0提高队伍的效率\n升级 - 收割者获得一道光环，
 SkillsdBestialPotency	ÿc0升级 - 魔法渗入熊人形态，减慢你的猎物
@@ -7078,7 +7078,7 @@ SkillsdBlazingSeed	ÿc0升级 - 〈蛋蛋陷阱〉在孵化时加强你
 SkillsdEruptingStrike	ÿc0升级 - 提高你猎人技能的火焰伤害
 SkillsdHeartofthePackPassive	ÿc0升级 - 与你伙伴的连结以一个强力的队伍增益呈现
 SkillsdSpiritualAlignment	ÿc0被动 - 提高你的火焰与冰冷法术伤害
-SkillsdSolidifiedWind	ÿc0升级 - 基于伤害吸收生命
+SkillsdArmageddon	ÿc0增益 - 召唤从天而降的陨石消灭你的敌人
 Burning Contagion	Burning Contagion
 ArreatTerror	Arreat Terror
 WhiteBear	白熊 White Bear
@@ -7152,7 +7152,7 @@ DescJinnEruption	unused
 Duress	Duress
 DescPrimordial1	(只在你拥有一个相符的伤害来源时生效)
 SkillnameViolence	ÿc8血渴 (Bloodthirst)
-SkillsdViolence	ÿc1需要 30 点投入至其他〈投掷〉系技能\nÿc3技能随战斗姿态改变ÿc0\nÿc0被动 - 你的〈姿态〉使你获得基于生命偷取的加成
+SkillsdViolence	ÿc1需要 30 点投入至其他〈投掷〉系技能\nÿc0被动 - 你的〈姿态〉使你获得基于生命偷取的加成
 DescCDredBy	冷却时间减少 
 SkillnameCitadel	ÿc8要塞 (Citadel)
 SkillsdCitadel	ÿc0升级 - 提高你的最大格挡几率
@@ -7200,8 +7200,8 @@ Enlightenment	教化 Enlightenment
 SkillCitadelSyn	% 最大格挡几率 - 每基础等级
 DescSkillcapUlvl	最大等级提高 - 每 %d 角色等级
 DescColdSD	冰冷法术伤害: 
-DescSpiritualAlFire	+%d%% 火焰法术伤害 - 每 2 基础等级
-DescSpiritualAlCold	+%d%% 冰冷法术伤害 - 每 2 基础等级
+DescSpiritualAlFire	+%d%% 火焰法术伤害 - 每基础等级
+DescSpiritualAlCold	+%d%% 冰冷法术伤害 - 每基础等级
 DescLeechBlvl	+%d%% 生命偷取 - 每基础等级
 DescMaxSyn+	(最大: +
 DescHarvestSyn	+0.25% 恢复的生命 - 每基础等级
@@ -7312,8 +7312,8 @@ DescGameOver	ÿc1被〈流放〉、〈恐惧〉及〈中毒〉的敌人即刻死
 SkillnameFortitude	ÿc8刚毅 (Fortitude)
 SkillsdFortitude	ÿc0升级 - 成为不知疲倦的战士
 DescFortitudeSyn	+25 最大耐力 - 每基础等级
-SkillSuperposition2	+200% 施法速度\nÿc8定身 Entangled\n
-SkillsdSuperposition1	ÿc4闪电支配 - 需要 50 点投入至其他〈闪电〉系技能\nÿc1若你拥有点数于〈法力狂扫〉，你不可学习此技能\nÿc0折跃 - 使你定身的短程连锁传送
+SkillEntanglement2	+%d%% 施法速度
+SkillsdSuperposition1	ÿc0折跃 - 短程传送
 SkillnameEotS	ÿc8暴风之眼 (Eye of the Storm)
 SkillsdEotS	ÿc0升级 - 当施放〈雷电石〉时你受到防护
 DescPLRBlvl	+%d%% 毒素持续时间减少 - 每基础等级
@@ -7323,10 +7323,10 @@ DescExileSyn	提高半径 0.67 码 - 每 2 基础等级
 DescPestiSyn	持续时间提高 +0.8 秒 - 每基础等级
 SkillnameMindspark	ÿc8思维火花 (Mind Spark)
 SkillsdMindSpark	ÿc0升级 - 你的精力储备强化〈雷暴〉
-SkillMindspark1	〈雷暴〉弹数替代技能等级与精力关联\n+2 最大〈雷暴〉弹数
+SkillMindspark1	 最大〈雷暴〉弹数
 SkillMindspark2	+1 弹数 - 每 
 SkillMindspark3	 精力
-SkillMindSparkSyn	 每个弹数更少的精力 - 每基础等级
+SkillMindSparkSyn	 -100 每个弹数所需的精力 - 每基础等级\n+1 最大〈雷暴〉弹数 - 每基础等级
 SkillnameElucidation	ÿc8阐明 (Elucidation)
 SkillsdElucidation	ÿc0升级 - 知识旋风数量随毒素持续时间提高
 SkillElucidation1	+1 知识旋风 - 每 
@@ -7343,10 +7343,10 @@ SkillGaleForceSplain	\n不触发压碎性打击或杀死时事件
 SkillBlight3	\n不造成火焰、冰冷或闪电伤害
 SkillnameStormblast	暴风爆 (Stormblast)
 SkillFlamefrontSyn	+1 火焰弹数量 - 每 10 技能等级 (最大 
-SkillFlamefrontSyn2	 技能等级 (最大 6)
+bolts)	 弹数)
 SkillnameIncineration	ÿc8焚化 (Incineration)
 SkillsdIncineration	ÿc0升级 - 你的法力加强〈烈焰前线〉
-SkillIncineration1	+3 火焰弹数量 - 若大于 80% 法力
+SkillIncineration1	+1 火焰弹数量 - 每 25% 法力
 SkillnamePyre	ÿc8火葬 (Pyre)
 SkillsdPyre	ÿc0升级 - 施放〈炎爆术〉时你获得物理抗性
 SkillPyre1	\n〈炎爆术〉: -10% 总伤害
@@ -7355,7 +7355,7 @@ SkillnameKeenSight	ÿc8敏锐视力 (Keen Sight)
 SkillsdKeenSight	ÿc0并提供弓和弩的暴击几率\n升级 - 提高〈翼龙击〉索敌范围
 DescKeenSightRange	〈翼龙击〉索敌范围: 
 DescKeenSightSyn	+2% 暴击几率 - 每基础等级\n索敌范围提高 0.65 码 - 每基础等级
-SkillPyre2	1% 物理抗性 - 每 
+SkillPyre2	1% 物理抗性 - 每 200 精力
 SkillHavocSyn	冷却时间减少 1 秒 - 每 
 SkillSwarm1	Witch Blood: double damage scaling
 SkillIceEle6	% 仆从生命与伤害 - 每基础等级
@@ -7366,7 +7366,7 @@ MasteryTenacity1	% 物理抗性
 SkillnameShieldmaiden	铁盾娘子 (Shieldmaiden)
 SkillsdShieldmaiden	ÿc1需要一面亚马逊专用盾牌\nÿc0被动 - 提高格挡并在格挡后赋予短时间加成
 DescShieldmaidenSyn	% 格挡速度 - 每基础等级
-SkillMoonstrikeSYn	% 最大生命 - 每技能等级 (最大 20%)
+SkillMoonstrikeSYn	% 加成至近战攻击恢复生命 - 每技能等级
 SkillBladestormSyn	% 加成魔法伤害 - 每基础等级
 MasteryTenacityUnlock	\n\nÿc9在地穴击败炼狱机械\nÿc8可解锁技能 Unlockable Skill\nÿc1
 MasteryEnduranceUnlock	\n\nÿc9在鲜血之厅击败巴图克\nÿc8可解锁技能 Unlockable Skill\nÿc1
@@ -7404,9 +7404,9 @@ SkillsdIndomitable	ÿc0被动 - 提高你的格挡力
 SkillIndomitable1	你的最大格挡率不会被降低至 50% 以下
 DescCelestialRage	ÿc5〈纵射〉: +2 飞弹与 +1 秒冷却时间\nÿc8 在至少拥有 10 基础等级时施放此技能将增加:\nÿc0转换 100% 物理伤害为火焰\n100% 武器伤害
 SkillCrystallineBarrierSyn	冻结持续时间随冰冷法术伤害提高
-SkillSuperposition3	持续时间: 5 秒\n不造成火焰、冰冷或毒素伤害
-SkillSuperposition4	% 药水效能
-SkillSuperpositionSyn	% 药水效能 - 每基础等级
+SkillEntanglement3	移动速度: +%d%%
+SkillEntanglement4	法力恢复: -%d%%
+SkillSuperpositionSyn	冷却时间减少 1 秒 - 每 %d 最大精力
 SkillCrystalline0	% 火焰、闪电与毒素法术伤害
 DescAlchPrepSyn	+1 投射物至〈烈焰冲击〉和〈抛射〉 - 每基础等级
 DescDirgeBoniKill	% 致死一击时几率施放增强的法术
@@ -7501,7 +7501,7 @@ DescMindRip	半径提高 - 每 3 基础等级
 ktyx	ÿc0方块重塑材料\nÿc4上级时空行者精华 Greater Riftwalker Essence
 ktxx	ÿc0方块重塑材料\nÿc4高次时空行者精华 Ascendant Riftwalker Essence
 Mithridatism	Mithridatism
-SkillViolence1	100% 的生命偷取加至毒素穿透\n
+SkillViolence1	蛇姿态：100% 的生命偷取加成加至毒素穿透\n
 GreaterRiftwalker	上级时空行者 Greater Riftwalker
 AscendantRiftwalker	高次时空行者 Ascendant Riftwalker
 FrozenShambler	冻结蹒跚者 Frozen Shambler
@@ -7511,8 +7511,8 @@ SkillnameStormcallX	〈风暴呼唤〉: +
 DescHozSynTwo	% 闪电伤害加成 - 每基础等级
 TrapRatZ	陷阱鼠 Trap Rat
 Tentacler	三神教审判官 Inquisitor of the Triune
-SuperbeastFireCold	+1.25% 火焰与冰冷法术伤害 - 每基础等级于主动〈祭师〉技能
-SuperbeastLightPM	+1.25% 闪电与物理/魔法法术伤害 - 每基础等级于主动〈术士〉技能
+SuperbeastFireCold	+1.25% 火焰与冰冷法术伤害 - 每基础等级于主动〈祭师〉技能和〈超级野兽〉
+SuperbeastLightPM	+1.25% 闪电与物理/魔法法术伤害 - 每基础等级于主动〈术士〉技能和〈超级野兽〉
 DescLtngDmgBlvl	% 闪电伤害 - 每基础等级
 DescConvLtng	转换 %d%% 物理伤害为闪电
 DescLtngConvertJav	 加成闪电伤害至攻击
@@ -7595,7 +7595,7 @@ BoneChimes	骨风铃 Bone Chimes
 DescSolaceLaek	 杀敌获取生命 (同样治疗你)
 DescSolaceLaekBlvl	 杀敌获取生命 - 每基础等级
 Manoruk	马诺鲁克 Manoruk
-DescFlameburstSelfSyn	30% 火焰伤害加成 - 每基础等级
+DescFlameburstSelfSyn	增加 25% 火焰伤害 - 每基础等级
 LegionMummy	中空残躯 Hollow Remnant
 LegionArcher	骇人射手 Dread Marksman
 LegionMage	亡灵魔导师 Undead Magister
@@ -7728,7 +7728,7 @@ SkillGalvanism1	铁螺旋: 角色等级超过 90 时，每 3 等级提高(技能
 SkillIronSpiralSyn	伤害加成以指数级提高 - 每基础等级
 SkillnameAncestralEndurance	ÿc8先祖的坚韧 (Ancestral Endurance)
 SkillsdAncestralEndurance	ÿc1需要 20 点投入至〈萨满〉系技能\nÿc0升级 - 使用〈魂灵撕裂〉后提高你的减伤
-SkillAncestralEndurance1	获得〈近战专精〉且无需禁用召唤技能
+SkillAncestralEndurance1	UNUSED
 SkillnameTectonics	ÿc8构造学 (Tectonics)
 SkillsdTectonics	ÿc0升级 - 你的〈地震〉有几率触发一次〈石头澡〉
 SkillTectonicsSyn	% 需求的武器物理伤害加成 - 每基础等级\n-100 力量需求 - 每基础等级
@@ -7905,12 +7905,12 @@ SkillColdBlooded2	造成你的 140% 的武器冰冷伤害\n转换你的火焰和
 wm02	反曲刀 (大师级)
 Maenad	酒神信徒 Maenad
 AthuluasBlessing	阿图卢阿的祝福
-UberButchersTooth	屠夫的牙齿 (Uber)
-b60	ÿc;屠夫的牙齿 (Uber)
+UberButchersTooth	屠夫的牙齿 (英雄级)
+b60	ÿc;屠夫的牙齿 (英雄级)
 virx	ÿc;胜利印记 (Mark of Victory)
-vrx1	ÿc4崔斯特姆地下的恐惧 (Uber)
+vrx1	ÿc4崔斯特姆地下的恐惧 (英雄级)
 ssx1	ÿc5任务物品\nÿc4召唤卷轴
-To The Uber Butcher	ÿc0难度: ÿc;非常困难\n\nÿc8+ 崔斯特姆地下的恐惧 (Uber) +\n\nÿc0地城任务\nÿc4屠夫的巢穴
+To The Uber Butcher	ÿc0难度: ÿc;非常困难\n\nÿc8+ 崔斯特姆地下的恐惧 (英雄级) +\n\nÿc0地城任务\nÿc4屠夫的巢穴
 uButcherRand	屠夫 (火焰冲击)
 SkillStampedeX	+2% 〈蛇姿态〉 伤害加成 - 每基础等级\n
 SkillStampedeXX	蛇形态在使用〈涌动〉之后短时间内增加伤害。\n
@@ -7979,11 +7979,11 @@ statExplanation mf	不影响像符文这样不具有品质属性的物品\n增�
 statExplanation slowt	当造成武器伤害时，减少目标的移动和攻击速度。对Boss有 25% 的上限
 statExplanation slowatt	当敌人攻击或者使用投射物攻击你时造成减速
 DPUberInfo	需要三名官员在附近才能进入维护模式
-vrx2	ÿc4死亡发射器 (Uber)
-b61	ÿc;激光对焦水晶 (Uber)
-To The Uber Projector	ÿc0难度: ÿc;非常困难\n\nÿc8+ 死亡发射器 (Uber) +\n\nÿc0地城任务\nÿc4试验场
+vrx2	ÿc4死亡发射器 (英雄级)
+b61	ÿc;激光对焦水晶 (英雄级)
+To The Uber Projector	ÿc0难度: ÿc;非常困难\n\nÿc8+ 死亡发射器 (英雄级) +\n\nÿc0地城任务\nÿc4试验场
 SkillnameDeathlyEffigy	致命雕塑 (Deathly Effigy)
-skillsdEffigy	ÿc1需要一把弩\nÿc0投射物 - 召唤一个恐怖的雕像，它发射环形子弹并撕碎附近的尸体
+skillsdEffigy	ÿc1需要一把弩\nÿc0陷阱 - 召唤一个恐怖的雕像，它发射环形子弹并撕碎附近的尸体
 DescEffigyInherit	继承你的物理伤害、准确率、力量和致命一击(DS)
 DescEffigySkills	附近有尸体可用时释放尖刺迸发 (Bolt Rush)\n释放尖刺新星 (Bolt Nova)
 DescnameBrutalAura	ÿc8残忍光环 (Brutal Aura)\n\nÿc2致命雕塑〈Deathly Effigy〉
@@ -7991,22 +7991,22 @@ DescVoodooStrengthBonus	% 的总力量加为额外魔法伤害
 DescEffigySynBonus	1 额外的射击 - 每基础等级
 SkillnameVoodooPractice	巫术实践 (Voodoo Practice)
 SkillsdVoodooPractice	被动 - 你对黑暗艺术的专注实践赋予了你力量。
-DescVoodooSynBonus	+1% 力量 - 每基础等级
-DescVoodooARBonus	获得 3 准确率 - 每 4 点基础力量\n2% 几率命中时生成一具尸体
-DescVoodooStrBonus	% 至力量
+DescVoodooSynBonus	每 4 点基础力量 +1 准确率 - 每 10 基础等级
+DescVoodooARBonus	 准确率 - 每 4 点基础力量\n2% 几率命中时生成一具尸体
+DescVoodooStrBonus	% 至力量 (UNUSED)
 DescLifeFromDeathSynBonus	ÿc/打击时恢复 1 生命 - 每 10 基础等级\nÿc2炼金之路 (Alchemist Path)\n\nÿc/1% 物理抗性 - 每 2 基础等级\nÿc2巫毒之路 (Voodoo Path)
 DescVoodooPath	% 至物理抗性\nÿc2巫毒之路 (Voodoo Path)ÿc5
 DescAlchemistPath	 % 增加治疗药水效果\n治疗药水持续 15 秒\nÿc2炼金之路 (Alchemist Path)ÿc5
 SkillnameLifeFromDeath	亡者滋养 (Life From Death)
-SkillsdLifeFromDeath	需要<巫术实践>或<衰弱合剂>\n被动 - 探索生与死的奥秘会增强你的耐力
+SkillsdLifeFromDeath	需要〈巫术实践〉或〈衰弱合剂〉\n被动 - 探索生与死的奥秘会增强你的耐力
 Deaths Reach	死亡抵近 (Death's Reach)
 HollowSentinel	Hollow Sentinel
 IM_CarpetInfo	复生者. 对火焰虚弱
 IM_HollowInfo	固定的. 对附近的移动目标发动攻击
 DescTantrumBursts	冲击: 
 DescTantrumScaling	发射 1 额外冲击 - 每 5 等级
-SkillViolence2	100% 的生命偷取加至闪电穿透\n
-SkillViolence3	33% 的生命偷取加至暴击几率\n
+SkillViolence2	鹰姿态：100% 的生命偷取加至闪电穿透\n
+SkillViolence3	狼姿态：33% 的生命偷取加至暴击几率\n
 SkillnameMightyVigor	强韧 (Mighty Vigor)
 SkillsdMightyVigor	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 你的力量增强你的生命偷取
 SkillMightyVigor1	+1% 生命偷取每 
@@ -8019,12 +8019,12 @@ SkillsdUnyielding	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 被�
 SkillUnyielding1	% 物理抗性 在受到武器伤害后
 SkillSnakeStance1	% 毒素伤害 - 高于 120 的每 1 角色等级
 SkillnameAptitude	适应 (Aptitude)
-SkillsdAptitude	ÿc3技能随战斗姿态改变\nÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 随着经验增长，你的战斗姿态变得更加有效。
-SkillAptitude1	+2% 〈蛇姿态〉伤害加成至〈涌动〉 - 高于 120 的每 1 角色等级
-SkillAptitude2	+1.5% 固有元素伤害至 〈鹰姿态〉 - 高于 120 的每 1 角色等级
-SkillAptitude3	+10% 武器物理伤害至 〈狼姿态〉 - 高于 120 的每 1 角色等级
-SkillAptitude4	随等级提高的加成效果上限至等级 
-SkillAptitudeSyn	 至角色等级效果加成上限 - 每基础等级
+SkillsdAptitude	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 随着经验增长，你的战斗姿态变得更加有效。
+SkillAptitude1	〈蛇姿态〉 +%d%% 伤害加成至〈涌动〉
+SkillAptitude2	〈鹰姿态〉 +%d%% 固有元素伤害
+SkillAptitude3	〈狼姿态〉 +%d%% 武器物理伤害
+DependsOnStance	ÿc3技能效果随战斗姿态改变
+SkillAptitudeSyn	+1 至最大基础等级 - 每 5 角色等级\n技能效果随基础等级增长
 SkillVoidGazerStormSyn	弱点: +1 额外目标
 SkillnameWarder	守卫 (Warder)
 SkillsdWarder	ÿc1需要野蛮人职业盾牌\nÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 在格挡之后短暂时间内保护你免受伤害
@@ -8045,6 +8045,41 @@ SkillStampede6	+1 投射物 - 每 9 基础等级(最大 3)\n
 DescAlchemyPotDuration	治疗药水效果持续 
 DescRunemasterRes	% 至最大火焰/冰冷/闪电抗性
 SkillTectonics5	 力量
-LilithRewardPoison	莉莉娅的诅咒 Lylia's Curse
-LilithRewardLit	莉莉娅的诅咒 Lylia's Curse
-LilithRewardCold	莉莉娅的诅咒 Lylia's Curse
+DescManaShield2	 每抵挡 1 点伤害
+SkillnameEntanglement	ÿc8纠缠 (Entanglement)
+SkillsdEntanglement1	ÿc4闪电支配 - 需要 50 点投入至其他〈闪电〉系技能\nÿc1若你拥有点数于〈法力狂扫〉，你不可学习此技能\nÿc0升级 - 〈叠覆〉使你进入纠缠态
+SkillEntanglementSyn	+1% 法力恢复\n+0.5% 移动速度\n+1% 释法速度\n+0.1% 几率躲避伤害\n每 1 点投入到〈闪电〉系技能:
+vrx3	ÿc4炼狱机械 (英雄级)
+b62	ÿc;光学检测器 (英雄级)
+HoradrimValor	塔·拉夏的英勇 Tal Rasha's Valor
+HoradrimWisdom	塔·拉夏的智慧 Tal Rasha's Wisdom
+HoradrimTenacity	塔·拉夏的坚韧 Tal Rasha's Tenacity
+HoradrimVengeance	塔·拉夏的复仇 Tal Rasha's Vengeance
+BB_Desc	塔·拉夏的灵魂在附近时无敌 Tal Rasha's soul is invulnerable when nearby
+HoradrimScorn	塔·拉夏的蔑视 Tal Rasha's Scorn
+TalRasha3Desc	毒药报复 Poison Retaliation
+TalRasha2Desc	召唤赫拉迪姆火花 Summons Horadric Sparks
+TalRasha4Desc	召唤赫拉迪姆蔑视 Summons Scorn
+SkillTranscendence1	% 物理抗性至天罚之锤(Scourges)
+SkillnameRiteThorns	ÿc8荆棘仪式 (Rite of Thorns)
+SkillsdRiteThorns	ÿc4若你拥有〈躁动仪式〉，你不可学习此技能\nÿc0升级 - 增加〈血棘〉伤害但减少其攻击范围
+SkillnameRiteRestless	ÿc8躁动仪式 (Rite of the Restless)
+SkillsdRiteRestless	ÿc4若你拥有〈荆棘仪式〉，你不可学习此技能\nÿc0升级 - 增加〈夜游魂〉伤害但减少其攻击范围
+SkillRitesDesc	增加每次攻击击打数\n伤害范围减少 75%
+SkillRitesDesc2	% 伤害加成
+SkillNameFrigidDomain	严寒领域 (Frigid Domain)
+SkillsdFrigidDomain	ÿc0增益 - 召唤一个减速周围敌人的冰冻立场
+DescArmaFrequency	每 0.24 秒召唤一个陨石
+DescFrigidFrequency	每秒释放一个脉冲(Pulse)
+FrigidLevelSyn	增加减速效果 - 每基础等级 (最大 30%)
+DescFrigidSlow	减速周围敌人 
+DescFrigidSlow2	% (效果随冰冷法术伤害增长)
+strengSyn	力量和精力
+DescReverenceSyn	英勇\n命运守卫\n正义崇拜
+SkillPossession1	% 至精准率
+SkillEntanglement5	躲避: +%d%%\nÿc8在使用〈叠覆〉后\n\n〈叠覆〉 冷却时间减少 2 秒 (最低 0)
+SkillnameCrystallineArsenal	冰晶武库 (Crystalline Arsenal)
+SkillsdCrystallineArsenal	ÿc1需要一把矛、标枪或弓\nÿc0投射物 - 在你的攻击中注入冰冷的水晶，使它们适应你当前的武器
+CrystallineArsenalJavDesc	ÿc5造成 200% 武器伤害，每个分裂物造成一半的伤害\n发射一个巨大的冰枪，分裂成更小的冰刺，然后再次分裂\n当持有标枪时:
+CrystallineArsenalGenDesc	投射物根据持有的武器变化\n转换 50% 伤害至冰冷
+DescWitchBlood2	(在 40-79% 生命时仅有一半效果)

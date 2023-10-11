@@ -7030,7 +7030,7 @@ voDX	方块重塑材料\nÿc8强化水晶 Enchanting Crystal
 hnrx	方块重塑材料\nÿc8注入标记 Mark of Infusion
 mec	方块重塑材料\nÿc8冥想蜡烛 Meditation Candle
 0++	ÿc8神秘球体 Mystic Orb
-8o@	方块重塑材料\nÿc8炼金油 Oil of Lesser Alchemy
+DescOilGAlchemy	90\n强效炼金油\n允许你锻造项链:\n\n油 + 套装项链\n--> 锻造的项链\n拥有 +1 至所有技能\n\n随机获得一个词缀:\n------------------------------\n20% 移动速度\n+200 每秒恢复生命\n+15% 固有元素伤害\n+10% 体力\n+10% 精力\n-10% 敌人元素抗性\n+10% 物理抗性\n+50% 武器物理伤害\n毒素持续时间减少 +40%\n诅咒持续时间减少 +40%\n
 7o@	方块重塑材料\nÿc8锻造油 Oil of Craft
 2o@	方块重塑材料\nÿc8分离油 Oil of Disjunction
 1o@	方块重塑材料\nÿc8复制油 Oil of Duplication
@@ -8968,7 +8968,7 @@ DescBlack5	ÿc8悔恨试炼已完成!
 DescBlack1	ÿc8恐惧试炼已完成!
 DescBlack2	ÿc8贪婪试炼已完成!
 DescBlack3	ÿc8知识试炼已完成!
-ModItemAdjudicator	ÿc8奈非天: +25% 来自被动技能的总〈化身〉伤害加成\n不洁: 〈血棘〉造成 40% 更多的总伤害\n神圣: 〈圣火〉造成相当于 4.5% 的力量的更多的总伤害 (最大 250%)ÿc3
+ModItemAdjudicator	ÿc8奈非天: +25% 来自被动技能的总〈化身〉伤害加成\n不洁: 〈血棘〉+40% 伤害加成\n神圣: 〈圣火〉造成相当于 4.5% 的力量的更多的总伤害 (最大 250%)ÿc3
 DescWhatsUpBro	ÿc8干得漂亮!ÿc1
 ModitemJollyRoger	有镶孔 (1)\n等级 20 扭曲力场 (Warp Field) 光环
 x	-
@@ -9180,7 +9180,7 @@ SkillsdPacman	ÿc0+ + + 变身为吃豆人! + + +
 WarmongerX	好战者 Warmonger
 AthuluasWrath	阿图卢阿之怒 Athulua's Wrath
 NatalyasDeception	娜塔亚的欺瞒 Natalya's Deception
-DescOilConjuration	70\n作为撞大运配方的替代，咒术油有一定几率\n为施法者武器添加额外加成。\n\n不可作用于普通/超强物品\n\n油 + 武器\n--> 2/5 几率添加加成的物品\n(限制: 1)\n\n武器: +10% 法术伤害\n
+DescOilConjuration	70\n作为撞大运配方的替代，咒术油有一定几率\n为施法者武器添加额外加成。\n\n油 + 武器\n--> 2/5 几率添加加成的物品\n(限制: 1)\n\n武器: +10% 法术伤害\n
 OoCj	方块重塑材料\nÿc8咒术油 Oil of Conjuration
 DescArcaneShard	63\n你可以使用奥术簇群储存\n多个奥术水晶。\n\n奥术簇群 + 水晶 (最大: 5)\n--> 奥术簇群 (+)\n\n奥术簇群\n--> 奥术簇群 (-) + 水晶\n
 ArSh	ÿc8奥术簇群 Arcane Cluster
@@ -9304,7 +9304,7 @@ SaberofTheStormsail2	暴雨之剑 Saber of the Stormsail
 Gromotvod	（暂译）格罗莫特沃 Gromotvod
 Blacktongue	黑舌 Blacktongue
 StormShard	风暴碎片 Storm Shard
-DescFullMagicx	转换 70% 物理伤害为魔法
+DescFullMagicx	圣骑士: 〈祝圣〉增加 200-300 魔法伤害 - 每基础等级\n转换 70% 物理伤害为魔法
 dr01	任务物品\nÿc4枯竭的秘境石 Depleted Riftstone (ÿc21ÿc4)
 dr02	任务物品\nÿc4枯竭的秘境石 Depleted Riftstone (ÿc22ÿc4)
 dr03	任务物品\nÿc4枯竭的秘境石 Depleted Riftstone (ÿc23ÿc4)
@@ -9355,7 +9355,7 @@ ir81	ÿc8秘术塑像 Occult Effigy\n天界之风 Celestial Wind
 ir9X	任务物品\nÿc4完整的星象图 Completed Star Chart
 ir81x	ÿc3+10 需求等级\n设置移动速度为 40%\nÿc0与 鞋子 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 ir82	ÿc8秘术塑像 Occult Effigy\n赦免徽记 Sigil of Absolution
-ir82x	ÿc3(同一件物品最多使用 2 次)\n需求 +25%\n-5 需求等级\nÿc0与 任意的武器/护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
+ir82x	ÿc3不能用于符文之语\n(同一件物品最多使用 2 次)\n需求 +25%\n-5 需求等级\nÿc0与 任意的武器/护甲 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 ir83	ÿc8秘术塑像 Occult Effigy\n野蛮之路 Path of Brutality
 ir83x	ÿc3+10 需求等级\n物品变为“（只限你的职业）”\n变换每个 +1 所有技能 为 +3% 致命攻击 (DS)\nÿc0与 任意的戒指/护符 于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
 ir84	ÿc8秘术塑像 Occult Effigy\n碧空之触 Empyrean Touch
@@ -9962,3 +9962,8 @@ ModMaxAvoid	最大躲避几率
 AnotherCurrentBonus	当前加成:
 DescOilLAlchemy	90\n炼金油可用于锻造项链。\n\n油 + 套装项链\n--> 锻造的项链\n额外 +1 所有技能\n\n增加一个随机前缀:\n------------------------------\n10% 移动速度\n+100 每秒生命回复\n+7% 固有元素伤害\n+5% 体力\n+5% 精力\n-5% 敌人元素抗性\n+5% 物理抗性\n+25% 武器物理伤害\n毒素持续时间减少  20%\n诅咒持续时间减少  20%\n
 Shockandawe	震撼和敬畏 Shock and Awe
+Alchemy2	方块重塑材料\nÿc8强效炼金油
+Alchemy1	方块重塑材料\nÿc8炼金油
+ArchonBulwark	执政官的堡垒 Bulwark of the Archon
+Scirocco	热风 Scirocco
+Cerberus	刻耳柏洛斯 Cerberus

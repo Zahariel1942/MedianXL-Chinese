@@ -7030,7 +7030,7 @@ voDX	Cube Reagent\nÿc8Enchanting Crystal
 hnrx	Cube Reagent\nÿc8Mark of Infusion
 mec	Cube Reagent\nÿc8Meditation Candle
 0++	ÿc8Mystic Orb
-8o@	Cube Reagent\nÿc8Oil of Lesser Alchemy
+DescOilGAlchemy	90\nThe Oil of Greater Alchemy\nallows you to craft amulets:\n\nOil + Set Amulet\n--> Crafted Amulet\nwith +1 to All Skills\n\nAdd one affix at random:\n------------------------------\n20% Movement Speed\n+200 Life regenerated per Second\n+15% Innate Elemental Damage\n+10% Vitality\n+10% Energy\n-10% Enemy Elemental Resistances\n+10% Physical Resist\n+50% Weapon Physical Damage\nPoison Length Reduced by 40%\nCurse Length Reduced by 40%\n
 7o@	Cube Reagent\nÿc8Oil of Craft
 2o@	Cube Reagent\nÿc8Oil of Disjunction
 1o@	Cube Reagent\nÿc8Oil of Duplication
@@ -8968,7 +8968,7 @@ DescBlack5	ÿc8Trial of Contrition completed!
 DescBlack1	ÿc8Trial of Fear completed!
 DescBlack2	ÿc8Trial of Greed completed!
 DescBlack3	ÿc8Trial of Knowledge completed!
-ModItemAdjudicator	ÿc8Nephalem: +25% Total Vessel Damage Bonus from Passives\nUnholy: Blood Thorns Deal 40% More Total Damage\nHoly: Holy Fire Deals 4.5% of  Strength as More Total Damage (max 250%)ÿc3
+ModItemAdjudicator	ÿc8Nephalem: +25% Total Vessel Damage Bonus from Passives\nUnholy: Blood Thorns: +40% Damage Multiplier\nHoly: Holy Fire Deals 4.5% of  Strength as More Total Damage (max 250%)ÿc3
 DescWhatsUpBro	ÿc8Well Done!ÿc1
 ModitemJollyRoger	Socketed (1)\nLevel 20 Warp Field Aura
 x	-
@@ -9180,7 +9180,7 @@ SkillsdPacman	ÿc0+ + + transform into the Pac-Man! + + +
 WarmongerX	Warmonger
 AthuluasWrath	Athulua's Wrath
 NatalyasDeception	Natalya's Deception
-DescOilConjuration	70\nThe Oil of Conjuration has a chance to \nadd an extra bonus to caster weapons, \ninstead of using the lucky recipe.\n\nDoes not work on normal/superior items.\n\nOil + Weapon\n--> Item with 2/5 Chance of Added Bonus\n(Limit: 1)\n\nWeapons: +10% Spell Damage\n
+DescOilConjuration	70\nThe Oil of Conjuration has a chance to \nadd an extra bonus to caster weapons, \ninstead of using the lucky recipe.\n\nOil + Weapon\n--> Item with 2/5 Chance of Added Bonus\n(Limit: 1)\n\nWeapons: +10% Spell Damage\n
 OoCj	Cube Reagent\nÿc8Oil of Conjuration
 DescArcaneShard	63\nYou can use the Arcane Cluster to store\nmultiple Arcane Crystals.\n\nArcane Cluster + Crystals (max: 5)\n--> Arcane Cluster (+)\n\nArcane Cluster\n--> Arcane Cluster (-) + Crystal\n
 ArSh	ÿc8Arcane Cluster
@@ -9304,7 +9304,7 @@ SaberofTheStormsail2	Saber of the Stormsail
 Gromotvod	Gromotvod
 Blacktongue	Blacktongue
 StormShard	Storm Shard
-DescFullMagicx	Converts 70% Physical Damage to Magic
+DescFullMagicx	Paladin: Adds 200-300 Magic Damage per Base Level of Consecration\nConverts 70% Physical Damage to Magic
 dr01	Quest Item\nÿc4Depleted Riftstone (ÿc21ÿc4)
 dr02	Quest Item\nÿc4Depleted Riftstone (ÿc22ÿc4)
 dr03	Quest Item\nÿc4Depleted Riftstone (ÿc23ÿc4)
@@ -9355,7 +9355,7 @@ ir81	ÿc8Occult Effigy\nCelestial Wind
 ir9X	Quest Item\nÿc4Completed Star Chart
 ir81x	ÿc3+10 Required Level\nSet Movement Speed to 40%\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
 ir82	ÿc8Occult Effigy\nSigil of Absolution
-ir82x	ÿc3(Max 2 Uses per Item)\nRequirements +25%\n-5 Required Level\nÿc0Cube with Any Weapon/Armor to Add Bonus\n\nCube Reagent
+ir82x	ÿc3Cannot be Used with Runewords\n(Max 2 Uses per Item)\nRequirements +25%\n-5 Required Level\nÿc0Cube with Any Weapon/Armor to Add Bonus\n\nCube Reagent
 ir83	ÿc8Occult Effigy\nPath of Brutality
 ir83x	ÿc3+10 Required Level\nItem Becomes (Your Class Only)\nTransforms every +1 to All Skills to +3% Deadly Strike\nÿc0Cube with Unique Ring/Amulet to Add Bonus\n\nCube Reagent
 ir84	ÿc8Occult Effigy\nEmpyrean Touch
@@ -9962,3 +9962,8 @@ ModMaxAvoid	Maximum Avoid Chance
 AnotherCurrentBonus	Current Bonus:
 DescOilLAlchemy	90\nThe Oil of Lesser Alchemy\nallows you to craft amulets:\n\nOil + Set Amulet\n--> Crafted Amulet\nwith +1 to All Skills\n\nAdd one affix at random:\n------------------------------\n10% Movement Speed\n+100 Life regenerated per Second\n+7% Innate Elemental Damage\n+5% Vitality\n+5% Energy\n-5% Enemy Elemental Resistances\n+5% Physical Resist\n+25% Weapon Physical Damage\nPoison Length Reduced by 20%\nCurse Length Reduced by 20%\n
 Shockandawe	Shock and Awe
+Alchemy2	Cube Reagent\nÿc8Oil of Greater Alchemy
+Alchemy1	Cube Reagent\nÿc8Oil of Lesser Alchemy
+ArchonBulwark	Bulwark of the Archon
+Scirocco	Scirocco
+Cerberus	Cerberus
