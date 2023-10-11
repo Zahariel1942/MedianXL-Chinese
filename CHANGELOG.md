@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## ongoing
+## 2.7.0_rc2 (2023-10-11 16:17:36)
 - 更新至测试服(2.7.5)内容。
 - 新名词
     - 塑风者的礼物 Stormshaper's Gift
