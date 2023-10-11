@@ -3989,7 +3989,7 @@ SkillnameCallHenchmen	呼唤跟班 ( Call Henchman )
 SkillnameCallMalthael	呼唤马萨伊尔 ( Call Malthael )
 SkillnameCallNecrobot	呼唤死灵机器人 ( Call Necrobot )
 SkillnameCascade	群射 (Cascade)
-SkillnameCataclysm	鬼火 'Ignis Fatuus'
+SkillnameWillOWisp	鬼火 (Ignis Fatuus)
 SkillnameCautious	谨慎之击 ( Cautious Strike )
 SkillnameCelerity	迅捷 ( Celerity )
 SkillnameCharm	魅惑 ( Charm )
@@ -4459,7 +4459,7 @@ SkillsdAwww2	ÿc1需要一把矛ÿc0\nattack that sears the target and nearby en
 SkillsdBacchusRides	ÿc8你的技能消耗生命而非法力。\n\nÿc0被动 - 牺牲生命力以获得毁灭性的力量
 SkillsdBackblast	ÿc1需要一把薙刀或一把戟\nÿc0攻击 - 创造一圈打退敌人的刀刃
 SkillsdBackstab	ÿc1需要一个目标\nÿc1需要一把薙刀或一把戟\nÿc0攻击 - 强化攻击敌人的弱点
-SkillsdBalance	ÿc0被动 - 增加基本加成(flat bonus)到你的防御率
+SkillsdBalance	ÿc0被动 - 增加你的防御
 SkillsdBalefireA	ÿc0法术 - 汲取你的生命力量来发动绿色地狱火的爆裂
 SkillsdBanish	ÿc0诅咒 - renders target vulnerable to magic and elemental damage
 SkillsdBarrage	ÿc1需要一把弓或弩ÿc0\n投射物 - 在你周围所有方向发射箭矢风暴
@@ -4513,7 +4513,7 @@ SkillsdDebilitatingConcoction	ÿc1需要一把弩ÿc0\n投射物 - 抛掷一种�
 SkillsdBurnInHellz	ÿc1需要一个近战目标\n需要一件近战武器ÿc0\n以天堂烈焰燃烧对象并引燃其他人的近战攻击
 SkillsdBzzzzzzzzzzzzz	ÿc0增益 - 靠近敌人时周期性放出致命的虫群
 SkillsdCascade	ÿc1需要一把弓或弩ÿc0\n投射物 - 向一大片区域射出箭雨
-SkillsdCataclysm	ÿc0增益 - 将火焰力量注入你的法术与武器
+SkillsdWillOWisp	ÿc0增益 - 将火焰力量注入你的法术与武器
 SkillsdCautious	ÿc1需要两把近战武器ÿc0\n攻击 - 暂时性降低受到的伤害
 SkillsdCharm	ÿc0converts a small area of monsters, forcing them to fight for you
 SkillsdCheese	ÿc0升级 - 你的捕食本能强化你的致命性
@@ -5019,7 +5019,7 @@ DescLaserbladeStat	% 的基础敏捷
 DescNephalemStr	% 的基础力量
 DescPctStrOrDex	% 的基础力量与敏捷
 DescNephalemVit	% 的基础体力
-DescArcanePhysComponent	% 当前法力
+DescArcaneTorrent1	根据你的当前法力值造成反馈伤害\n根据你的最大法力值造成魔法伤害
 DescManaSweepLost	% 失去的法力
 DescDealWithIt	% 法力恢复为生命
 DescArcaneTorrent	% 最大法力
@@ -5444,7 +5444,7 @@ DescAncHandFlat	击中多次\n转换 100% 物理伤害为火焰伤害
 DescHoplitesNr	重装步兵(数量): 
 BearGrowl	忽视亡灵的物理抗性
 DescIASBlackMass	忽视目标防御
-DescTrapIASSynDesc	攻击速度 - 每基础等级 (收益递减)
+DescTrapIASSynDesc	1% 移动速度 - 每基础等级\n攻击速度 - 每基础等级 (收益递减)
 DescSynVal	提高伤害
 DescMagnetik	+20% 提高闪电伤害 - 每基础等级
 DescSynValFire	提高火焰伤害
@@ -6159,7 +6159,7 @@ FlamestrikeSplain	每次施法最高 13 次击中
 ThunderstoneSplain	近距离下更加精准\n20 充能弹数
 SkillnameTPresence	无情来临 (Grim Presence)
 SkillsdTPresence	ÿc4加点于此技能将禁用〈污染之血〉\nÿc3仅允许使用近战、召唤与增/减益技能\nÿc0增益 - 靠近你的敌人变得更弱
-DescTerrifying1	持续时间: 10 分钟\n\n敌人攻击与施法速度: -20%\n敌人武器伤害: -30%\n
+DescTerrifying1	\n敌人攻击与施法速度: -20%\n敌人武器伤害: -30%\n
 DescDivineDelay	冷却时间: 3 秒\n
 DescTerrifying2	增加冰冷伤害至〈神圣显现〉\n增加火焰伤害至〈正义化身〉\n
 DescTerrifyingSyns	+10% 总冰冷伤害至〈神圣显现〉 - 每基础等级\n+6% 总火焰伤害至〈正义化身〉 - 每基础等级
@@ -6663,8 +6663,8 @@ SkillnameFervor	ÿc8热忱 (Fervor)
 DescConclaveSyn	+1 最大仆人数量 - 每 2 基础等级\n+15% 仆从生命 - 每基础等级
 DescSummLife	% 召唤仆从生命
 DescConclave1	最大仆人数量: 
-DescFervor1	% 的伤害加为火焰伤害
-DescFervorSyn	+6% 的伤害加为火焰伤害 - 每基础等级
+DescFervor1	% 的总伤害加为火焰伤害
+DescFervorSyn	% 的总伤害加为火焰伤害 - 每基础等级
 DescSummDmg	% 召唤仆从伤害
 DescFervor2	(火焰伤害加成 +
 SkillnameReverence	ÿc2崇敬 (Reverence)
@@ -6673,12 +6673,12 @@ DescReverence1	ÿc:禁止释放〈命运守卫〉与〈正义崇拜〉
 DescNephalem1	ÿc:\n禁用神圣与不洁技能\n奈非天技能 Nephalem Skill
 DescNephalemX	\nÿc:奈非天技能 Nephalem Skill
 SkillTranscendence	ÿc8超越 (Transcendence)
-SkillsdTranscendence	ÿc7(需要〈无情来临〉)\nÿc0升级 - 〈无情来临〉增加火焰伤害至〈英勇仆人〉攻击
+SkillsdTranscendence	ÿc7(需要〈无情来临〉)\nÿc0升级 - 〈无情来临〉增加火焰穿透至〈英勇仆人〉
 SkillFrostbite	ÿc8霜侵 (Frostbite)
 SkillsdFrostbite	ÿc7(需要〈无情来临〉)\nÿc0升级 - 〈无情来临〉增加冰冷伤害至〈神圣显现〉
-DescTranscendence1	% 的基础仆人物理伤害加为火焰
+DescTranscendence1	% 的火焰抗性至仆从
 DescTranscendence2	(火焰伤害加成 +
-DescTranscendenceSyn	% 的物理伤害加为火焰伤害 - 每基础等级\n火焰法术伤害
+DescTranscendenceSyn	% 火焰穿透至仆从 - 每基础等级
 DescFrostbite1	〈神圣显现〉冰冷伤害乘数: +
 DescFrostbiteSyn	+15% 总冰冷伤害 - 每基础等级
 SkillnameConfluence	ÿc8汇集 (Confluence)
@@ -7406,7 +7406,7 @@ DescCelestialRage	ÿc5〈纵射〉: +2 飞弹与 +1 秒冷却时间\nÿc8 在至
 SkillCrystallineBarrierSyn	冻结持续时间随冰冷法术伤害提高
 SkillEntanglement3	移动速度: +%d%%
 SkillEntanglement4	法力恢复: -%d%%
-SkillSuperpositionSyn	冷却时间减少 1 秒 - 每 %d 最大精力
+SkillSuperpositionSyn	冷却时间随精力属性增长而减少(收益递减)
 SkillCrystalline0	% 火焰、闪电与毒素法术伤害
 DescAlchPrepSyn	+1 投射物至〈烈焰冲击〉和〈抛射〉 - 每基础等级
 DescDirgeBoniKill	% 致死一击时几率施放增强的法术
@@ -7686,7 +7686,7 @@ DescProgenyBlaze	蛋蛋陷阱: 每 1 基础等级 0.5 秒更快的恢复
 DescRangedEggLol	不触发〈幼崽的祝福〉\n继承所有的〈蛋蛋陷阱〉属性
 SkillsdActualEggOnFace	ÿc1需要〈鸮人形态〉\nÿc0投射物 - 在远处生出一个火爆的蛋蛋
 SkillnameActualEggOnFace	ÿc4远程蛋蛋陷阱 'Ranged Egg Trap'
-SkillCataclysm1	火焰抗性 
+SkillWillOWisp1	火焰抗性 
 SkillSearingGlow1	\nÿc5增加 30% 的物理伤害为火焰\nÿc0每装备一件成功腐化的物品:\n\nÿc5 持续时间提高至 30 秒\n敌人准确率: -35%\nÿc0若你没有装备成功腐化的物品:
 |du1	ÿc8杜拉的果实 Dulra Fruit
 DescScosArtifact	ÿc325% 魔法物品获取率(MF)\n最大生命 +5%\n+1 所有技能\nÿc0与杜拉之守护于方块中重塑以增加额外属性\n\n方块重塑材料 Cube Reagent
@@ -7854,7 +7854,7 @@ SkillForbiddenK2	% 伤害加成至<魔法飞弹>
 SkillForbiddenK3	% 伤害加成至<心灵风暴>
 SkillForbiddenK4	% 伤害加成至<熔岩坑>
 Skillnametimewarp	时间扭曲 (Time Warp)
-Skilltimewarp1	ÿc5获得500%MF持续2秒\n冷却时间提升2秒\nÿc8等级130级后:\n\nÿc5没有冷却时间\nÿc8在130级之前:
+Skilltimewarp1	ÿc5冷却时间增加 2 秒\nÿc8等级 130 级后:\n\nÿc5没有冷却时间\nÿc8在 130 级之前:
 Heart of Darkness	黑暗之心 Heart of Darkness
 End of Time	时间尽头 End of Time
 Elemental Trance	元素催眠 Elemental Trance
@@ -8006,7 +8006,7 @@ IM_HollowInfo	固定的. 对附近的移动目标发动攻击
 DescTantrumBursts	冲击: 
 DescTantrumScaling	发射 1 额外冲击 - 每 5 等级
 SkillViolence2	鹰姿态：100% 的生命偷取加至闪电穿透\n
-SkillViolence3	狼姿态：33% 的生命偷取加至暴击几率\n
+SkillViolence3	狼姿态：25% 的生命偷取加至暴击几率\n
 SkillnameMightyVigor	强韧 (Mighty Vigor)
 SkillsdMightyVigor	ÿc4专精技能 - 最多选择 2 种专精\nÿc0被动 - 你的力量增强你的生命偷取
 SkillMightyVigor1	+1% 生命偷取每 
@@ -8083,3 +8083,8 @@ SkillsdCrystallineArsenal	ÿc1需要一把矛、标枪或弓\nÿc0投射物 - �
 CrystallineArsenalJavDesc	ÿc5造成 200% 武器伤害，每个分裂物造成一半的伤害\n发射一个巨大的冰枪，分裂成更小的冰刺，然后再次分裂\n当持有标枪时:
 CrystallineArsenalGenDesc	投射物根据持有的武器变化\n转换 50% 伤害至冰冷
 DescWitchBlood2	(在 40-79% 生命时仅有一半效果)
+SkillnameCataclysm	灾厄 Cataclysm
+SkillsdCataclysm	ÿc0法术 - 在你周围投射一圈致命的火球
+SkillIceLance2	+1 投射物 - 每 
+DescSkillLevels	 技能等级
+DescProj	投射物: 

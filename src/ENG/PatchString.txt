@@ -1753,7 +1753,7 @@ RightClickToUnsummon	Right-click to Unsummon
 11752	UNUSED
 11753	+5-10 Damage per Character Level Above 138
 11754	Holy Shock has 1200 Base Damage, Increases by 1% per 7 Energy\nLevel 1 Holy Shock
-11755	With 15 Base Levels in Runemaster: 10% Deadly Strike\nAt least 1 Base Level in Runemaster: Maximum Elemental Resists +2%
+11755	With 15 Base Levels in Runemaster: 10% Deadly Strike\nAt least 1 Base Level in Runemaster: Maximum Poison Resist +4%
 11756	(Whichever is Higher)\n+1% Weapon Physical Damage per 50 Strength or Dexterity
 11757	Howl of the Spirits: +4 Seconds Duration 
 11758	+100% Bonus Fire Damage to Retaliate

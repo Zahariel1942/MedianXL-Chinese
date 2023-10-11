@@ -3989,7 +3989,7 @@ SkillnameCallHenchmen	Call Henchman
 SkillnameCallMalthael	Call Malthael
 SkillnameCallNecrobot	Call Necrobot
 SkillnameCascade	Cascade
-SkillnameCataclysm	Ignis Fatuus
+SkillnameWillOWisp	Ignis Fatuus
 SkillnameCautious	Cautious Strike
 SkillnameCelerity	Celerity
 SkillnameCharm	Charm
@@ -4513,7 +4513,7 @@ SkillsdDebilitatingConcoction	ÿc1requires a crossbowÿc0\nprojectile - lob a mi
 SkillsdBurnInHellz	ÿc1requires a melee target\nrequires a melee weaponÿc0\nmelee attack that inflicts heavenly flames that spread to others
 SkillsdBzzzzzzzzzzzzz	ÿc0buff - periodically unleash deadly insect swarms when near enemies
 SkillsdCascade	ÿc1requires a bow or crossbowÿc0\nprojectile - rains a volley of arrows on a large area
-SkillsdCataclysm	ÿc0buff - infuse your spells and weapons with fiery power
+SkillsdWillOWisp	ÿc0buff - infuse your spells and weapons with fiery power
 SkillsdCautious	ÿc1requires two melee weaponsÿc0\nattack - temporarily reduce damage taken
 SkillsdCharm	ÿc0converts a small area of monsters, forcing them to fight for you
 SkillsdCheese	ÿc0upgrade - your predatory instincts enhance your lethality
@@ -4864,7 +4864,7 @@ SkillsdTritonForm	ÿc1requires an axe or mace\nÿc3only allows the use of melee,
 SkillsdTriumphant	ÿc1requires a spearÿc0\nattack - enter a state of fury and improve your combat abilities
 SkillsdTrololol	ÿc0burn baby burn!
 SkillsdMageSlayer	ÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0buff - neutralizes enemy elemental damage and enhances your own
-SkillsdTwistingbite	ÿc1requires a sword\nÿc0attack - melee hit which unleashes preys seeking twisters
+SkillsdTwistingbite	ÿc1requires a sword\nÿc0attack - melee hit which unleashes prey seeking twisters
 SkillsdTyphoonK	ÿc1requires a bow or crossbowÿc0\ncast a tremendous blast of wind from your bow or crossbow
 SkillsdTyphoonS	ÿc0sentry that blows away nearby enemies with wind blasts
 SkillsdUnholyArmor	ÿc0turns you or a target ally invulnerable for a short time
@@ -5019,7 +5019,7 @@ DescLaserbladeStat	% of Base Dexterity
 DescNephalemStr	% of Base Strength
 DescPctStrOrDex	% of base strength and dexterity
 DescNephalemVit	% of Base Vitality
-DescArcanePhysComponent	% of Current Mana
+DescArcaneTorrent1	Deals Feedback Damage based on your Current Mana\nDeals Magic Damage based on your Maximum Mana
 DescManaSweepLost	% of Lost Mana
 DescDealWithIt	% of Mana restored as Life
 DescArcaneTorrent	% of Maximum Mana
@@ -5444,7 +5444,7 @@ DescAncHandFlat	Hits Multiple Times\nConverts 100% Physical Damage to Fire Damag
 DescHoplitesNr	Hoplites: 
 BearGrowl	Ignore Physical Resistance of the Undead
 DescIASBlackMass	Ignores Target Defense
-DescTrapIASSynDesc	Attack Speed per Base Level (Diminishing Returns)
+DescTrapIASSynDesc	1% Movement Speed per Base Level\nAttack Speed per Base Level (Diminishing Returns)
 DescSynVal	Increased Damage
 DescMagnetik	+20% increased lightning damage per Base Level
 DescSynValFire	Increased Fire Damage
@@ -6159,7 +6159,7 @@ FlamestrikeSplain	Up to 13 hits per cast
 ThunderstoneSplain	More accurate at close range\n20 Charged Bolts
 SkillnameTPresence	Grim Presence
 SkillsdTPresence	ÿc4placing a point in this skill will disable Tainted Blood\nÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0buff - enemies near you are weaker
-DescTerrifying1	Duration: 10 Minutes\n\nEnemy Attack and Cast Speed: -20%\nEnemy Weapon Damage: -30%\n
+DescTerrifying1	\nEnemy Attack and Cast Speed: -20%\nEnemy Weapon Damage: -30%\n
 DescDivineDelay	Cooldown: 3 seconds\n
 DescTerrifying2	Adds Cold Damage to Divine Apparition\nAdds Fire Damage to Vessel of Justice\n
 DescTerrifyingSyns	+10% Total Cold Damage to Divine Apparition per Base Level\n+6% Total Fire Damage to Vessel of Justice per Base Level
@@ -6663,8 +6663,8 @@ SkillnameFervor	ÿc8Fervor
 DescConclaveSyn	+1 Maximum Servant per 2 Base Levels\n+15% Minion Life per Base Level
 DescSummLife	% to Summoned Minion Life
 DescConclave1	Maximum Servants: 
-DescFervor1	% of Damage Added as Fire Damage
-DescFervorSyn	+6% of Damage added as Fire Damage per Base Level
+DescFervor1	% of Total Damage Added as Fire Damage
+DescFervorSyn	% of Total Damage added as Fire Damage per Base Level
 DescSummDmg	% to Summoned Minion Damage
 DescFervor2	(Bonus Fire Damage +
 SkillnameReverence	ÿc2Reverence
@@ -6673,12 +6673,12 @@ DescReverence1	ÿc:Disables casting Ward of Fate and Valiance of Justice
 DescNephalem1	ÿc:\nDisables Holy & Unholy Skills\nNephalem Skill
 DescNephalemX	\nÿc:Nephalem Skill
 SkillTranscendence	ÿc8Transcendence
-SkillsdTranscendence	ÿc7(requires Grim Presence)\nÿc0upgrade - Grim Presence adds fire damage to the attacks of servants of valor
+SkillsdTranscendence	ÿc7(requires Grim Presence)\nÿc0upgrade - Grim Presence adds fire pierce to your servants of valor
 SkillFrostbite	ÿc8Frostbite
 SkillsdFrostbite	ÿc7(requires Grim Presence)\nÿc0upgrade - Grim Presence adds cold damage to Divine Apparition
-DescTranscendence1	% of Base Servant Physical Damage Added as Fire
+DescTranscendence1	% Fire Pierce to Servants
 DescTranscendence2	(Bonus Fire Damage +
-DescTranscendenceSyn	% of Physical Damage added as Fire per Base Level\nFire Spell Damage
+DescTranscendenceSyn	% Fire Pierce to Servants per Base Level
 DescFrostbite1	Divine Apparition Cold Damage Multiplier: +
 DescFrostbiteSyn	+15% Total Cold Damage per Base Level
 SkillnameConfluence	ÿc8Confluence
@@ -7406,7 +7406,7 @@ DescCelestialRage	ÿc5Enfilade: +2 Missiles and +1 Second Cooldown\nÿc8 Casting
 SkillCrystallineBarrierSyn	Freeze length increases with cold spell damage
 SkillEntanglement3	Move Speed: +%d%%
 SkillEntanglement4	Mana Regeneration: -%d%%
-SkillSuperpositionSyn	Cooldown Reduced by 1 second per %d Total Energy
+SkillSuperpositionSyn	Cooldown Reduced by Total Energy (Diminishing Returns)
 SkillCrystalline0	% Fire, Lightning and Poison Spell Damage
 DescAlchPrepSyn	+1 Projectile to Flameburst and Catapult Shot per Base Level
 DescDirgeBoniKill	% Chance to Cast Empowered Spell on Death Blow
@@ -7686,7 +7686,7 @@ DescProgenyBlaze	Egg Trap: 0.5 Second Faster Regeneration per Base Level
 DescRangedEggLol	Does Not Trigger Progeny's Blessing\nInherits all Egg Trap Attributes
 SkillsdActualEggOnFace	ÿc1requires Wereowl Form\nÿc0projectile - spawn a fiery egg at a distance
 SkillnameActualEggOnFace	ÿc4Ranged Egg Trap
-SkillCataclysm1	Fire Resist 
+SkillWillOWisp1	Fire Resist 
 SkillSearingGlow1	\nÿc5Add 30% of Physical Damage as Fire\nÿc0For each successfully corrupted item equipped:\n\nÿc5 Duration increased to 30 seconds\nEnemy Attack Rating: -35%\nÿc0If you have no successfully corrupted items equipped:
 |du1	ÿc8Dulra Fruit
 DescScosArtifact	ÿc325% Magic Find\nMaximum Life +5%\n+1 to All Skills\nÿc0Cube with Dulra Aegis to Add Bonus\n\nCube Reagent
@@ -7854,7 +7854,7 @@ SkillForbiddenK2	% damage multiplier to Magic Missiles
 SkillForbiddenK3	% damage multiplier to Eldritch Storm
 SkillForbiddenK4	% damage multiplier to Lava Pit
 Skillnametimewarp	Time Warp
-Skilltimewarp1	ÿc5Gain 500% Magic Find for 2 seconds on use\nCooldown increased by 2 seconds\nÿc8After level 130:\n\nÿc5No cooldown\nÿc8Before level 130:
+Skilltimewarp1	ÿc5Cooldown increased by 2 seconds\nÿc8After level 130:\n\nÿc5No cooldown\nÿc8Before level 130:
 Heart of Darkness	Heart of Darkness
 End of Time	End of Time
 Elemental Trance	Elemental Trance
@@ -8006,7 +8006,7 @@ IM_HollowInfo	Immobile. Attacks on nearby motion
 DescTantrumBursts	Bursts: 
 DescTantrumScaling	Fires 1 Additional Burst Every 5 Levels
 SkillViolence2	Eagle: 100% of your Life Steal added as Lightning Pierce\n
-SkillViolence3	Wolf: 33% of your Life Steal added as Critical Strike chance\n
+SkillViolence3	Wolf: 25% of your Life Steal added as Critical Strike chance\n
 SkillnameMightyVigor	Mighty Vigor
 SkillsdMightyVigor	ÿc4proficiency skill - you may pick up to 2\nÿc0passive - your strength increases your bloodthirst
 SkillMightyVigor1	+1% Life Steal per 
@@ -8083,3 +8083,8 @@ SkillsdCrystallineArsenal	ÿc1requires a spear, javelin, or bow\nÿc0projectile 
 CrystallineArsenalJavDesc	ÿc5Main spike deals 200% weapon damage, each split deals halves damage\nLaunches a massive frozen spike that splits into smaller bursts, which split again\nWhile holding a Javelin:
 CrystallineArsenalGenDesc	Projectile changes based on held weapon\nConverts 50% of damage to Cold
 DescWitchBlood2	(half effect from 40-79% life)
+SkillnameCataclysm	Cataclysm
+SkillsdCataclysm	ÿc0spell - cast a ring of deadly fireballs in all directions around you
+SkillIceLance2	+1 Projectile per 
+DescSkillLevels	 Skill Levels
+DescProj	Projectiles: 

@@ -9962,8 +9962,13 @@ ModMaxAvoid	最大躲避几率
 AnotherCurrentBonus	当前加成:
 DescOilLAlchemy	90\n炼金油可用于锻造项链。\n\n油 + 套装项链\n--> 锻造的项链\n额外 +1 所有技能\n\n增加一个随机前缀:\n------------------------------\n10% 移动速度\n+100 每秒生命回复\n+7% 固有元素伤害\n+5% 体力\n+5% 精力\n-5% 敌人元素抗性\n+5% 物理抗性\n+25% 武器物理伤害\n毒素持续时间减少  20%\n诅咒持续时间减少  20%\n
 Shockandawe	震撼和敬畏 Shock and Awe
-Alchemy2	方块重塑材料\nÿc8强效炼金油
-Alchemy1	方块重塑材料\nÿc8炼金油
+Alchemy2	方块重塑材料\nÿc8强效炼金油 (3)
+Alchemy1	方块重塑材料\nÿc8炼金油 (3)
 ArchonBulwark	执政官的堡垒 Bulwark of the Archon
 Scirocco	热风 Scirocco
 Cerberus	刻耳柏洛斯 Cerberus
+Stormshapers Gift	塑风者的礼物 Stormshaper's Gift
+Alchemy2a	方块重塑材料\nÿc8强效炼金油 (2)
+Alchemy2b	方块重塑材料\nÿc8强效炼金油 (1)
+Alchemy1a	方块重塑材料\nÿc8炼金油 (2)
+Alchemy1b	方块重塑材料\nÿc8炼金油 (1)

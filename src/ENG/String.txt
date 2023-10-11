@@ -9962,8 +9962,13 @@ ModMaxAvoid	Maximum Avoid Chance
 AnotherCurrentBonus	Current Bonus:
 DescOilLAlchemy	90\nThe Oil of Lesser Alchemy\nallows you to craft amulets:\n\nOil + Set Amulet\n--> Crafted Amulet\nwith +1 to All Skills\n\nAdd one affix at random:\n------------------------------\n10% Movement Speed\n+100 Life regenerated per Second\n+7% Innate Elemental Damage\n+5% Vitality\n+5% Energy\n-5% Enemy Elemental Resistances\n+5% Physical Resist\n+25% Weapon Physical Damage\nPoison Length Reduced by 20%\nCurse Length Reduced by 20%\n
 Shockandawe	Shock and Awe
-Alchemy2	Cube Reagent\nÿc8Oil of Greater Alchemy
-Alchemy1	Cube Reagent\nÿc8Oil of Lesser Alchemy
+Alchemy2	Cube Reagent\nÿc8Oil of Greater Alchemy (3)
+Alchemy1	Cube Reagent\nÿc8Oil of Lesser Alchemy (3)
 ArchonBulwark	Bulwark of the Archon
 Scirocco	Scirocco
 Cerberus	Cerberus
+Stormshapers Gift	Stormshaper's Gift
+Alchemy2a	Cube Reagent\nÿc8Oil of Greater Alchemy (2)
+Alchemy2b	Cube Reagent\nÿc8Oil of Greater Alchemy (1)
+Alchemy1a	Cube Reagent\nÿc8Oil of Lesser Alchemy (2)
+Alchemy1b	Cube Reagent\nÿc8Oil of Lesser Alchemy (1)

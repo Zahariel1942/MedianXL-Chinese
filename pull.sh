@@ -11,7 +11,7 @@ fi
 tag=$1
 mxlurl="https://get.median-xl.com/get.php?type=mxl_beta&tag=$tag&file=MXL.mpq"
 langurl="https://github.com/Zahariel1942/MedianXL-Chinese/releases/latest/download/Release.zip"
-tmp=$(mktemp -d)
+tmp=".tmp"
 
 # Download files
 echo "Downloading $mxlurl"
@@ -25,7 +25,3 @@ unzip -o "$tmp/Release.zip" -d "$tmp"
 mkdir -p origin
 mv "$tmp/MXL.mpq" "$tmp/lang-zh.mpq" origin/
 echo "Files moved to origin directory"
-
-# Clean up temporary directory
-rm -rf "$tmp"
-echo "Temporary directory removed"
