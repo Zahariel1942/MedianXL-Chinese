@@ -2100,31 +2100,31 @@ StrAutomapPing	Ping值:
 12099	蝎刀: 必定爆炸，最大范围 -25%
 12100	+1 额外目标至〈暴风乌鸦〉
 12101	每次施法召唤两个〈先祖英灵〉
-12102	ÿc4卡丘斯的祝福 Blessing of Karcheus\n\nÿc5对中心造成更多伤害\n攻击你前方的地面，释放出一圈寒冰球，这些寒冰球会破碎成更小的一圈冰弹\n当持有矛时:\n\n造成 200% 武器伤害，每个分裂物造成一半的伤害\n发射一个巨大的冰枪，分裂成更小的冰刺，然后再次分裂\n当持有标枪时:\n\nÿc3+1 至冰晶武库 (Crystalline Arsenal)
+12102	ÿc4卡丘斯的祝福 Blessing of Karcheus\n\nÿc5造成 50% 武器伤害\n敌人接触时可提前触发地雷\n然后爆炸成密集追踪冰箭的弹幕\n发射一个会在你前方短距离内减速停止的冰雷\n当持有弓时:\n\n在中心造成至多 2800% 武器伤害\n打击你面前的地面，释放出一个脉冲的寒冷新星\n当持有矛时:
 12103	ÿc4牺牲热忱 Sacrificial Fervor\nÿc5在受到伤害后，仆从每秒损失 10% 生命直到死亡\n继承双倍的〈元素智慧〉火焰穿透\n伤害、攻击速度、移动速度翻倍\nÿc8〈英勇仆人〉:
-12104	ÿc8<叠覆>和<枯萎>不禁用元素伤害\n恢复生命: 75% 的法术专注每秒
+12104	ÿc4无限潜能的空白之板\n
 12105	
 12106	
 12107	
 12108	
 12109	ÿc1你只能携带一个遗物 You can only carry one Relic
 12110	\nÿc5和赦免徽记重塑 Transmute charm with a Sigil of Absolution\n击败六难度加持下的戴摩斯 Defeat Deimoss with exactly 6 optional difficulty modifiers\nÿc4虚空装甲 Void Armor
-12111	ÿc8废弃圣坛 Abandoned Shrine
-12112	ÿc8惊悚圣坛 Creepy Shrine
+12111	ÿc8废弃圣坛 Abandoned Shrine\n
+12112	ÿc8惊悚圣坛 Creepy Shrine\n
 12113	ÿc8可怖圣坛 Eerie Shrine\n
-12114	ÿc8强化圣坛 Enchanted Shrine
-12115	ÿc8迷人圣坛 Fascinating Shrine
+12114	ÿc8强化圣坛 Enchanted Shrine\n
+12115	ÿc8迷人圣坛 Fascinating Shrine\n
 12116	ÿc8隐藏圣坛 Hidden Shrine\n
 12117	ÿc8威吓圣坛 Intimidating Shrine\n
 12118	ÿc8魔法圣坛 Magical Shrine\n
-12119	ÿc8华丽圣坛 Ornate Shrine
+12119	ÿc8华丽圣坛 Ornate Shrine\n
 12120	ÿc8静谧圣坛 Quiet Shrine
-12121	ÿc8神圣圣坛 Sacred Shrine
-12122	ÿc8微光圣坛 Shimmering Shrine
-12123	ÿc8灵魂圣坛 Spiritual Shrine
-12124	ÿc8堕落圣坛 Tainted Shrine
-12125	ÿc8三合一圣坛 Trinity Shrine
-12126	ÿc8怪异圣坛 Weird Shrine
+12121	ÿc8神圣圣坛 Sacred Shrine\n
+12122	ÿc8微光圣坛 Shimmering Shrine\n
+12123	ÿc8灵魂圣坛 Spiritual Shrine\n
+12124	ÿc8堕落圣坛 Tainted Shrine\n
+12125	ÿc8三合一圣坛 Trinity Shrine\n
+12126	ÿc8怪异圣坛 Weird Shrine\n
 12127	深渊也凝视着你 the abyss gazes also into you\n如果你长时间凝视深渊 And if you gaze for long into an abyss\n\n从而变成怪物 thereby become a monster\n仍需小心谨慎，以免他 might take care lest he\n与怪物战斗的人 He who fights with monsters\n
 12128	等级 1 救赎光环 Salvation Aura
 12129	+80 魔法伤害 - 每 1% 致命攻击(DS)
@@ -2185,3 +2185,4 @@ strHotkeydescEmote	你的角色会发出的音频表情，周围的其他玩家�
 12184	增加你 65% 的〈白狼伙伴〉基础伤害至固定物理伤害\n+2% 火焰/冰冷/闪电抗性 - 每〈白狼伙伴〉技能等级
 12185	ÿc5与 胜利印记(Mark of Victory) 于方块中重塑以使此护符属性翻倍\n与 强化符文Xith(6#) 于方块中重塑以获得两个任务入口卷轴\nÿc4炼狱机械 (英雄级)\n
 12186	ÿc5当达到 122 角色等级后于方块中重塑\n难度等级: 122\nÿc4炼狱机械 (英雄级)\n
+12187	\nÿc5主刺造成 200% 武器伤害, 碎片伤害减半\n发射一个巨大的冰冻尖刺，分裂成稍小的冰刺，然后会再次分裂成更小的。\n当持有标枪时:\n\nÿc3+1 只冰晶武库 (Crystalline Arsenal)

@@ -8079,12 +8079,16 @@ DescReverenceSyn	Valiance\nWard of Fate\nVeneration of Justice
 SkillPossession1	% to Attack Rating
 SkillEntanglement5	Avoid: +%d%%\nÿc8After Using Superposition\n\nSuperposition cooldown reduced by 2 seconds (minimum 0)
 SkillnameCrystallineArsenal	Crystalline Arsenal
-SkillsdCrystallineArsenal	ÿc1requires a spear, javelin, or bow\nÿc0projectile - imbue your attack with frigid crystals, adapting them to your current weapon
+SkillsdCrystallineArsenal	ÿc1can be used with Lioness, but not with Melee Devotion\nrequires a spear, javelin, or bow\nÿc0projectile - imbue your attack with frigid crystals, adapting them to your current weapon
 CrystallineArsenalJavDesc	ÿc5Main spike deals 200% weapon damage, each split deals halves damage\nLaunches a massive frozen spike that splits into smaller bursts, which split again\nWhile holding a Javelin:
-CrystallineArsenalGenDesc	Projectile changes based on held weapon\nConverts 50% of damage to Cold
+CrystallineArsenalGenDesc	\nProjectile changes based on held weapon\nConverts 50% of damage to Cold
 DescWitchBlood2	(half effect from 40-79% life)
 SkillnameCataclysm	Cataclysm
 SkillsdCataclysm	ÿc0spell - cast a ring of deadly fireballs in all directions around you
 SkillIceLance2	+1 Projectile per 
 DescSkillLevels	 Skill Levels
 DescProj	Projectiles: 
+SkillFrostbornSyn	+5% Attack Rating per Cold Tree Base Level\n+1% maximum Life per 100 Total Energy (maximum 25%)
+SkillNameClearMind	Clear Mind
+SkillsdClearMind	spell - conjure magical ripples accross the landscape, empowered by your unspent skill points
+SkillDescClearMind	\nGains additional radius and hit rate every 25 unspent skill points\nGains Exponentially more damage per unspent skill point

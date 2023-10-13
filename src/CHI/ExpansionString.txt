@@ -5075,7 +5075,7 @@ DescThisIsLight	ÿc2两条中立技能树，保持中立\n一条中立技能树�
 DescThisIsShadow	ÿc2两条中立技能树，保持中立\n一条中立技能树，不论阵营\n你可选择:\n中立技能 Neutral Skill
 DescHarmedCharm	\n
 DescWhileCloaked	ÿc8背刺时:\n
-DescMultiplier	\nÿc:武器伤害乘数影响\n此技能的元素伤害受攻击技能上的
+DescMultiplier	\nÿc:武器伤害加成影响\n此技能的元素伤害受攻击技能上的
 DescReflectNoKills	\nÿc:不触发“死亡时”效果\n反射伤害杀死的敌人
 DescReflectNoKillsC	\nÿc:不触发“死亡时”效果\n反射伤害杀死的敌人
 DescReequip	\nÿc:如果加成未应用，请重新装备物品
@@ -5151,7 +5151,7 @@ DescWyrmSynergy	+5% 更多的火焰穿透 - 每基础等级 (最大 160%, 基于
 DescIncreasedBlock	% 格挡的基础几率
 DescMiniAvoid	+1% 几率躲避伤害 - 每 2 基础等级
 DescDeadlyStrikeBlvl	+%d%% 致命攻击(DS) - 每基础等级
-DescRuneMasterHazEpicBuff	% 防御加成乘数 - 每基础等级
+DescRuneMasterHazEpicBuff	% 防御加成 - 每基础等级
 DescSnakeSynergy	+1% 减速目标 - 每基础等级 (最大 50%)
 DescMayThe	+1% 法术伤害 - 每 
 DescRaptureQQ	% 所有速度 - 每基础等级
@@ -5274,7 +5274,7 @@ DescASDmgSyn	% 仆从伤害 - 每基础等级
 DescACBonus	防御加成: 
 DescTCDLioness	防御加成: 
 DescASLifeSyn	% 仆从生命 - 每基础等级
-DescBlankExptraSp	先祖英灵生命乘数: 
+DescBlankExptraSp	先祖英灵生命加成: 
 DescBonusMagDmg	魔法伤害加成: 
 DescRathmaFC	前路迷雾将会消散，做好准备\n\nTaha 高级符文\n学习印章G\n它现在必须注入知识与奥术(Knowledge and Arcana)\n\nÿc5世界之石水晶已被重铸
 DescBaseDmg	加成的物理伤害
@@ -5350,7 +5350,7 @@ DescDazzleDur	Dazzle 持续时间:
 DescDazzleEffect	Dazzle: 敌人准确率: 
 DescDeadlyStrike	致命攻击: 
 DescIFailedAtModding	在拥挤的场景造成更多伤害\n
-DescRMBonus	每个镶嵌的符文防御加成乘数: 
+DescRMBonus	每个镶嵌的符文防御加成: 
 DescStoneACBonus	防御加成: 
 DescNukeDelay	引爆间延迟: 
 DescPewPewPewPew	爆裂间延迟: 0.16 秒\n目标范围: 4 码
@@ -6679,13 +6679,13 @@ SkillsdFrostbite	ÿc7(需要〈无情来临〉)\nÿc0升级 - 〈无情来临〉
 DescTranscendence1	% 的火焰抗性至仆从
 DescTranscendence2	(火焰伤害加成 +
 DescTranscendenceSyn	% 火焰穿透至仆从 - 每基础等级
-DescFrostbite1	〈神圣显现〉冰冷伤害乘数: +
+DescFrostbite1	〈神圣显现〉冰冷伤害加成: +
 DescFrostbiteSyn	+15% 总冰冷伤害 - 每基础等级
 SkillnameConfluence	ÿc8汇集 (Confluence)
 SkillsdConfluence	ÿc0升级 - 当你健康时〈精神鞭笞〉更为强大
 DescConfluence1	+1 光线数量 - 当大于 70% 最大生命时
-DescConfluence2	加至〈毁灭交响曲〉总伤害乘数
-DescConfluenceSyn	闪电法术伤害乘数提高 - 每基础等级
+DescConfluence2	加至〈毁灭交响曲〉总伤害加成
+DescConfluenceSyn	闪电法术伤害加成提高 - 每基础等级
 SkillnameAcumen	敏锐 (Acumen)
 SkillsdAcumen	ÿc0被动 - 对黑暗技艺的精通提升你的能力
 DescAcumen1	〈杀手〉: 靠近幻影时每秒恢复的 2% 最大生命\n〈风暴领主〉: +100% 所有属性\n〈精神鞭笞〉: +100% 溅射范围(AoE)
@@ -7287,7 +7287,7 @@ DescElementalCommandUpg	ÿc2巨龙传说 Dragonlore
 SkillnameFireatWill	ÿc8自由射击 (Fire at Will)
 SkillsdFireatWill	ÿc0升级 - 〈诱饵〉生效时提高速度
 DescFireatWillSyn	冷却时间减少 0.6 秒 - 每基础等级
-DescSorcBlvlBonus	% 伤害乘数 - 每基础等级
+DescSorcBlvlBonus	% 伤害加成 - 每基础等级
 DescCrystallineB1	\n(收益递增 -随 冰冷法术伤害)
 SkillnameWintertide	冬潮 (Wintertide)
 SkillsdWintertide	ÿc1需要一把权杖或一支法珠\nÿc0折跃 - 传送你到一个目标敌人
@@ -7639,7 +7639,7 @@ SkillNoxiousMasterySyn2	% 毒素持续时间减少加为加成的防御 - 每基
 SkillNoxiousMastery1	% 毒素持续时间减少加为加成的防御
 SkillNoxiousMastery2	 最大〈箭毒〉基础等级
 SkillNoxiousMastery3	〈箭毒〉: +
-SkillNoxiousMastery4	% 伤害乘数 - 每基础等级
+SkillNoxiousMastery4	% 伤害加成 - 每基础等级
 SkillNoxiousMasterySynNoSpace	+3% 移动速度 - 每基础等级\n+1% 物理抗性 - 每基础等级
 DescConvertsToMag	转换 %d%% 物理伤害为魔法
 DescNewVoracity	寄生弹拥有溅射范围(AoE)\n\nÿc9(〈死亡天使〉生效时可用)\nÿc2寄生 Parasite -> 夺魂 Reaper
@@ -7747,7 +7747,7 @@ SkillElementalCommand1	提高〈三合一之箭〉与〈弹幕〉最大基础等
 SkillElementalCommand2	 角色等级
 SkillnameSalvo	ÿc8磨刀 (Honing)
 SkillsdSalvo	ÿc0升级 - 〈涌动〉将专精于造成毒素伤害
-SkillStampede4	(伤害乘数: +
+SkillStampede4	(伤害加成: +
 SkillStampede5	+20% 额外伤害 - 每基础等级\n
 DmgDemonsDesc	% 对恶魔伤害
 DmgUndeadDesc	% 对亡灵伤害
@@ -7790,7 +7790,7 @@ DescLethalInc3	毒素技能持续时间提高
 DescLethalPSDur	+%d%% 技能持续时间 - 每基础等级
 DescThisIsHard	+2% 毒素技能伤害 - 每一级低于 100 的角色等级\n
 SkillShamanicTrance1	% 基础力量(最大 600)
-SkillShamanicTrance2	先祖英灵伤害乘数: 
+SkillShamanicTrance2	先祖英灵伤害加成: 
 SkillSpiritWalkSyn	任意萨满技能: 
 SkillSpiritWalkSyn2	% 提高的治疗 (最高到 10% 最大生命)
 SkillSpiritWalk1	恢复 
@@ -8076,15 +8076,19 @@ DescFrigidSlow	减速周围敌人
 DescFrigidSlow2	% (效果随冰冷法术伤害增长)
 strengSyn	力量和精力
 DescReverenceSyn	英勇\n命运守卫\n正义崇拜
-SkillPossession1	% 至精准率
+SkillPossession1	% 至准确率
 SkillEntanglement5	躲避: +%d%%\nÿc8在使用〈叠覆〉后\n\n〈叠覆〉 冷却时间减少 2 秒 (最低 0)
 SkillnameCrystallineArsenal	冰晶武库 (Crystalline Arsenal)
-SkillsdCrystallineArsenal	ÿc1需要一把矛、标枪或弓\nÿc0投射物 - 在你的攻击中注入冰冷的水晶，使它们适应你当前的武器
+SkillsdCrystallineArsenal	ÿc1可以与〈母狮子〉一起使用，但不能与〈近战精通〉一起\n需要一把矛、标枪或弓\nÿc0投射物 - 在你的攻击中注入冰冷的水晶，使它们适应你当前的武器
 CrystallineArsenalJavDesc	ÿc5造成 200% 武器伤害，每个分裂物造成一半的伤害\n发射一个巨大的冰枪，分裂成更小的冰刺，然后再次分裂\n当持有标枪时:
-CrystallineArsenalGenDesc	投射物根据持有的武器变化\n转换 50% 伤害至冰冷
+CrystallineArsenalGenDesc	\n投射物根据持有的武器变化\n转换 50% 伤害至冰冷
 DescWitchBlood2	(在 40-79% 生命时仅有一半效果)
 SkillnameCataclysm	灾厄 Cataclysm
 SkillsdCataclysm	ÿc0法术 - 在你周围投射一圈致命的火球
 SkillIceLance2	+1 投射物 - 每 
 DescSkillLevels	 技能等级
 DescProj	投射物: 
+SkillFrostbornSyn	+5% 准确率 - 每基础等级于〈冰冷〉技能树\n+1% 最大生命 - 每 100 精力 (最大 25%)
+SkillNameClearMind	整理思绪 (Clear Mind)
+SkillsdClearMind	法术 - 施展魔法涟漪覆盖整个地形，其威力源自你未使用的技能点。
+SkillDescClearMind	\n每 25 个未使用的技能点会获得额外的范围和命中率(hit rate)\n每个未使用的技能点都会呈指数级增加伤害

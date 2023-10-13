@@ -2100,9 +2100,9 @@ StrAutomapPing	Ping:
 12099	Scorpion Blade: Always Explodes, Max Range -25%
 12100	+1 Extra Target to Storm Crows
 12101	Summon Two Ancient Spirits per Cast
-12102	ÿc4Blessing of Karcheus\n\nÿc5Deals more damage towards the center\nStrike the ground in front of you, releasing a circle of ice blasts that shatter into smaller rings of ice bolts\nWhile holding a Spear:\n\nMain spike deals 200% weapon damage, each split deals halves damage\nLaunches a massive frozen spike that splits into smaller bursts, which split again into small spikes\nWhile holding a Javelin:\n\nÿc3+1 to Crystalline Arsenal
+12102	ÿc4Blessing of Karcheus\n\nÿc5Deals 50% Weapon Damage\nEnemies can trigger the mine prematurely upon contact\nbefore exploding into a rapid barrage of homing ice arrows\nFire an ice mine that slows to a halt a short distance in front of you \nWhile holding a Bow:\n\nDeals up to 2800% Weapon damage at the center\nStrike the ground in front of you, releasing an pulsing nova of cold\nWhile holding a Spear:
 12103	ÿc4Sacrificial Fervor\nÿc5After taking damage, Servants lose 10% of their life per second until they die\nInherits Fire Pierce from Elemental Wisdom twice\nDoubled Damage, Attack Speed, and Movement Speed\nÿc8Servants of Valor:
-12104	ÿc8Superposition and Blight do not disable elemental damage\nRegenerate Life: 75% of your Spell Focus per second
+12104	ÿc4A Blank Slate of Infinite Potential\n
 12105	
 12106	
 12107	
@@ -2118,7 +2118,7 @@ StrAutomapPing	Ping:
 12117	ÿc8Intimidating Shrine\n
 12118	ÿc8Magical Shrine\n
 12119	ÿc8Ornate Shrine\n
-12120	ÿc8Quiet Shrine\n
+12120	ÿc8Quiet Shrine
 12121	ÿc8Sacred Shrine\n
 12122	ÿc8Shimmering Shrine\n
 12123	ÿc8Spiritual Shrine\n
@@ -2185,3 +2185,4 @@ strHotkeydescEmote	Audio emote from your character that other players around you
 12184	Gain 65% of your Wolf Companion Base Damage as Flat Physical Damage\n+2% Fire, Cold and Lightning resistances per Wolf Companion Skill Level
 12185	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with a Xith rune to receive two quest entrance scrolls\nÿc4Infernal Machine (Heroic)\n
 12186	ÿc5Transmute in the cube after reaching Level 122\nDifficulty Level: 122\nÿc4Infernal Machine (Heroic)\n
+12187	\nÿc5Main spike deals 200% weapon damage, each split halves damage\nLaunches a massive frozen spike that splits into smaller bursts, which split again into small spikes\nWhile holding a Javelin:\n\nÿc3+1 to Crystalline Arsenal
