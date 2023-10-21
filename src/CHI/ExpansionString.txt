@@ -2898,8 +2898,8 @@ GiyuaChild	姬月守护者 Guardian of Giyua
 GiyuaEmissary	无形幻影 Unformed Phantasm
 BullPrinceRodeoMNX	公牛王子罗迪欧
 DarkStarDragonMNX	黑星龙
-DeathProjectorMNX	死亡发射器
-InfernalMachine	炼狱机械
+DeathProjectorMNX	死亡发射器 Death Projector
+InfernalMachine	炼狱机械 Infernal Machine
 DiabloMNX	迪亚波罗
 UlMemoRyX	伪装的艾迪伦
 DurielMNX	督瑞尔
@@ -4603,7 +4603,7 @@ SkillsdForceofNature	ÿc0光的路径伤害敌人\n增益 - 保护你并留下�
 SkillsdForceShout	ÿc0减益 - 弱化敌人的音波爆裂
 SkillsdManaShield	ÿc0增益 - 耗费奥术能量以保护你自己
 SkillsdFork	ÿc0unleashes multiple snaking discharges of electrical power
-SkillsdFrigidSphere	ÿc1requires a scepter or an orb\nÿc0法术 - 发出一道缓慢前进的冻结毁灭波
+SkillsdFrigidSphere	ÿc1需要一把权杖或一支法珠\nÿc0法术 - 发出一道缓慢前进的冻结毁灭波
 SkillsdFrostCTotem	ÿc0图腾 - 向附近敌人施放强烈的冰冷爆发
 SkillsdFrozenbreath	ÿc7(仅在〈龙之誓约〉期间生效)\nÿc0法术 - 以寒冬吐息冻结你的敌人
 SkillsdFrozenCrown	ÿc0ice missile that shatters on impact, damaging nearby enemies
@@ -6562,7 +6562,7 @@ DescAnimalComp2	〈稳定瞄准〉不会被消耗\nÿc3〈群落之心〉期间:
 DescAnimalCompSyn	不受仆从伤害属性影响\n仆从生命属性效果减半\n获得你的武器物理和元素伤害属性\n获得你的物理抗性
 DescFireHunterSyn	% 火焰伤害加成 - 每基础等级
 DescHeartseeker1	\nÿc3消耗〈稳定瞄准〉\n需要〈稳定瞄准〉
-DescSurvivalInstinct	打击时几率冻结一般敌人\n物理抗性 +10%
+DescSurvivalInstinct	打击时几率冻结一般敌人\n物理抗性 +20%
 DescSurvivalInstinct2	20% 的力量/敏捷加为冰冷伤害至武器
 DescDevotionWolf2	ÿc5所有其他专精将被锁定\n若你选择此项技能\nÿc8狼系专精技能 Wolf Devotion Skill\n
 DescDevotionBear2	ÿc5所有其他专精将被锁定\n若你选择此项技能\nÿc8熊系专精技能 Bear Devotion Skill\n
@@ -7725,7 +7725,7 @@ SkillsdLethalFocus	ÿc0被动 - 以最大格挡率为代价，提高你的致命
 SkillnameGalvanism	ÿc8流电 (Galvanism)
 SkillsdGalvanism	ÿc0升级 - 加强〈铁螺旋〉与〈雷鸣风暴〉
 SkillGalvanism1	铁螺旋: 角色等级超过 90 时，每 3 等级提高(技能)最大基础等级 1\n\n雷鸣风暴: 继承〈铁螺旋〉的闪电伤害加成
-SkillIronSpiralSyn	伤害加成以指数级提高 - 每基础等级
+SkillIronSpiralSyn	伤害加成以平方级提高 - 每基础等级
 SkillnameAncestralEndurance	ÿc8先祖的坚韧 (Ancestral Endurance)
 SkillsdAncestralEndurance	ÿc1需要 20 点投入至〈萨满〉系技能\nÿc0升级 - 使用〈魂灵撕裂〉后提高你的减伤
 SkillAncestralEndurance1	UNUSED
@@ -7905,12 +7905,12 @@ SkillColdBlooded2	造成你的 140% 的武器冰冷伤害\n转换你的火焰和
 wm02	反曲刀 (大师级)
 Maenad	酒神信徒 Maenad
 AthuluasBlessing	阿图卢阿的祝福
-UberButchersTooth	屠夫的牙齿 (英雄级)
-b60	ÿc;屠夫的牙齿 (英雄级)
+UberButchersTooth	屠夫的牙齿 The Butcher's Tooth (英雄级)
+b60	ÿc;屠夫的牙齿 The Butcher's Tooth (英雄级)
 virx	ÿc;胜利印记 (Mark of Victory)
-vrx1	ÿc4崔斯特姆地下的恐惧 (英雄级)
+vrx1	ÿc4崔斯特姆地下的恐惧 Horror Under Tristram (英雄级)
 ssx1	ÿc5任务物品\nÿc4召唤卷轴
-To The Uber Butcher	ÿc0难度: ÿc;非常困难\n\nÿc8+ 崔斯特姆地下的恐惧 (英雄级) +\n\nÿc0地城任务\nÿc4屠夫的巢穴
+To The Uber Butcher	ÿc0难度: ÿc;非常困难\n\nÿc8+ 崔斯特姆地下的恐惧 Horror Under Tristram (英雄级) +\n\nÿc0地城任务\nÿc4屠夫的巢穴
 uButcherRand	屠夫 (火焰冲击)
 SkillStampedeX	+2% 〈蛇姿态〉 伤害加成 - 每基础等级\n
 SkillStampedeXX	蛇形态在使用〈涌动〉之后短时间内增加伤害。\n
@@ -7979,9 +7979,9 @@ statExplanation mf	不影响像符文这样不具有品质属性的物品\n增�
 statExplanation slowt	当造成武器伤害时，减少目标的移动和攻击速度。对Boss有 25% 的上限
 statExplanation slowatt	当敌人攻击或者使用投射物攻击你时造成减速
 DPUberInfo	需要三名官员在附近才能进入维护模式
-vrx2	ÿc4死亡发射器 (英雄级)
-b61	ÿc;激光对焦水晶 (英雄级)
-To The Uber Projector	ÿc0难度: ÿc;非常困难\n\nÿc8+ 死亡发射器 (英雄级) +\n\nÿc0地城任务\nÿc4试验场
+vrx2	ÿc4死亡发射器 Death Projector (英雄级)
+b61	ÿc;激光对焦水晶 Laser Focus Crystal (英雄级)
+To The Uber Projector	ÿc0难度: ÿc;非常困难\n\nÿc8+ 死亡发射器 Death Projector (英雄级) +\n\nÿc0地城任务\nÿc4试验场
 SkillnameDeathlyEffigy	致命雕塑 (Deathly Effigy)
 skillsdEffigy	ÿc1需要一把弩\nÿc0陷阱 - 召唤一个恐怖的雕像，它发射环形子弹并撕碎附近的尸体
 DescEffigyInherit	继承你的物理伤害、准确率、力量和致命一击(DS)
@@ -8049,8 +8049,8 @@ DescManaShield2	 每抵挡 1 点伤害
 SkillnameEntanglement	ÿc8纠缠 (Entanglement)
 SkillsdEntanglement1	ÿc4闪电支配 - 需要 50 点投入至其他〈闪电〉系技能\nÿc1若你拥有点数于〈法力狂扫〉，你不可学习此技能\nÿc0升级 - 〈叠覆〉使你进入纠缠态
 SkillEntanglementSyn	+1% 法力恢复\n+0.5% 移动速度\n+1% 释法速度\n+0.1% 几率躲避伤害\n每 1 点投入到〈闪电〉系技能:
-vrx3	ÿc4炼狱机械 (英雄级)
-b62	ÿc;光学检测器 (英雄级)
+vrx3	ÿc4炼狱机械 Infernal Machine (英雄级)
+b62	ÿc;光学检测器 Optical Detector (英雄级)
 HoradrimValor	塔·拉夏的英勇 Tal Rasha's Valor
 HoradrimWisdom	塔·拉夏的智慧 Tal Rasha's Wisdom
 HoradrimTenacity	塔·拉夏的坚韧 Tal Rasha's Tenacity
@@ -8091,4 +8091,4 @@ DescProj	投射物:
 SkillFrostbornSyn	+5% 准确率 - 每基础等级于〈冰冷〉技能树\n+1% 最大生命 - 每 100 精力 (最大 25%)
 SkillNameClearMind	整理思绪 (Clear Mind)
 SkillsdClearMind	法术 - 施展魔法涟漪覆盖整个地形，其威力源自你未使用的技能点。
-SkillDescClearMind	\n每 25 个未使用的技能点会获得额外的范围和命中率(hit rate)\n每个未使用的技能点都会呈指数级增加伤害
+SkillDescClearMind	\n每 25 个未使用的技能点会获得额外的范围和命中率(hit rate)\n每个未使用的技能点都会呈平方级增加伤害

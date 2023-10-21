@@ -7,9 +7,18 @@ if [ -z "$1" ]
         exit 1
 fi
 
+# Check if type argument is provided
+if [ -z "$2" ]
+    then
+        echo "Please provide a type string as an argument"
+        exit 1
+fi
+
+
 # Construct download URL
 tag=$1
-mxlurl="https://get.median-xl.com/get.php?type=mxl_beta&tag=$tag&file=MXL.mpq"
+type=$2
+mxlurl="https://get.median-xl.com/get.php?type=mxl_$type&tag=$tag&file=MXL.mpq"
 langurl="https://github.com/Zahariel1942/MedianXL-Chinese/releases/latest/download/Release.zip"
 tmp=".tmp"
 

@@ -1075,7 +1075,7 @@ GemXp1	Gloves, Belts, Boots:
 GemXp2	Shields:
 GemXp3	Weapons:
 GemXp4	Armor:
-expansionchar2x	EXPANSION CHARACTER
+strCharSelectHardcoreCharacter	Hardcore Character
 x	Missing string
 EskillLowersResistX	Lowers Resistance 
 ExInsertSocketsX	Can be Inserted into Socketed Items
@@ -1905,7 +1905,7 @@ strPartyScreenAddFriend	Add Friend
 11904	+4-5 Damage per Hammer of Zerae Base Level
 11905	+2.5% Innate Elemental Damage per Wolf Stance Base Level
 11906	Shields: Fire Resist +30%\nArmor: 4% to Vitality\nWeapons: +10 Life after each Kill\n
-11907	Shields: Poison Resist +30%\nArmor: +2 Life Regenerated per Second\nWeapons: +5 to Maximum Damage\n
+11907	Shields: Poison Resist +30%\nArmor: +10 Life Regenerated per Second\nWeapons: +5 to Maximum Damage\n
 11908	Shields: Cold Resist +30%\nArmor: Cold Resist +20%\nWeapons: +8 Mana after each Kill\n
 11909	Shields: Lightning Resist +30%\nArmor: 5% to Energy\nWeapons: +10 Spell Focus\n
 11910	Shields: Elemental Resists +5%\nArmor: 5% to Strength\nWeapons: +3% to Spell Damage\n
@@ -2118,7 +2118,7 @@ StrAutomapPing	Ping:
 12117	ÿc8Intimidating Shrine\n
 12118	ÿc8Magical Shrine\n
 12119	ÿc8Ornate Shrine\n
-12120	ÿc8Quiet Shrine
+12120	ÿc8Quiet Shrine\n
 12121	ÿc8Sacred Shrine\n
 12122	ÿc8Shimmering Shrine\n
 12123	ÿc8Spiritual Shrine\n

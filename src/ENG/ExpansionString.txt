@@ -6562,7 +6562,7 @@ DescAnimalComp2	Steady Aim Cannot be Consumed\nÿc3During Heart of the Pack:\n
 DescAnimalCompSyn	Not Affected by Minion Damage Stats, half efficiency of Minion Life stats\nGains Your Weapon Physical and Elemental Damage Stats\nGains Your Physical Resistance
 DescFireHunterSyn	% Bonus Fire Damage per Base Level
 DescHeartseeker1	\nÿc3Consumes Steady Aim\nRequires Steady Aim
-DescSurvivalInstinct	Chance to Freeze Regular Enemies on Striking\nPhysical Resist +10%
+DescSurvivalInstinct	Chance to Freeze Regular Enemies on Striking\nPhysical Resist +20%
 DescSurvivalInstinct2	20% of Strength/Dexterity Added as Cold Damage to Weapon
 DescDevotionWolf2	ÿc5locked if you select this skill\nall other devotions will be\nÿc8Wolf Devotion Skill\n
 DescDevotionBear2	ÿc5locked if you select this skill\nall other devotions will be\nÿc8Bear Devotion Skill\n
@@ -7725,7 +7725,7 @@ SkillsdLethalFocus	ÿc0passive - increases your deadly strike at the cost of you
 SkillnameGalvanism	ÿc8Galvanism
 SkillsdGalvanism	ÿc0upgrade - empowers Iron Spiral and Thunderstorm
 SkillGalvanism1	Iron Spiral: Max Base Level increases by 1 per each 3 character levels above 90\n\nThunderstorm: inherits Iron Spiral's bonus lightning damage
-SkillIronSpiralSyn	Bonus damage increases exponentially per Base Level
+SkillIronSpiralSyn	Bonus damage increases quadratically per Base Level
 SkillnameAncestralEndurance	ÿc8Ancestral Endurance
 SkillsdAncestralEndurance	ÿc1requires 20 points in Shaman tree skills\nÿc0upgrade - increases your damage mitigation after using Spirit Reave
 SkillAncestralEndurance1	UNUSED
@@ -8091,4 +8091,4 @@ DescProj	Projectiles:
 SkillFrostbornSyn	+5% Attack Rating per Cold Tree Base Level\n+1% maximum Life per 100 Total Energy (maximum 25%)
 SkillNameClearMind	Clear Mind
 SkillsdClearMind	spell - conjure magical ripples accross the landscape, empowered by your unspent skill points
-SkillDescClearMind	\nGains additional radius and hit rate every 25 unspent skill points\nGains Exponentially more damage per unspent skill point
+SkillDescClearMind	\nGains additional radius and hit rate every 25 unspent skill points\nGains quadratically more damage per unspent skill point
